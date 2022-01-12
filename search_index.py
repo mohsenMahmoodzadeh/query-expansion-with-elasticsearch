@@ -76,7 +76,7 @@ def write(path, query, result):
 
 def query(simple_query):
     simple_search_results = search(simple_query)
-    path = '../simple_queries/'
+    path = './result/simple_queries/'
     write(path, 
         simple_query, 
         json.dumps(
@@ -90,7 +90,7 @@ def query(simple_query):
     
     expanded_query = expand(simple_query)
     expanded_search_result = search(expanded_query)
-    path = '../extended_queries/'
+    path = './result/extended_queries/'
     write(
         path, 
         simple_query, 
@@ -102,3 +102,10 @@ def query(simple_query):
             indent=1
         )
     )
+
+if __name__ == '__main__':
+    path = './simple_queries.txt'
+    simple_queries = open(path, 'r')
+
+    for q in simple_queries:
+        query(q)
