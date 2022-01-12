@@ -1,0 +1,223 @@
+{
+ "max_score": 17.884277,
+ "hits": [
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "7176",
+   "_score": 17.884277,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did News Media Incorrectly Report That Border Agents Separated a Girl from Her Mother?",
+    "author_name": "David Emery",
+    "date_published": "22 June 2018",
+    "rating": "Mixture",
+    "url": "https://www.snopes.com/fact-check/immigrant-girl-never-separated/",
+    "claim": "News media outlets misrepresented a photograph of a two-year-old migrant girl whose mother was arrested at the U.S-Mexico border as depicting an instance of family separation.",
+    "content": " Editor\u2019s Note: This article is an updated version of the original from 22 June 2018, which has been rewritten to better frame the issue, provide additional detail, and correct errors, omissions, or ambiguities in the previous version. In June 2018, as the controversy surrounding the Trump administration\u2019s \u201czero-tolerance\u201d immigration policy that led to more than 2,000 undocumented migrant children being separated from their parents grew to a fever pitch, a photograph of a sobbing, 2-year-old Honduran refugee came to stand, in the minds of many, for everything that was wrong with that policy. In the minds of others, however, it came to represent bias and dishonesty in the media, for although it wasn\u2019t clear at the outset whether the girl had actually been separated from her mother (it was eventually determined that she was not), the image was widely used to illustrate press coverage of the policy and dominated the news cycle for days. White House Press Secretary Sarah Sanders condemned the image\u2019s use in a 22 June tweet:  It\u2019s shameful that dems and the media exploited this photo of a little girl to push their agenda. She was not separated from her mom. The separation here is from the facts. Dems should join POTUS and fix our broken immigration system. #ChangetheLawshttps://t.co/Y6KrTp4Ulk \u2014 Sarah Sanders (@PressSec) June 22, 2018        The Daily Wire, among other pro-Trump web sites, objected that media organizations who published the image were attempting to score political points under false pretenses: [T]he media and the Democrats used the photo to try to portray the Trump administration as being heartless toward immigrants, specifically young children. Various individuals on the political Left then used the photo to score political points, either suggesting or stating as fact that she had been separated from her family. And even the mainstream Washington Post ran an opinion piece critical of what the author termed the \u201cmisleading\u201d use of the image: The implication was clear: This was a girl who, like 2,500 other children, was being separated from her mother. Time and many others made a decision to suggest that this was an example of Trump uprooting our American ideals. But that\u2019s not what it was. As The Washington Post\u2018s Samantha Schmidt and Kristine Phillips report, the girl\u2019s father says the child and her mother were never separated. U.S. Customs and Border Protection confirmed it, as did the Honduran deputy foreign minister. But while the implication that the child was separated from a parent was widespread, to call it misleading is to suggest that the outlets who ran the image knew all along that no such separation took place. Moreover, whether the girl was ultimately taken from her mother or not, the photograph documents a real instance of the enforcement of the zero-tolerance policy that could have led to separation. And although it was contextualized in terms of family separation from its earliest public iteration, the number of times news media organizations explicitly claimed that the photograph depicted a child being taken from her parent can be counted on one hand. The picture was snapped on 12 June 2018 by Getty Images photographer John Moore near McAllen, Texas, during a ride-along with Border Patrol agents as they took asylum seekers from Central America into custody. Moore posted the picture the next day on his personal Instagram page with commentary noting that the administration\u2019s zero-tolerance policy meant that children would be separated from their parents in detention:       A Honduran asylum seeker, 2, and her mother are taken into custody by federal agents near the US-Mexico border. They had just crossed the Rio Grande from Mexico and were to be transported to a US Customs and Border Protection processing center. The Trump administration\u2019s \u201czero tolerance\u201d policy for undocumented immigrants calls for the separation of parents and children while their cases for political asylum are adjudicated, a process that can take months \u2013 or years. As a father myself, this photograph was especially difficult for me to take. It is one from a series i took while on a ride-along with the Border Patrol in Texas\u2019 R\u00edo Grande Valley. #gettyimages #undocumented #gettyimagesnews A post shared by  John Moore (@jbmoorephoto) on Jun 13, 2018 at 10:48am PDT          The image went mainstream two days later (on 14 June) atop a GettyImages.com feature highlighting Moore\u2019s photographs of what was termed \u201csoon-to-be-separated migrant families\u201d under the title \u201cWhen the Government Takes Your Children.\u201d The text didn\u2019t indicate what ultimately happened to the girl and her mother, although Moore was quoted as saying he last saw them entering a transport van together. (The headline of the article was subsequently changed to \u201cThe Face of Zero Tolerance,\u201d and the phrase \u201csoon-to-be-separated\u201d was deleted. An editor\u2019s note said the article was updated \u201cto reflect new information regarding the government\u2019s policy as well as the families in these photos.\u201d) The image began turning up in national and regional news publications that same day. Among the first to use the image was the Houston Chronicle, which ran it in a 14 June story about immigrant detention centers above a boilerplate caption (presumably supplied by Getty) that would accompany the photograph in dozens more venues in the several days that followed, including the Baltimore Sun, Newsday, New York magazine, BuzzFeed News, and the web site of National Public Radio. The caption did not say that mother and daughter had been separated, but rather that they faced \u201cpossible separation\u201d at a U.S. Border Patrol processing center: A two-year-old Honduran asylum seeker cries as her mother is searched and detained near the U.S.-Mexico border on June 12, 2018 in McAllen, Texas. The asylum seekers had rafted across the Rio Grande from Mexico and were detained by U.S. Border Patrol agents before being sent to a processing center for possible separation. Other venues, while they did use the photograph to illustrate articles about family separation, made no specific claims about what it did or did not depict (these included the New York Times, the Chicago Tribune, ABC News, the Daily Beast, and Vanity Fair). Still other outlets went the opposite way, stating more than they knew. On 18 June, in a Business Insider article quoting John Moore on his feelings about taking the photograph, the author described it as depicting \u201can asylum-seeking young girl crying at a detention center as Border Patrol agents questioned her mother before separating them.\u201d On 19 June, the New York  Daily News featured the image in an article headlined \u201cPhotographer Describes Harrowing New Images Showing 2-Year-Old Girl Bawling as She\u2019s Separated from Mother at U.S. Border.\u201d       And, on 21 June, in a story recounting the genesis of what was undoubtedly the most controversial use of Moore\u2019s photograph \u2014 a TIME magazine cover juxtaposing the image of the diminutive migrant girl with that of a towering Donald Trump \u2014 the Washington Post described the subject matter of the original as \u201ca young girl crying as her mother was patted down by a Border Patrol agent before the two were separated.\u201d Compounding the Post\u2018s error was the fact that the Daily Mail Online (which itself had previously run a story describing the photograph as showing a \u201ccrying two-year-old asylum seeker being separated from her mom\u201d) published an interview with the girl\u2019s father that same day in which he denied that the mother and daughter were ever separated. Reuters followed up with their own interview with the father, Denis Valera, who said, again, that the two had been detained together, not separately. Honduras deputy foreign minister Nelly Jerez confirmed Valera\u2019s claims. The Post corrected their article as follows: Clarification: The initial version of this story said the child depicted on Time\u2019s cover had been separated from her mother, based on the magazine\u2019s account. As The Washington Post and others have since reported, the child was not separated from her mother during their encounter with a Border Patrol agent. The story has been updated. The TIME article referenced in the correction was published on 19 June. The magazine had issued a correction as well: Correction (Posted June 19): The original version of this story misstated what happened to the girl in the photo after she was taken from the scene. The girl was not carried away screaming by U.S. Border Patrol agents; her mother picked her up and the two were taken away together. By the time the truth about the image was sorted out, President Trump had signed an executive order calling a halt to family separations (though not to the underlying zero-tolerance policy that led to the separations). In addition to covering Trump\u2019s order and its implications for immigrant families, many of the news organizations that had previously run the photograph published reports setting the record straight about its content. It would be difficult to make the case that John Moore\u2019s gripping image did not play a crucial role in causing a reversal of the family separation policy. But it\u2019s just as difficult to make the case that its emotional impact derived from a misrepresentation of its content. As TIME\u2018s editor-in-chief, Edward Felsenthal, told CNN, \u201cNone of us in the media who used the photo knew what had happened to the girl after this precise moment. And I actually think part of the power of the image is that unknown.\u201d In an official statement, Felsenthal added: The June 12 photograph of the 2-year-old Honduran girl became the most visible symbol of the ongoing immigration debate in America for a reason: Under the policy enforced by the administration, prior to its reversal this week, those who crossed the border illegally were criminally prosecuted, which in turn resulted in the separation of children and parents. Our cover and our reporting capture the stakes of this moment. ",
+    "category": "Politics",
+    "tags": [
+     "family separation",
+     "immigrant children",
+     "viral images"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "1651",
+   "_score": 17.496933,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Is This an Authentic Photo of Submerged Roman Mosaics in Turkey?",
+    "author_name": "Madison Dapcevich",
+    "date_published": "17 May 2021",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/submerged-roman-mosaic-turkey/",
+    "claim": "Photographs that circulated online in May 2021 showed 2,000-year-old Roman mosaics submerged in Zeugma, Turkey. ",
+    "content": " Social media posts that circulated online in mid-May 2021 claimed to show 2,000-year-old Roman mosaics partially submerged in the Euphrates River near Zeugma, Turkey, prompting social media users to speculate whether the vibrantly hued ancient tiles were authentic.  A reverse-image search of photographs of the mosaics showed that the while the pictures had gone viral on Reddit in May 2021, with nearly 100,000 upvotes as of this writing, posts had been shared to Tumblr as early as July 2020.   The ancient Greek city of Zeugma dates back to the third century and is located in the southeastern region of Turkey. Its name translates literally to \u201cbridge\u201d or \u201ccrossing\u201d in ancient Greek, a name that was given to describe the city\u2019s location at a major ancient crossing point on the Euphrates River, according to the World Heritage Convention (WHC). As of this writing, the city is on the tentative list of world heritage sites due to its rich archaeological history and historical significance \u2014 and its unique mosaics.  \u201cZeugma mosaics are a unique collection of pictorial art reflecting private taste in a cosmopolitan city in the Hellenistic and Roman East. The figural mosaics include unique pictorial renderings of ancient literature and mythology,\u201d wrote the WHC.        Mosaics in the Roman houses date to the second and third centuries and depict scenes of Greek and Greco-Roman mythologies that reflect \u201cprivate taste in a cosmopolitan city.\u201d The first scientific excavations of Zeugma began in 1987 and continue to this day. The mosaic in question was uncovered at the turn of the 21st century, between 2000 and 2003, according to a video shared to YouTube by the Ministry of Culture of Turkey. It can be viewed just after the 5:30 mark in the video below:      In May 2000, the nearby Birecik Dam flooded the ruins where the photographed mosaics were located, prompting an emergency excavation of the ruins complete with 60 archaeologists, 200 workers, and $5 million, noted Turkish Archaeology News. \u201cOf particular concern was the removal of Zeugma\u2019s mosaics, some of the most extraordinary examples to survive from the ancient world. Soon the world\u2019s top restorers arrived from Italy to rescue them from the floodwaters,\u201d wrote the Archaeological Institute of America. The photograph in question was originally shared on Instagram in July 2019 by archaeologist Ali Korkmaz, who wrote in a caption that it was taken after waves revealed the mosaic during the Zeugma rescue excavations in 2000.                 View this post on Instagram                        A post shared by Ali Korkmaz (@alizeugma2006)    Though the video did not offer a specific explanation of the Zeugma mosaic, it was shown during a restoration program targeted at conserving a more than 9,100-square-foot area of another mosaic. The project excavated the mosaics for restoration at the Zeugma Mosaic Museum, where they are presumably stored today.  ",
+    "category": "History"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "3011",
+   "_score": 17.266634,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did KFC Honor Black History Month With This Tweet?",
+    "author_name": "Alex Kasprak",
+    "date_published": "4 February 2021",
+    "rating": "Mostly False",
+    "url": "https://www.snopes.com/fact-check/kfc-black-history/",
+    "claim": "KFC's main Twitter account honored Black History Month using an image of fried chicken casting a shadow in the shape of a Black power fist.",
+    "content": " In early February 2021, a purported tweet from KFC began spreading on social media. Featuring an image of fried chicken casting a shadow in the shape of a black power fist, the tweet allegedly read \u201cI hear you, I see you and I stand with you #BlackHistoryMonth.\u201d  This is a manipulated image showing something that KFC never tweeted. However, the image does have its origins in a problematic KFC advertisement. The image was originally created to honor Emancipation Day and shared from the verified Instagram account of KFC Trinidad &amp; Tobago. Celebrated at the beginning of August in many Caribbean nations, the holiday commemorates the legal end of slavery in the British Colonies. The ad drew widespread backlash and derision at the time, and the account later deleted the post and apologized.   Because a KFC-related entity did create the fried chicken black power fist artwork in August 2020, but because the image of the viral tweet is fake, we rank the claim \u201cMostly False.\u201d ",
+    "category": "Racial Rumors"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "13650",
+   "_score": 15.605752,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Instagram Cancellation Hoax",
+    "author_name": "David Mikkelson",
+    "date_published": null,
+    "rating": null,
+    "url": "https://www.snopes.com/fact-check/instagram-cancellation-hoax/",
+    "content": "  Claim:   Instagram is overloaded and is about to cancel the accounts of users who don\u2019t follow the instructions in a posted message.  FALSE        Examples:   [Collected via e-mail, March 2014]           Origins:   A common form of hoax perpetrated on Internet users since the late 1990s is the claim that some particular popular free service, whether it be Gmail, Facebook, YouTube, or the like, is \u201coverloaded\u201d or \u201closing money\u201d or experiencing some other crippling technical crisis that  requires them to purge the accounts of users unless those account holders follow the instructions contained in a particular message, typically directing them to forward or repost that message.  In March 2014 the popular online photo-sharing site Instagram was the latest target of this perennial jape.  (See our primary article on the history of this hoax.)       The bottom line is that it\u2019s the same leg-pull no matter which e-mail, instant messaging service, or social networking site is mentioned, how authoritative the signature appears to be, or how fancy the visual presentation of the exhortation to forward the letter to all your buddies.  Last updated:   6 March 2014   Sources:        Reuters.   \u201cFake E-Mail Threatens to Cut Microsoft Hotmail Users.\u201d      The New York Times.   1 July 2000.    ",
+    "category": "Computers",
+    "tags": [
+     "ASP Article",
+     "internet"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "3006",
+   "_score": 15.472054,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Are Photos of John F. Kennedy\u2019s Bloody Shirt Real?",
+    "author_name": "Jordan Liles",
+    "date_published": "8 December 2021",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/kennedy-bloody-shirt/",
+    "claim": "Photographs show former U.S. President John F. Kennedy's bloodstained shirt from the day he was assassinated.",
+    "content": " On April 21, 2021, the @creepymania_ TikTok account posted a video that purportedly showed a photograph of former U.S. President John F. Kennedy\u2019s bloody shirt from the day he died. He was assassinated on Nov. 22, 1963, while riding in a car in Dallas, Texas.   @creepymania_  #creepy #fyp  \u266c Scary \u2013 Background Sounds       The video was viewed more than 1 million times. Its caption read: \u201cJohn F. Kennedy\u2019s bloodstained shirt he was wearing the day he was assassinated in 1963.\u201d It\u2019s true that the picture shows Kennedy\u2019s bloody shirt from the day he died.       We found several matching photographs on Getty Images that were credited to the National Archives. The TikTok video showed the back of Kennedy\u2019s bloody shirt:  We also found a picture of the front of the shirt:  A third image on the Getty Images website showed what was described as Kennedy\u2019s bloody and \u201cbullet-riddled shirt\u201d:  In 2019, Kennedy\u2019s bloody shirt made the news after a hoax went around that claimed reality TV show star Kim Kardashian had gifted the item to one of her children, North. This was not true. At the time, People.com reported: Kim Kardashian West is setting the record straight on whether or not she gifted her 6-year-old daughter North former President John F. Kennedy\u2018s bloody button-down shirt for Christmas. On Monday, a fan on Twitter called out Refinery29 after the media outlet published a report, which included a photo originally believed to be from the reality star\u2019s Instagram Stories depicting the shirt, which JFK assumably wore on the day he was assassinated in 1963. \u201cI AM SCREAMING someone tweeted as a joke that Kim Kardashian gifted North JFK\u2019s bloody shirt and Refinery29 wrote about it as if it were true????\u201d the fan wrote on Twitter alongside a grab of the article, highlighting the excerpt \u201cWhat is North West going to do with JFK\u2019s bloody shirt? And why isn\u2019t it in a museum?\u201d       Kardashian tweeted that the rumor was \u201cfake\u201d and a \u201csick joke.\u201d  WOW this is obviously fake! @Refinery29 I did not get JFK\u2019s shirt. That is a sick joke that someone tweeted as a fake ig story that I never posted. https://t.co/fajEtOrlqU \u2014 Kim Kardashian West (@KimKardashian) December 31, 2019  Also related to Kennedy\u2019s assassination, we found reporting from 2013 where the Houston Chronicle and The Associated Press chronicled another bloody shirt. This one belonged to Texas Gov. John Connally, who was also injured by the gunfire.  John Connally's suit and bloody shirt from Dallas on display in lobby of State Archives #jfk50 pic.twitter.com/gUel0oMhuy \u2014 Aman Batheja (@amanbatheja) November 20, 2013  At the time, Connally\u2019s shirt was set to go on exhibit to mark the 50th anniversary of the assassination: \u201cIt makes an impact, it\u2019s pretty dramatic and it kind of gives you pause,\u201d Sarah Norris, conservator at the Lorenzo de Zavala State Archives and Library [\u2026] \u201cIt creates the sense of immediacy about what happened that day.\u201d John Anderson, preservation officer at the archives, said the display tells an important aspect of a well-known story. \u201cFor Texans, this is something that maybe gets forgotten by some of the rest of the world, that Gov. Connally was shot at the same time,\u201d he said, noting that Connally\u2019s chest wound could have been fatal. Connally was \u201cseriously wounded\u201d but survived the ordeal. He later died in 1993. Sources:   \u201cConnally\u2019s Bloodied Shirt Vivid Image of JFK Assassination.\u201d Houston Chronicle, 16 Oct. 2013, https://www.houstonchronicle.com/news/houston-texas/texas/article/Connally-s-bloodied-shirt-vivid-image-of-JFK-4898763.php.     Hargrove, Channing. Kim Kardashian Gave North West The Most Surprising Vintage Items For Christmas. https://www.refinery29.com/en-us/2019/12/9113238/kim-kardashian-west-jfk-bloody-shirt.     \u201cKim Kardashian Responds to Report She Gave North JFK\u2019s Shirt: \u2018I Never Posted\u2019 That.\u201d People.Com, https://people.com/tv/kim-kardashian-responds-report-she-gave-north-jfk-shirt/.   \u201cThe Shirt Worn by John F. Kennedy on the Day He Was Assassinated Is\u2026\u201d Getty Images , National Archives, https://www.gettyimages.com/detail/news-photo/the-shirt-worn-by-john-f-kennedy-on-the-day-he-was-news-photo/576878076.    ",
+    "category": "Politics",
+    "tags": [
+     "john f. kennedy",
+     "TikTok Rumors"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "1407",
+   "_score": 15.364914,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Do All Residents of Whittier, Alaska, Live in This One Building?",
+    "author_name": "Madison Dapcevich",
+    "date_published": "7 June 2021",
+    "rating": "Mostly True",
+    "url": "https://www.snopes.com/fact-check/whittier-alaska-residents-building/",
+    "claim": "A photograph shows a 14-story apartment building known as the Begich Towers where every resident of the remote town of Whittier, Alaska, lives.",
+    "content": " Like most cities in Alaska, the seaside town of Whittier, Alaska, is remote and difficult to access even in the best of conditions. With far-reaching mountains to the north and the Gulf of Alaska to the south, the only way Whittier\u2019s 300 residents can leave is either by boat or by way of a 2.5-mile combined vehicle-railroad tunnel that only operates during certain times of the day.  As small as the town is, its housing infrastructure is even more limited. That\u2019s because every resident of Whittier lives in one of two buildings, a city of Whittier spokesperson told Snopes.  The unique living situation first went viral in May 2021 when CBS News reported that the 14-story Begich Towers apartment building was home to a majority of the town\u2019s residents, a potentially problematic issue given COVID-19 social distancing and quarantine measures. And in June, the Instagram account facts4bright shared a meme that claimed all residents lived in the same building \u2014 which is not quite true.                 View this post on Instagram                        A post shared by FACTS (@facts4bright)    In a phone call with the city of Whittier, Snopes learned that between 80% and 90% of the 300 or so residents live in the 196-apartment Begich Towers, while the remainder of residents live in a second condo building. As such, we rate this claim as \u201cMostly True.\u201d Begich Towers has as unique a modern history as does the town of Whittier itself. During World War II, the town was selected by the military as the site for logistical support for the war effort in Alaska. Anton Anderson Memorial Tunnel \u2014 so named for the man who designed it \u2014 provides access to the city from more urban areas like Anchorage and Seward, while a deep-water port allowed large naval ships to access other regions of the state by way of the Gulf of Alaska. To house the newly stationed residents and their families, the Army Corps of Engineers constructed the \u201cHodge building\u201d in 1943, according to the Begich Towers informational page. In March of 1974, the \u201cHodge Building\u201d was officially renamed Begich Towers in remembrance of Congressman Nick Begich after he was killed in a private plane crash two years earlier. At this time, it was also formed into a condominium association that has been operating it since.  ",
+    "category": "Fauxtography"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "11664",
+   "_score": 14.974356,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "FALSE: Pope Francis Shares Instagram Selfie",
+    "author_name": "Kim LaCapria",
+    "date_published": "14 December 2015",
+    "rating": null,
+    "url": "https://www.snopes.com/fact-check/pope-francis-shares-instagram-selfie/",
+    "claim": "Pope Francis uploaded a selfie to the Vatican's Instagram account.",
+    "content": " On 14 December 2015, multiple web sites carried news of what was purportedly Pope Francis\u2019 \u201cfirst selfie\u201d (published to an Instagram account that appeared to belong to the Vatican):    @catholicworld #popeFrancis #papaFrancesco #papaFrancisco #papstFranziskus #papeFran\u00e7ois #\u043f\u0430\u043f\u0430\u0444\u0440\u0430\u043d\u0446\u0438\u0441\u043a A photo posted by VATICAN.VA (@vatican__) on Dec 14, 2015 at 2:15am PST   Among outlets sharing the Papal selfie was CNN; video of that brief coverage was captured by a separate Twitter account:  .@Pontifex posts on Instagram \u2014 be honest, have you seen a better selfie? https://t.co/ZxAnvYl12F \u2014 New Day (@NewDay) December 14, 2015        While the claim was believable given Pope Francis\u2019 reputation for being progressive and technologically adept, it was ultimately false. The image (not a \u201cselfie\u201d in the strictest \u201cself-taken\u201d sense) appeared to have been captured from a video chat between Pope Francis and young Catholics around the world. At roughly the 01:23 mark of the video, a nervous young man can be seen inadvertently reading aloud a directive not to get nervous. In turn, His Holiness laughed:  The web site Mashable confirmed with the Vatican that the Pope neither maintained nor was involved with the Instagram account that published the fake selfie. Previous rumors attached to the Pope falsely held that he said it was not necessary to believe in God, that he declared all religions were \u201ctrue,\u201d that he officially endorsed Bernie Sanders, that he did an impressive magic trick involving a tablecloth, that he revised Catholic doctrine to permit fornication, and that he stated beloved pets go to heaven.  ",
+    "category": "Fauxtography",
+    "tags": [
+     "hoaxes",
+     "instagram",
+     "politics"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "7967",
+   "_score": 14.841807,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Was Parkland Student Chris Williams Shot While Saving Classmates?",
+    "author_name": "Kim LaCapria",
+    "date_published": "19 February 2018",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/chris-williams-parkland/",
+    "claim": "Image depicts high school senior Chris Williams, shot nine times while protecting fellow students, leaving him in critical condition.",
+    "content": " Shortly after a gunman in claimed the lives of 17 people in a school shooting in Parkland, Florida, in February 2018, readers began asking whether a story about Chris Williams, a purported student wounded while shielding classmates during the shooting, was true. The origin of the story appears to be a 15 February Facebook post, which has since been deleted:  It is true that a student was shot while saving his classmates by closing and locking a door so that the gunman couldn\u2019t get to them (which contradicts the false story that students were trapped \u201cafter teachers locked doors\u201d). His name is Anthony Borges. According to several reports, he was initially in critical condition after the shooting, but his condition has stabilized as of this writing. A school coach and a security guard also died while trying to save students.  The story about Chris Williams, on the other hand, is not true.  Even after the original post was deleted, copied and pasted versions of the claim continued to circulate. Yet, no news stories mentioned a student named Chris Williams injured in the Parkland shooting, nor did any describe his heroic actions.       The image of the young man in the photograph likely originated on his Instagram account, where another image shows him in the same setting, viewed from a different angle. The photograph used in the viral Facebook post has also appeared on other web sites.  A woman claiming to be the grandmother of the person in the viral post said the story was not true \u2014 both in comments on a copied and pasted version of the post and on her own timeline:   In a separate post on a separate Facebook account, the person depicted in the photograph reiterated that he was in fact alive (and his name was not \u201cChris Williams\u201d):  ",
+    "category": "Fauxtography",
+    "tags": [
+     "like farming",
+     "parkland school shooting",
+     "viral facebook posts"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "13116",
+   "_score": 14.679066,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Raven Symone Files Molestation Charges Against Bill Cosby",
+    "author_name": "David Mikkelson",
+    "date_published": null,
+    "rating": null,
+    "url": "https://www.snopes.com/fact-check/thats-so-craven/",
+    "content": "  Claim: Raven Symone said Bill Cosby \u201cdrugged and raped\u201d her after The Cosby Show\u2018s last episode.  FALSE        Example:   [Collected via e-mail, November 2014]  Did Raven Symone accuse Bill Cosby of molesting her?      Origins:   On 17 November 2014, the web site Hip-Hop Hangover published an article claiming former child star Raven Symone (whose career began on The Cosby Show) had \u201cfiled molestation charges\u201d against Bill Cosby. According to the article Symone \u201crevealed to the TMZ offices\u201d she had been \u201craped and drugged years ago following the show\u2019s last episode,\u201d and Hip-Hop Hangover\u2018s report included quotes attributed to Symone\u2019s lawyer:   We among so many others are tired of the media worshipping and praising a man that has a past so terrible that it is unbelievable. My client (Raven-Symone) is also ready to tell her side of the story. A side that was kept quiet because of threats from being blackballed. There was no monetary compensation that made my client keep quiet, but more so the respect for Mr. Cosby. Well that respect has come to an end. And what we thought was a mistake or anomaly has surfaced to become a lifestyle. We will be pursuing damages that are not going to be disclosed at this time.         Raven Symone was a mere six years old when The Cosby Show\u2018s series finale aired in 1992, making the article\u2019s claim particularly upsetting to many readers, and due to controversial rape accusations against Cosby that have been featured in news headlines in recent weeks, the story seemed plausible to many readers.  However, Hip-Hop Hangover is one of many fake news sites on the Internet, as evidenced by the site\u2019s disclaimer:   Hip Hop Hangover is a Gossip parody and satirical publication and for entertainment purposes only.   On 19 November, the reach of the fake news article prompted Raven Symone to issue a short statement via her Instagram account refuting the rumor and imploring the media to exempt her from the larger conversation about Cosby:   I was NOT taken advantage of by Mr. Cosby when I was on the Cosby Show! I was practically a baby on that show and this is truly a disgusting rumor that I want no part of! Everyone on that show treated me with nothing but kindness. Now keep me out of this!          I was NOT taking advantage of by Mr. Cosby when I was on the Cosby Show! I was practically a baby on that show and this is truly a disgusting rumor that I want no part of! Everyone on that show treated me with nothing but kindness. Now keep me out of this! A photo posted by Raven-Symone` (@ravensymonecp) on Nov 11, 2014 at 2:20pm PST         Last updated:   19 November 2014   --> ",
+    "category": "Media Matters",
+    "tags": [
+     "ASP Article",
+     "Not Necessarily The News"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "572",
+   "_score": 14.263552,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Yes, \u2018The Conjuring\u2019 House Is up for Sale at $1.2 Million",
+    "author_name": "Bethania Palma",
+    "date_published": "25 September 2021",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/conjuring-house/",
+    "claim": "The allegedly haunted house that the 2013 horror movie \"The Conjuring\" is based on is up for sale.",
+    "content": " In mid-September 2021, a strange listing hit the website belonging to Mott &amp; Chace Sotheby\u2019s International Realty, a Rhode Island real estate company. The farmhouse upon which the 2013 horror movie \u201cThe Conjuring\u201d is based on is on the market for $1.2 million, and as The Wall Street Journal reports, its current inhabitants maintain it is truly haunted. According to the Sotheby\u2019s website, the 14-room farmhouse in the Harrisville community of Providence County was built in 1836. It sports hardwood flooring, one full and one half bathroom, parkings spaces for four cars, and sits on 8.5 acres. Aside from that, it\u2019s rumored to be \u201chaunted by the presence of Bathsheba Sherman, who in the 1800\u2019s lived in the house,\u201d the listing states. According to The Wall Street Journal, the home\u2019s current owners, Jenn and Cory Heinzen, purchased the property in 2019 and upon moving in both witnessed a \u201cfull-bodied black apparition\u201d peering at them from a doorway. However, they describe the presence they sense in the home as more curious than malevolent. The Heinzens started a business at the home, renting it out to ghost hunters, and are hoping for a buyer who will continue to run the business. Pictures from the home\u2019s listing, posted on Instagram by The Journal, show a rambling house with a cozy, cabin-looking interior \u2014 with nods to its spooky history. An aerial photograph of the house shows it\u2019s in a clearing in the woods.                View this post on Instagram                        A post shared by The Wall Street Journal (@wsj)          The movie \u201cThe Conjuring\u201d is based on the accounts of a family that lived there in the 1970s and had a series of terrifying experiences. The family, the Perrons, had sought the help of paranormal investigators Ed and Lorraine Warren. The house was reportedly built in 1736, but didn\u2019t show up in records until 100 years later. Although the movie is based on the rumor that the house was haunted by the spirit of a witch named Bathsheba Sherman, the Heinzens said they haven\u2019t found any evidence that the story attributed to her in the movie is true. According to The Journal, the couple \u201cbelieve the ghosts derive from King Philip\u2019s War, fought between Native American tribes and English immigrants in the area from 1675 to 1676.\u201d  Sources: Mailman, Erika. \u201c\u2018The Conjuring\u2019 House Is Asking $1.2 Million (Spirits Included).\u201d Wall Street Journal, 23 Sept. 2021. www.wsj.com, https://www.wsj.com/articles/the-conjuring-house-for-sale-11632402253. \u201cThe Conjuring: The True Story Behind The Perron Family.\u201d ScreenRant, 27 Jan. 2020, https://screenrant.com/conjuring-movie-true-story-perron-family-explained/. ",
+    "category": "Entertainment",
+    "tags": [
+     "Entertainment"
+    ]
+   }
+  }
+ ]
+}

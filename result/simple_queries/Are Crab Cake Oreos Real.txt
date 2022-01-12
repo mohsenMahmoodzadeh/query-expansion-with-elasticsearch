@@ -1,0 +1,220 @@
+{
+ "max_score": 38.372616,
+ "hits": [
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "1093",
+   "_score": 38.372616,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Are Crab Cake Oreos Real?",
+    "author_name": "Dan Evon",
+    "date_published": "13 October 2020",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/crab-cake-oreos-real/",
+    "claim": "An image shows a genuine \"Crab Cake Oreos\" product. ",
+    "content": " In October 2020, an image started circulating on social media that supposedly showed a new flavor of Oreo cookies: crab cake.   These Crab Cake Oreos (complete with tartar sauce cream filling) are not a genuine flavor of Oreo cookies. This image was created by a social media users with a penchant for producing fake (and, one might argue, disgusting) products.  This image was originally posted to the @Hollow.Foods Instagram page in May 2020. This Instagram page writes in its bio that it creates products for the \u201cworlds worst grocery store.\u201d So far, Hollow.Foods has imagined ill-advised products such as toothpaste-flavored ice cream bars called Cresticles, cobweb filled \u201cspooky\u201d Hot Pockets, spam-flavored Pop Tarts, a \u201cpresidential\u201d orange soda, and a ham water scented candle. This page has also produced a second fictional Oreo flavor: Buffalo chicken wings. While the origins of this image make it pretty clear that these Crab Cake Oreos are a fake product, we sheepishly reached out to Mondelez International, the company that manufacturers Oreo cookies, for confirmation.  A spokesperson told us: \u201cI can confirm that this is not a real OREO cookie flavor.\u201d While these Crab Cake Oreos are not real, there have been some interesting Oreo cookie flavors released over the years, such as lemon, pistachio, carrot cake, and mint. ",
+    "category": "Food"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "1094",
+   "_score": 33.841694,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Do Oreos Have Lady Gaga-Themed Cookies?",
+    "author_name": "Bethania Palma",
+    "date_published": "29 January 2021",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/lady-gaga-oreo/",
+    "claim": "Oreos have a new Lady Gaga-themed cookie.",
+    "content": " On Jan. 28, 2021, the sandwich cookie brand Oreo announced a limited-edition cookie flavor honoring pop music icon Lady Gaga.  The news you\u2019ve all been waiting for (and we couldn\u2019t wait to reveal \ud83d\ude2d)\u2026 OREO x LADY GAGA packs drop today! \ud83c\udfa4\ud83c\udfb6 pic.twitter.com/OPdkueC45h \u2014 OREO Cookie (@Oreo) January 28, 2021  The cookies, as can be seen in the image above, are pink with bright green filling. According to the food blog Eater, they are vanilla flavored and are inspired in design by her May 2020 \u201cChromatica\u201d album. New Oreo flavors are a periodic internet fixation and sometimes they are also the subject of hoaxes. No, crab cake-flavored Oreos aren\u2019t real. Neither are spam Oreos, chicken Oreos, or Graeter\u2019s Black Raspberry Chocolate Chip flavor. No, the cookies don\u2019t carry a secret, conspiratorial message on the outside. But Swedish fish-flavored Oreos were real. So were Waffles &amp; Syrup flavored cookies. ",
+    "category": "Food"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "1073",
+   "_score": 31.754202,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Yes, Oreo Is Launching These New Flavors",
+    "author_name": "Jessica Lee",
+    "date_published": "9 July 2021",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/oreo-flavors/",
+    "claim": "On July 8, 2021, Oreo announced two new limited-edition flavors: \"Salted Carmel Brownie\" and \"Apple Cider Donut.\"",
+    "content": " On the morning of July 8, 2021, the official Twitter account representing Oreo \u2014 the Nabisco-owned company that makes the popular sandwich cookie \u2014 said it would soon reveal a new flavor that it described as \u201csavory, sweet, rich and irresistible.\u201d  Shortly later, the internet lit up with images and descriptions of not one, but two new alleged products: \u201cSalted Carmel Brownie\u201d and \u201cApple Cider Donut\u201d each with ingredients that would make the classic wafer, creme-filled cookie taste like those sweets. And, according to Food &amp; Wine \u2014 a reputable source of culinary trends and new products \u2014 those reports were correct. The publication said: Oreo has two new limited-edition flavors lined up for this summer, and both are expected to hit stores soon. [\u2026] The first, Salted Caramel Brownie, features two layers of creme \u2014 caramel and brownie, of course \u2014 and sprinkled salt on top of the cookie. This marks the first time Oreo has ever sported a topping, and hopefully that means more topped Oreos are on the horizon. The second, Apple Cider Donut, sandwiches apple cider-flavored creme between two golden (so vanilla) Oreos, and looks specifically manufactured for the people who can\u2019t wait for fall.       Packages of \u201cSalted Carmel Brownie\u201d Oreos would be available in the coming weeks, in July, while the \u201cApple Cider Donut\u201d flavor would not reach shelves until August, an Oreo spokesperson told Best Products, a media site designed to help consumers. Both types of limited-edition Oreos will only be available while supplies last, Food &amp; Wine reported.  As we\u2019ve stated previously, Oreo flavors are a periodic internet fixation and sometimes they are also the subject of hoaxes. No, crab cake-flavored Oreos aren\u2019t real. Neither are spam Oreos, chicken Oreos, or Graeter\u2019s Black Raspberry Chocolate Chip flavor. But Swedish fish-flavored Oreos existed at one point. So did Waffles &amp; Syrup flavored cookies.  See below for more Snopes fact checks about Oreo cookies:  Do Oreo Cookies Carry a Secret Message? Did Oreo Tweet \u2018Eat the Rich\u2019? Do Oreos Have Lady Gaga-Themed Cookies?  ",
+    "category": "Food"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "12933",
+   "_score": 22.52413,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Red Velvet Oreos for Valentine\u2019s Day?",
+    "author_name": "David Mikkelson",
+    "date_published": null,
+    "rating": null,
+    "url": "https://www.snopes.com/fact-check/red-velvet-oreos/",
+    "content": "  Claim:   Nabisco is producing Red Velvet Oreos for Valentine\u2019s Day 2015.   TRUE        Example:   [Collected via Twitter, October 2014]   So where can you find those red velvet Oreos ? \u2014 King Daddy Alexander (@FameAdventura) October 21, 2014   Yo if those red velvet oreos actually exist, I tap out son. That's it. I quit the health game. I will consume entire packages. \u2014 Chinita \u00e2\u009d\u00a4 (@meowgusta) October 21, 2014       Origins:    Nabisco has released several interesting seasonal varieties of Oreo brand cookies in recent years (e.g., Pumpkin Spice, Candy Corn, Watermelon); and according to an October 2014 viral photo, Red Velvet Oreos was to be the next variation to hit store shelves.  Nabisco had not made any official announcement regarding Red Velvet Oreos at the time, but the Internet was convinced that the new flavor would hit store shelves in time for Valentine\u2019s Day 2015.  The rumor started on Twitter when user @ChevroletGirl posted a purported photo of the new packaging, claiming she received her Red Velvet Oreos from a friend who works at Nabisco:          Hey @kcmoore51 my nabisco rep friend just sent me this pic.twitter.com/IdK31En6DP \u2014 Down Home Girl (@chevroletgirl) October 18, 2014  It was be easy to dismiss this picture as a one-off Photoshopped image, but soon another photo of the packaging popped up on the Internet:    Dear @Oreo, is this real? Inquiring minds and red velvet lovers everywhere wanna know. Will await your reply. pic.twitter.com/PSYzuiWom1 \u2014 Awesomely Luvvie (@Luvvie) October 20, 2014  So were the Red Velvet Oreos real? Rumors of the Valentine\u2019s Day treat were not confirmed by an official announcement from Nabisco, and on 21 October 2014 a group of marketing students from Texas State University claimed they were the ones who created the viral photos:       Post by Red Velvet Oreo.         The Facebook page created by the students for the cookie dated to February 2014 and was filled with various fake ads for Red Velvet Oreos:       Post by Red Velvet Oreo.      Post by Red Velvet Oreo.   The fake Red Velvet Oreos Facebook page seemed like damaging evidence to this rumor, but the October 2014 viral photo did not originate on that Facebook page. Which brought us back to square one: Was Nabisco planning to release Red Velvet Oreos?  All of the evidence pointed to this being a hoax.  We knew that a group of student marketers had been creating Red Velvet Oreo ads since February 2014. We knew that the rumor started from an unvetted source. We also knew that Nabisco had not made any official statement confirming the forthcoming release of Red Velvet Oreos, and neither their web site nor that of any food retailer included a listing for such a product.  Also, if you had a good memory for Oreo hoaxes, you might recall that the Internet had been fooled by these Butterbeer Oreos in August 2014:   Finally, Nabisco themselves disclaimed this rumor:         Nabisco representatives said there is no red velvet product coming soon. They said these kinds of Internet suggestions pop up all the time, and sometimes they do eventually become reality. However, red velvet Oreos are not reality yet.   As we noted at the time, although Nabisco hadn\u2019t acknowledged working on Red Velvet Oreos at the moment, due to the hype surrounding the flavor we thought it wouldn\u2019t be surprising to see the company turn these cookies into a reality in the near future whether or not they already had plans in the works to do so.  Sure enough, on 19 January 2015 Nabisco began teasing the release of Red Velvet Oreos via social media and followed up with the statement that \u201cIt\u2019s really really real!\u201d:   It\u00e2\u20ac\u2122s really really real! Enter for a chance to win #RedVelvetOreo flavor cookies at http://t.co/TjM4EcHQVs pic.twitter.com/SeuSZrCQ4H \u2014 Oreo Cookie (@Oreo) January 20, 2015  \u201cWe\u2019ve seen consumers really getting fanatical about the flavor of red velvet cake,\u201d Janda Lukin, senior director for Oreo North America said. \u201cWe think it stays true to who we are as Oreo but can also really satisfy those folks who are red velvet fanatics.\u201d The new Oreos, made with red cookies and cream cheese-flavored filling, will be released across the U.S. on 2 February 2015 and will be available for at least six weeks (or while supplies last):       Last updated:   20 January 2015   Sources:   &nbsp; &nbsp; Logana, Dan. &nbsp; \"Asked and Answered: Are Red Velvet Oreos Real?\" &nbsp; &nbsp; WTOC-TV [Savannah]. &nbsp; 21 October 2014.   --> ",
+    "category": "Fauxtography",
+    "tags": [
+     "ASP Article"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "1057",
+   "_score": 22.088219,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Spam Oreos? Another Fake Flavor Goes Viral",
+    "author_name": "Dan Evon",
+    "date_published": "29 May 2015",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/spam-oreos/",
+    "claim": "Nabisco is issuing Spam-flavored Oreos.",
+    "content": "  Is Nabisco planning on releasing Spam flavored Oreos?  In May 2015, a photograph purportedly showing Nabisco\u2019s latest Oreo cookie creation, Spam flavored Oreos, began circulating online. While many viewers were skeptical of the new flavor, some thought it plausible given that Nabisco has released several interesting varieties (such as Red Velvet Cake and S\u2019mores) of Oreos in recent years. However, Nabisco generally eschews suggestions for Oreo flavors based on meat products:  images of bacon cream, fried chicken, or cheeseburger Oreos have all been hoaxes. And so it is with Spam Oreos. Nabisco has not made any announcements about an upcoming Spam flavor of Oreos, and the above-displayed image is a fake created by Boss Hawaii web design studio in order to drive traffic to the Hawaii Food Porn Facebook page:   Our latest viral hit! I created this for a new Facebook page called Hawaii Food Porn in order to generate traffic to the page and build a following. The page got 500 likes in 2 days thanks to SPOREOS. ",
+    "category": "Junk News",
+    "tags": [
+     "fake",
+     "Food Fauxtography",
+     "hoax"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "1092",
+   "_score": 16.755564,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Fried Chicken Oreos",
+    "author_name": "David Mikkelson",
+    "date_published": null,
+    "rating": null,
+    "url": "https://www.snopes.com/fact-check/fried-chicken-oreos/",
+    "content": "  Claim:   Nabisco has announced they will be producing Fried Chicken Oreos.  FALSE        Example:   [Collected via Twitter, March 2015]  Now they have Fried Chicken Oreos!!! I cant deal\u2026. SMH       Origins:    In mid-2014, a rumor started to circulate online claiming that Nabisco had announced the creation of a Fried Chicken flavor of Oreo cookies. Although the concept might have seemed implausible to some, the company had previously unveiled unusual flavor variations of the popular Oreo cookie (including Watermelon and Candy Corn), so several blogs reported the rumor as straight news.  However, the story was almost immediately quashed by Nabisco on 17 July 2014, when a representative of the company officially denied the existence of the unusual flavor:         [A] PR person confirmed on behalf of the company, in a response to an inquiry, that the fried chicken flavor doesn\u2019t exist. \u201cThe flavor you are referring to is in fact not real,\u201d said Lindsay Kaplan, a Weber Shandwick employee, wrote in an email.   On the same day, a representative for Nabisco explained in a separate interview that the Fried Chicken Oreo image was fan-generated and was not evidence of a limited edition or test flavor:   \u201cA fan who really liked the Fruit Punch flavor came up with the fried chicken OREO packaging photo as a sort of joke. It\u2019s clearly gotten some traction over the internet, but the Fried Chicken OREO flavor is fake.\u201d   The rumor died down after Nabisco\u2019s initial denial, but it resurged in early 2015 in part because during the intervening months, a similar rumor featuring Red Velvet flavor Oreos arose that bore many of the same elements as its predecessor: like the rumored Fried Chicken Oreos, Red Velvet Oreos were allegedly spotted in test markets, and images of the packaging were shared on the Internet. And, after initial denials, Nabisco did later introduce the Red Velvet product as a limited edition product. It\u2019s possible that the path blazed by Red Velvet Oreos from rumor to real-life convinced social media users that the Fried Chicken Oreo was also destined for a glass of milk near you. But there is no evidence that Nabisco has yet seriously considered manufacturing a flavor with such limited appeal.       Last updated:   4 March 2015   Sources:       Galarza, Daniella.   \u201cFried Chicken Oreos Are Totally Fake, Oreo Confirms.\u201d     Eater.   17 July 2014.      Laasby, Gitta.   \u201c\u2018Fried Chicken\u2019 Oreo Flavor Is Fake, Company Says.\u201d     Milwaukee Wisconsin Journal-Sentinel.   17 July 2014.      Pham, Peter.   \u201cSPOTTED: Fried Chicken Oreos.\u201d     FoodBeast.   16 July 2014.   ",
+    "category": "Fauxtography",
+    "tags": [
+     "ASP Article"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "1091",
+   "_score": 14.932983,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Nabisco Announces \u2018Graeter\u2019s Black Raspberry Chocolate Chip Oreos\u2019?",
+    "author_name": "Dan Evon",
+    "date_published": "17 April 2017",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/black-raspberry-chocolate-chip-oreos/",
+    "claim": "Nabisco has announced the release of a 'Graeter's Black Raspberry Chocolate Chip' flavor of Oreo Cookies.",
+    "content": " Nabisco has released several interesting varieties of Oreo brand cookies over the years (Swedish Fish, anyone?), so it wasn\u2019t too surprising that some fans accepted as genuine an image they encountered online purportedly showing the company\u2019s latest offering \u2014 Graeter\u2019s Black Raspberry Chocolate Chip Oreos. However, this image did not originate with Nabisco, the division of Mondel\u0113z International that produces Oreos, nor with Graeter\u2019s, an artisanal ice cream company. It was a \u201cwish-list item\u201d originally posted on the Instagram and Facebook pages of \u201cThe Junk Food Aisle,\u201d along with a plea for Nabisco to \u201cmake this happen\u201d:  This is hardly the first \u201cnew flavor\u201d Oreos image to catch the attention of cookie aficionados. Although hoax flavors such as Fried Chicken Oreos, Spam Oreos, and Butterbeer Oreos quickly disappeared into Internet obscurity, Nabisco has produced at least one Oreos variety (Red Velvet Oreos) that initially appeared as an online rumor. ",
+    "category": "Fauxtography",
+    "tags": [
+     "oreos"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "8011",
+   "_score": 14.743701,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Is This a Hermit Crab Using a Skull for a Shell?",
+    "author_name": "Dan Evon",
+    "date_published": "9 February 2018",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/hermit-crab-using-skull-shell/",
+    "claim": "A photograph shows a hermit crab using a human skull as a shell.",
+    "content": " A growing hermit crab is always on the lookout for a bigger shell, and when an appropriately sized shelter isn\u2019t readily available, these crustaceans sometimes have to make do with whatever debris they can find on the beach. We have seen hermit crabs using sardine cans, glass bottles, bottle caps, and according to a viral image, even a human skull:  This image shows neither a real hermit crab nor a real human skull, but an art sculpture called \u201cMigratory Soul\u201d that was created by Josh Keyes, who posted it to his Facebook page in July 2015, along with a brief description:  Out of the crashing waves they crawled onto the shore. Hundreds of giant hermit crabs, some encased in rusty appliance and automobile parts, while others found their home in the empty skulls and diving gear of unfortunate crew and passengers. Some stagger under the weight of the peculiar objects on their backs but most scuttle along the shore, looking for food, and occasionally stop to exchange homes with a neighbor. The clack, clang, and clattering sound of bone and metal drifts eerily in the blowing sand. Keyes has created at least one other hermit crab-based piece. Both \u201cMigratory Soul\u201d (featuring the hermit crab in a human skull) and \u201cThe Hermit,\u201d featuring a crustacean in a scuba helmet, are available via Toy Qube:  ",
+    "category": "Fauxtography",
+    "tags": [
+     "art",
+     "fauxtography"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "13343",
+   "_score": 14.736833,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Giant Mutant Spiders in Missouri?",
+    "author_name": "David Mikkelson",
+    "date_published": "15 September 2014",
+    "rating": "Miscaptioned",
+    "url": "https://www.snopes.com/fact-check/mutant-spiders-in-missouri/",
+    "claim": "Photographs show giant mutant spiders produced by government DNA experiments in Missouri.",
+    "content": " A warning about \u201cgovernment testing on DNA\u201d that has produced giant mutant spiders \u201cin a laboratory in Missouri\u201d hit social media in September 2014:  RIGHT HERE IN MO ! SPIDERS HAVE BEEN RELEASED FROM A DNA LABORATORY LOCATED NEAR THE WOLF SANCTUARY ON ANTIRE RD ! Government testing on DNA has produced these spiders in a Laboratory in Missouri. Unfortunately they have been located off Lewis Rd just west of laboratory and seem to be breading in the wild much faster than when captive. Government officials are doing all they can to try to eliminate these spiders but can offer no guarantees. They could be popping up in surrounding neighborhoods west of the siting (Eureka, Pacific, Union, and St. Clair) within weeks. What we have in our favor is that winter is approaching and hope to slow down the migration no further than St. Clair before the cold hits. If you see these stay indoors and call the local police. They have been informed on procedures of capture and contact of the local governing agency.   Although the accompanying images may be real, they aren\u2019t pictures of giant spiders, or of any other form of arachnid (mutant or otherwise).   What\u2019s shown here is the Birgus latro, otherwise known as a coconut crab (or robber crab, ganjo crab, and palm thief).  A species of hermit crab, the coconut crab (so named because their claws are powerful enough to enable them to crack open and eat coconuts, and they will reportedly climb trees to pick coconuts when none are more readily available) is the world\u2019s largest terrestrial arthropod and can grow to achieve a leg span of up to three feet:  The coconut crab (Birgus latro) is a type of land hermit crab with a spectacular appearance and intriguing biology. Able to grow to relatively gigantic proportions, the coconut crab is probably the largest terrestrial arthropod in the world. Indeed, Charles Darwin described the coconut crab as \u201cmonstruous\u201d when he encountered it on the Keeling Islands during the voyage of the Beagle. Unlike most other hermit crabs, only the very small coconut crab juveniles find and use gastropod shells to protect their soft-skinned abdomen as they develop. Larger juveniles abandon the shell-carrying habit and instead their abdomen develops a hard skin, the exoskeleton, as over the rest of the body. This protects the crab, reduces water loss and does not restrict its growth, allowing it to reach up to a metre in size toe-to-toe. This huge crustacean is well adapted to life on land with long strong legs. It also has large muscular claws which are used for husking coconuts and opening the shell to eat the flesh. This is a unique behaviour amongst crabs and explains why this species is called the coconut crab. The claws are in fact so powerful they can lift objects such as vegetation or rocks weighing up to 28 kilograms. Its stalked eyes are red and this crab\u2019s body colour varies between islands from purplish-blue to orange-red. Studies show that male coconut crabs are considerably larger than females.   As noted in a December 2013 Wired feature on the coconut crab, this arthropod takes a very long time to grow to its full size, its natural habitat is tropical climes far from the Midwestern state of Missouri, and the species is being threatened by human encroachment:  Also known as the robber crab due to its curious propensity for stealing silverware and pots and pans, it\u2019s the 9-pound hermit crab PetSmart wouldn\u2019t dare carry, no matter how conveniently hypoallergenic it is. The coconut crab is endemic to a variety of islands in the Pacific and Indian oceans, though its populations are extremely threatened on some of these thanks to, you guessed it, human tomfoolery. It grows remarkably slowly, taking perhaps 120 years to reach full size, said ecologist Michelle Drew of the Max Planck Institute. As an arthropod, the coconut crab wears its skeleton on the outside and must shed it as it grows, so once a year it crawls into the safety of a burrow and molts. It\u2019s highly vulnerable once it steps out of this rigid shell, so to hasten the development of new armor it \u2026 consumes its old exoskeleton. Feeding this incredible growth is no small task, so the coconut crab eats anything it can get its claws on. It\u2019ll go after fruit, vegetation, and carrion: dead birds and other coconut crabs and such. It has been observed hunting other crabs, and Drew has records of them ambushing young chickens. But what it really loves are, of course, coconuts. Coconuts are extremely difficult to open. But as you may have noticed, the coconut crab is equipped with massive pincers. (One of Drew\u2019s friends had one clamp down on his thumb, which lost feeling for three months. She stresses, though, that the coconut crab is in fact quite gentle unless threatened.) \u201cThey use their claws to pull away the outer fibers,\u201d said Drew. \u201cThis can sometimes take many days and it often involves a number of crabs. They then use their longest walking leg to puncture a hole through the eyes of the coconut and then they can use their claws to pry open the shell further.\u201d Despite its freakish size, massive pincers and formidable armor, the coconut crab increasingly finds itself in peril. They have for millions of years lived on islands with no large mammalian predators, allowing them to reach such incredible proportions. This is changing as human encroachment has thrown their food chains into chaos.  ",
+    "category": "Fauxtography",
+    "tags": [
+     "crabs",
+     "spiders"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "11942",
+   "_score": 14.123951,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Are Oreo Cookies Now Produced in Mexico?",
+    "author_name": "Kim LaCapria",
+    "date_published": "28 September 2015",
+    "rating": "Mixture",
+    "url": "https://www.snopes.com/fact-check/oreo-moving-mexico/",
+    "claim": "Nabisco closed their Chicago plant and moved all production of Oreos to Mexico.",
+    "content": " -->On 21 August 2015 (and on multiple subsequent occasions), Republican presidential candidate Donald Trump told crowds of supporters at a campaign rally that he\u2019d sworn off Oreo cookies because the brand\u2019s maker, Nabisco, had closed their plant in Chicago and moved production of the snack product to Mexico: You know Mexico is the new China. The other day Nabisco, Nabisco \u2026 Oreos right, Oreos. I love Oreos, I\u2019ll never eat them again. Kay? Never eat \u2019em again. Nabisco closes a plant, they just announced a couple days ago, in Chicago and they\u2019re moving the plant to Mexico. Now why? Why? Why? Trump\u2019s claim echoed off-the-cuff remarks he had made earlier at non-campaign events (such as while reporting for jury duty in August 2015):   Donald Trump has pledged never to let another Oreo pass his lips. \u201cI\u2019m not eating any more Oreos,\u201d he promised on Monday afternoon. He made the declaration while speaking with reporters in the back of the jury assembly room at Manhattan Supreme Court. He was waiting to learn if he would be picked to serve on a panel, and he passed the time chatting about a wide range of subjects. That included the recent decision by Mondelez International, the parent of Nabisco, to move some of its Chicago operations to Mexico. He said the move would cost 2,000 American jobs. The number of purportedly lost jobs attached to the Oreo plant move has fluctuated from telling to telling. For example, on 14 August 2014 a Politico reporter tweeted:  Trump: \"Nabisco is taking 1,200 jobs from Chicago and moving them to Mexico. No more Oreos. They make Oreos don't they? I don't like them.\" \u2014 Roger Simon (@politicoroger) August 14, 2015        The repetition of Trump\u2019s claim had a clear impact on American consumers: the official Facebook pages of both Nabisco and Oreo were flooded with angry comments from users similarly denouncing the cookie- and cracker-maker over the purported loss of American jobs to Mexico: EVERY single one of your products posted above i have purchased. I have 12 grandchildren and baskets and stockings have been filled with many of these for them. Plus they are always in \u201cthe treat bowl\u201d. Guess What? NOT ANY MORE!!!! I really hope that Mexico can keep you in business because I will no longer spend one more penny on ANY of your products. Examples:   [Collected via e-mail and Twitter, September 2015] Someone posted a page on facebook saying Oreos are now being made in Mexico. Is this true and if so when did that happen?  Sad face, I will not be eating @Oreo as I just learned they outsourced their creation to Mexico. It's a sad day! #shameonoreos \u2014 Jason Isaacson (@JDIsaacson) September 23, 2015   @HydroxCookie where are you're cookies made? Oreo moved to Mexico. Made in USA wins my business. \u2014 Membery (@membery137) September 23, 2015   The spotlight pointed by Trump at Nabisco and Oreo lifted the story from the low-profile realm of business news, where it had previously lingered unnoticed. A 29 July 2015 Chicago Tribune article reported that 600 of 1,200 positions at the plant in question were on the chopping block following a decision announced by Nabisco\u2019s parent company, Mondelez International: Mondelez International will lay off half of its 1,200 employees in its bakery on Chicago\u2019s Southwest Side after deciding to make a major investment in a Mexico plant rather than its long-standing facility here. The company decided not to make a $130 million upgrade to the facility, the company\u2019s largest U.S. bakery, which dates to the 1950s, because the three unions that represent workers either did not make a proposal to keep the work or their concession packages were inadequate, said Laurie Guzzinati, a Mondelez spokeswoman. The new production lines will make some of Nabisco\u2019s most popular products, including Oreo, Ritz and Grahams. Mondelez International also announced the decision in a 29 July 2015 press release that confirmed much of the brand\u2019s production would remain in the United States: [An] investment in [upgraded equipment] will be completed by mid-2016 and will replace nine older, inefficient manufacturing lines at its Chicago biscuit plant. Today\u2019s announcement builds on the company\u2019s earlier manufacturing investments of more than $170 million in manufacturing lines at its U.S. biscuit plants in Fair Lawn, N.J., Naperville, Ill. and Richmond, Va., as well as additional investments in recent years in technologies and capabilities within its North American supply chain. Today\u2019s announcement follows a process that began in early April, involving discussions with employees\u2019 union representatives from the Chicago plant as well as company due diligence to select between Salinas and Chicago, the two locations which were considered for this investment. \u201cThe Chicago plant has been and will continue to be an important part of the company\u2019s North American biscuit footprint, producing a variety of beloved consumer products,\u201d said Olivier Bouret, Vice President, North America Integrated Supply Chain, Biscuits. \u201cWhile the new investment will affect approximately 600 positions in Chicago, we\u2019re committed to treating all impacted employees fairly through this difficult time.\u201d On 18 September 2015, a representative for Mondelez International disputed a number of Trump\u2019s assertions about Oreos in an e-mail to a news outlet: A representative for Mondel\u0113z Global LLC,  said Trump\u2019s statements about the company are untrue. \u201cWe announced in July a new investment in our supply chain in an already-existing facility we have in Mexico. We are NOT closing our facility in Chicago,\u201d wrote Laurie M. Guzzinati, senior director for corporate and government affairs in North America for Mondel\u0113z Global LLC. \u201cThough there will be an impact to some positions in Chicago, given that the investment is being made in a different facility in our manufacturing network, our Chicago bakery will continue to be an important site within the North American biscuit manufacturing network,\u201d Guzzinati wrote in an email to Foster\u2019s. Guzzinati said that the Chicago bakery produces a variety of Nabisco cookies and crackers, and will remain important due to its geographical location. \u201cThe Chicago bakery will remain one of the largest plants within the network from an overall head-count perspective,\u201d she said. Guzzinati added that Oreos are made in several manufacturing sites within the United States, including Fair Lawn, N.J., Richmond, Va. and Portland, Ore. So while it\u2019s true that Nabisco\u2019s parent company announced the elimination of some jobs at a Chicago plant, the number of jobs affected was 600 (not 1,200 or 2,000), and the facility was not closed. The company concurrently invested the expansion of manufacturing plants in three states, and Oreos remain in production in the U.S. at facilities in New Jersey, Oregon, and Virginia. ",
+    "category": "Business",
+    "tags": [
+     "Business",
+     "Donald Trump",
+     "mexico"
+    ]
+   }
+  }
+ ]
+}

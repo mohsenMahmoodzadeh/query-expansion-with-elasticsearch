@@ -1,0 +1,62 @@
+{
+ "max_score": 64.69544,
+ "hits": [
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "1093",
+   "_score": 64.69544,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Are Crab Cake Oreos Real?",
+    "author_name": "Dan Evon",
+    "date_published": "13 October 2020",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/crab-cake-oreos-real/",
+    "claim": "An image shows a genuine \"Crab Cake Oreos\" product. ",
+    "content": " In October 2020, an image started circulating on social media that supposedly showed a new flavor of Oreo cookies: crab cake.   These Crab Cake Oreos (complete with tartar sauce cream filling) are not a genuine flavor of Oreo cookies. This image was created by a social media users with a penchant for producing fake (and, one might argue, disgusting) products.  This image was originally posted to the @Hollow.Foods Instagram page in May 2020. This Instagram page writes in its bio that it creates products for the \u201cworlds worst grocery store.\u201d So far, Hollow.Foods has imagined ill-advised products such as toothpaste-flavored ice cream bars called Cresticles, cobweb filled \u201cspooky\u201d Hot Pockets, spam-flavored Pop Tarts, a \u201cpresidential\u201d orange soda, and a ham water scented candle. This page has also produced a second fictional Oreo flavor: Buffalo chicken wings. While the origins of this image make it pretty clear that these Crab Cake Oreos are a fake product, we sheepishly reached out to Mondelez International, the company that manufacturers Oreo cookies, for confirmation.  A spokesperson told us: \u201cI can confirm that this is not a real OREO cookie flavor.\u201d While these Crab Cake Oreos are not real, there have been some interesting Oreo cookie flavors released over the years, such as lemon, pistachio, carrot cake, and mint. ",
+    "category": "Food"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "1094",
+   "_score": 42.770737,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Do Oreos Have Lady Gaga-Themed Cookies?",
+    "author_name": "Bethania Palma",
+    "date_published": "29 January 2021",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/lady-gaga-oreo/",
+    "claim": "Oreos have a new Lady Gaga-themed cookie.",
+    "content": " On Jan. 28, 2021, the sandwich cookie brand Oreo announced a limited-edition cookie flavor honoring pop music icon Lady Gaga.  The news you\u2019ve all been waiting for (and we couldn\u2019t wait to reveal \ud83d\ude2d)\u2026 OREO x LADY GAGA packs drop today! \ud83c\udfa4\ud83c\udfb6 pic.twitter.com/OPdkueC45h \u2014 OREO Cookie (@Oreo) January 28, 2021  The cookies, as can be seen in the image above, are pink with bright green filling. According to the food blog Eater, they are vanilla flavored and are inspired in design by her May 2020 \u201cChromatica\u201d album. New Oreo flavors are a periodic internet fixation and sometimes they are also the subject of hoaxes. No, crab cake-flavored Oreos aren\u2019t real. Neither are spam Oreos, chicken Oreos, or Graeter\u2019s Black Raspberry Chocolate Chip flavor. No, the cookies don\u2019t carry a secret, conspiratorial message on the outside. But Swedish fish-flavored Oreos were real. So were Waffles &amp; Syrup flavored cookies. ",
+    "category": "Food"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "1073",
+   "_score": 39.11118,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Yes, Oreo Is Launching These New Flavors",
+    "author_name": "Jessica Lee",
+    "date_published": "9 July 2021",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/oreo-flavors/",
+    "claim": "On July 8, 2021, Oreo announced two new limited-edition flavors: \"Salted Carmel Brownie\" and \"Apple Cider Donut.\"",
+    "content": " On the morning of July 8, 2021, the official Twitter account representing Oreo \u2014 the Nabisco-owned company that makes the popular sandwich cookie \u2014 said it would soon reveal a new flavor that it described as \u201csavory, sweet, rich and irresistible.\u201d  Shortly later, the internet lit up with images and descriptions of not one, but two new alleged products: \u201cSalted Carmel Brownie\u201d and \u201cApple Cider Donut\u201d each with ingredients that would make the classic wafer, creme-filled cookie taste like those sweets. And, according to Food &amp; Wine \u2014 a reputable source of culinary trends and new products \u2014 those reports were correct. The publication said: Oreo has two new limited-edition flavors lined up for this summer, and both are expected to hit stores soon. [\u2026] The first, Salted Caramel Brownie, features two layers of creme \u2014 caramel and brownie, of course \u2014 and sprinkled salt on top of the cookie. This marks the first time Oreo has ever sported a topping, and hopefully that means more topped Oreos are on the horizon. The second, Apple Cider Donut, sandwiches apple cider-flavored creme between two golden (so vanilla) Oreos, and looks specifically manufactured for the people who can\u2019t wait for fall.       Packages of \u201cSalted Carmel Brownie\u201d Oreos would be available in the coming weeks, in July, while the \u201cApple Cider Donut\u201d flavor would not reach shelves until August, an Oreo spokesperson told Best Products, a media site designed to help consumers. Both types of limited-edition Oreos will only be available while supplies last, Food &amp; Wine reported.  As we\u2019ve stated previously, Oreo flavors are a periodic internet fixation and sometimes they are also the subject of hoaxes. No, crab cake-flavored Oreos aren\u2019t real. Neither are spam Oreos, chicken Oreos, or Graeter\u2019s Black Raspberry Chocolate Chip flavor. But Swedish fish-flavored Oreos existed at one point. So did Waffles &amp; Syrup flavored cookies.  See below for more Snopes fact checks about Oreo cookies:  Do Oreo Cookies Carry a Secret Message? Did Oreo Tweet \u2018Eat the Rich\u2019? Do Oreos Have Lady Gaga-Themed Cookies?  ",
+    "category": "Food"
+   }
+  }
+ ]
+}

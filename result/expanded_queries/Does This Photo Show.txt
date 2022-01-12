@@ -1,0 +1,227 @@
+{
+ "max_score": 39.46363,
+ "hits": [
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "11655",
+   "_score": 39.46363,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Is This the Darkest Baby in the World?",
+    "author_name": "Dan Evon",
+    "date_published": "17 December 2015",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/darkest-baby-world/",
+    "claim": "A photograph shows \"the darkest baby in the world.\"",
+    "content": " In June 2015, a photograph purportedly showing the \u201cworld\u2019s darkest baby\u201d began circulating on the internet.  Social Trends PH, one of the first web sites to post the image, didn\u2019t provide any information about the photograph other than claiming that it was taken in South Africa:  An alleged darkest baby in the world that was recently born in South Africa is making buzz in social media. Many netizens however are asking if this photo is real or fake. By quick research, the photo has no origin or nobody claims it. There is also no report from the mainstream media about this news. Guinness World Records doesn\u2019t have this information also from their online database. Here is the photo.   The earliest online appearance of this picture we could uncover dated from on 10 June 2015, when it was posted by Twitter user @NaimHumphrey, in a tweet that was also void of information other than the oft repeated \u201cSouth Africa\u201d claim. So where did this photograph come from? Was the world\u2019s \u201cdarkest baby\u201d really born in South Africa?       While we were not able to uncover the specific origins of the photograph, we were able to determine that the figure shown in the image is not a baby at all, but a doll:  The doll was created by \u201cBreath of Heaven\u201d artist Lilah Pearsons:  I began sculpting in 2005 drawing my inspiration from my love of animals.  In 2006 I began selling my art online and have enjoyed a fulfilling career making dolls ever since.  Each and every doll that I make starts from a lump of polymer clay and forms into something that comes from where, I don\u2019t really know.  Every time I sit down to sculpt is a new experience and I get lost in what I am creating.  At times frustrating, and always a learning and growing experience. I love Monkeys!!!! They are some of the most enjoyable little faces to sculpt. All my primates are partial sculptures with soft bodies for lots of pose-ability options.  They are made with quality doe suede bodies filled with tiny pellets.  All their clothing is handmade by me.  Pearson\u2019s website and her eBay store show several examples of similar small dolls. ",
+    "category": "Fauxtography",
+    "tags": [
+     "The Arts"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "3143",
+   "_score": 39.261856,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Does This Photograph Show Barack Obama Dressed as Satan?",
+    "author_name": "Dan Evon",
+    "date_published": "19 June 2018",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/barack-obama-illuminati-photo/",
+    "claim": "A photograph shows Barack Obama dressed as Lucifer for an 'Illuminati ritual.'",
+    "content": " In June 2018, disreputable junk news sister sites Neon Nettle and Your News Wire (now News Punch) reported that a photograph of former President Barack Obama dressed up in a Satan costume, complete with a mask and horns, had been \u201cleaked\u201d to the Internet:  Although these sites and others such as Pol Investigates \u2014 a blog that rehashes \u201cinvestigations\u201d from the /pol/ forum on 4chan \u2014 went to considerable lengths in an attempt to \u201cprove\u201d that the masked man seen in the photograph was Barack Obama, the notion was based on nothing more than a few small sections of someone else\u2019s facial features bearing a passing resemblance to those seen a picture of Barack Obama. Here\u2019s one example of how these forums \u201cconnected the dots\u201d in order to show that this image truly pictured Barack Obama:        Regardless of how many lines might have been scribbled across these graphics, however, the claim quickly fell apart under closer examination. Where did this photograph come from? Conspiracy theorists frequently use the word \u201cleaked,\u201d implying that they have somehow gained access to secret information that others were trying to prevent from being disclosed.  This image wasn\u2019t \u201cleaked,\u201d however; it was publicly posted to Instagram by user @everysilversea on 20 January 2017 (the date of President Trump\u2019s inauguration) along with the caption \u201cclass &amp; grace, you\u2019re my favourite.\u201d The image was later deleted, but an archived version can be seen here. Pol Investigates asserted that this Instagram user \u201cadmitted\u201d the masked person seen in the photograph was Barack Obama when asked about the deleted image:   The Instagram user\u2019s responding to the loaded question \u201cWhat\u2019s with your Obama pic? Why did you delete it?\u201d by writing \u201ctoo much hate and not enough support\u201d is what was touted as \u201cconfirmation\u201d that the picture of the masked man was truly a photograph of Barack Obama. As this Instagram user was called a \u201cwitch\u201d and accused of covering for a \u201cMuslim satanic piece of shit,\u201d it seems reasonable to assume that her reason for deleting the photograph was the harassment she received after posting it, as stated. Who is the man in the mask?       It is difficult to identify a person based on one low-res photograph, especially one in which most of the person\u2019s face is obscured by a mask. Yet many viewers readily responded to the power of suggestion and jumped to the conclusion that Obama was connected to some form of Satanic worship based on a single image:  The timing of the photograph in itself demolished the absurd argument presented by News Punch:  It seems unlikely that Obama would dress up as Satan for a fancy dress competition or on Halloween. The fact that the person standing next to Obama \u2026 is dressed normally suggests that this photo was not taken at a fancy dress party, but rather that Obama was participating in an Illuminati ritual and paying his respects to his Lord Lucifer.  Since the photograph in question was posted on the day of Donald Trump\u2019s inauguration (i.e., the last day of Barack Obama\u2019s term of office), it had to have been taken while Obama was still President of the United States. The notion that a sitting president could be cavorting about in a Luciferian costume, participating in an \u201cIlluminati ritual,\u201d and posing for photographs openly posted to social media, all without any word of his activities reaching the press or the public until some fake news sites sleuthed it out long after the fact, is ridiculous in the extreme. The person in the mask \u2014 at least, the small portion of that person\u2019s face which is visible \u2014 bears a passing resemblance to the features of Barack Obama. But a much more logical conclusion about his identity can be reached than the far-fetched assumption that person was the President of the United States.  The head piece in this photograph, which was created by Miss G Designs and the pictured costume were both worn to a Burning Man Festival in 2015 by New York Real Estate agent Michel Madie. We\u2019ve found several other images of Madie in this headdress and costume via Ben Henretig, Scott London, and Facebook:        Indeed, photographs of Madie show him to bear a strong resemblance to the masked features visible in the alleged picture of Barack Obama:                       Or, as someone charted in the language of conspiracy buffs:  Artur Davis,  who represented Alabama's 7th congressional district in the U.S. House of Representatives from 2003 to 2011 and was one of the national co-chairs for Obama's 2008 presidential campaign.  However, Davis bears only a passing resemblance to the person pictured here:  Supporters of this theory also noted that the man who isn't Artur Davis was wearing a jacket with the word \"Chicago\" written across it's front.&nbsp;  As far as we can tell the visible letters on the man's jacket are \u011b, c, and a. (or possibly c, c, and a). Those letters, in that order, will never spell Chicago; even if \"Chicago\" was printed all over his coat, it's unclear what that proves or what evidence it supports. The \"Chicago\" claim is just one example of the faulty logic and poor research used as evidence for this rumor. Although the man in this photograph does look similar to President Obama, no evidence has been provided to definitely determine that the former President was actually dressed up in this costume. --> ",
+    "category": "Fauxtography",
+    "tags": [
+     "barack obama",
+     "neon nettle",
+     "news punch"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "5789",
+   "_score": 37.671085,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did Jeffrey Epstein Have a Painting of Bill Clinton Wearing a Dress in His Flat?",
+    "author_name": "Dan MacGuill",
+    "date_published": "15 August 2019",
+    "rating": "Unproven",
+    "url": "https://www.snopes.com/fact-check/epstein-clinton-dress-painting/",
+    "claim": "Jeffrey Epstein once owned or displayed in his home a painting that depicted former President Bill Clinton wearing a blue dress. ",
+    "content": " After the death of convicted sex offender Jeffrey Epstein in jail in August 2019, reports emerged that claimed to detail an unusual choice of artwork in the disgraced financier\u2019s New York City apartment some years earlier.  On Aug. 14, the Daily Mail reported that Epstein \u201chad a bizarre portrait of Bill Clinton in a dress hanging in his Manhattan mansion,\u201d adding: \u201cThe picture depicting the former president apparently lounging on a chair in the Oval Office, wearing red heels and posing suggestively in a blue dress redolent of Monica Lewinsky was in a room off the stairway of the Upper East Side townhouse. The dress is also strikingly similar to one worn by Hillary Clinton at the 2009 Kennedy Center Honors.\u201d  The DM has a 2012 pic that allegedly shows the inside of Jeffrey Epstein\u2019s NYC mansion. He had a painting on the wall \u201cwhich appeared to be Bill Clinton wearing a blue dress &amp; red heels\u2026 The blue dress seemed to be a pointed reference to Clinton\u2019s former intern Monica Lewinsky\u201d pic.twitter.com/VyAnk3Bnfn \u2014 John Doe (@JohnDoe78359022) August 14, 2019        The Mail included a photograph that an unnamed source claimed to have taken at Epstein\u2019s apartment in October 2012, and that purportedly showed a view of the painting hanging on a wall through an open doorway. Clinton was an acquaintance of Epstein\u2019s, and his representatives had sought to distance the former president from him, after Epstein was indicted on child-sex-trafficking charges in July. Epstein was awaiting trial in a New York jail when he reportedly took his own life on Aug. 10.  The New York Post appeared to corroborate the Mail\u2019s earlier reporting, citing unnamed \u201claw enforcement sources,\u201d one of whom purportedly told the newspaper:  \u201c[The painting] was hanging up there prominently \u2014 as soon as you walked in \u2014 in a room to the right. Everybody who saw it laughed and smirked.\u201d We received multiple inquiries from readers about the veracity of reports that Epstein had once owned the painting, or that it was at one time displayed in his home. So far, we have been unable to independently verify that the artwork was once in Epstein\u2019s apartment. The artist who painted it told Snopes she did not know the identity of the person who bought it in 2012 and was unaware of any connection to Epstein until a family member told her about news reports in August 2019.  \u2018Parsing Bill\u2019 This much we know: The painting shown in the photograph published by the Daily Mail is authentic. It is entitled \u201cParsing Bill\u201d and was painted in 2012 by the Australian-American artist Petrina Ryan-Kleid, while she was obtaining a master of fine arts degree from the New York Academy of Art. As of Aug. 15, prints of the painting were available to purchase from the prominent online art gallery Saatchi. A larger version of the work can be viewed here.  In April 2012, Ryan-Kleid was photographed standing next to the work at the Tribeca Ball, an annual art exhibit run by the New York Academy of Art, and a popular event for New York socialites. Ryan-Kleid told Snopes that\u2019s where an unidentified buyer purchased the original work. In an emailed statement, the artist wrote: \u201cIn 2012, as a grad student at the New York Academy of Art, I painted pictures of Presidents Clinton and Bush as part of my Master\u2019s thesis.  When the school put on a fundraiser at the Tribeca Ball that year, they sold my painting to one of the attendees. I had no idea who the buyer was at the time. As with most of my paintings, I had completely lost track of this piece when it was sold seven years ago. So it was a complete surprise to me to learn yesterday that it wound up in Epstein\u2019s home.\u201d Ryan-Kleid did not recall having sold the painting to Epstein, specifically, and said she first heard about any potential link to the financier from a family member who had read the August 2019 news reports mentioned above. As such, she was not able to offer corroboration for those reports, or for claims that Epstein had once had the painting in his home, or that the photograph published by the Daily Mail was in fact taken at Epstein\u2019s apartment. Until and unless further corroborating information becomes available, we are therefore issuing a rating of \u201cUnproven.\u201d ",
+    "category": "Politics"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "7009",
+   "_score": 36.569897,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Is This a Photograph of Donald Trump\u2019s Mother?",
+    "author_name": "Dan Evon",
+    "date_published": "1 October 2018",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/donald-trumps-mother-photo/",
+    "claim": "An photograph shows Donald Trump's mother, Mary Anne MacLeod Trump.",
+    "content": " The nature of Donald Trump\u2019s hair has been the subject of speculation for decades. Is it a hairpiece? Did he undergo hair transplants? Is it merely an unusual styling.  Or, as an image of his mother Mary Anne MacLeod Trump suggests, is his coiffure a family trait? A photograph purportedly showing Donald Trump\u2019s mother is often met with skepticism (and occasionally mean-spirited jokes) in large part due to the pictured woman\u2019s strong resemblance not just to her son\u2019s facial features, but to her uniquely Trumpian hairstyle:  This image achieved online virality in June 2016, after a documentary entitled \u201cWho Is Donald Trump?\u201d that included a 1997 interview with Mary Trump aired on the Australian television channel Foxtel, and a screen grab made the social media rounds:    This photo of Donald Trump's mum looks like a character in a film about Trump's life where Trump plays all the roles pic.twitter.com/eUXbfFT0X5 \u2014 Amanda (@Pandamoanimum) July 26, 2016         Who wore it better: Donald Trump's mom or this dollop of whipped cream? pic.twitter.com/IJbJ0xl51C \u2014 Spencer Althouse (@SpencerAlthouse) July 26, 2016  As US Weekly reported at the time:  In the screen grab from a 1997 interview with Australian TV network Foxtel, Mary is seen with an extremely tall and swoopy combover in the exact same shade as the Republican presidential nominee\u2019s famous coif. She\u2019s wearing big gold earrings and a large pearl necklace, and the uncanny family resemblance is undeniable.  The New Daily similarly reported of the documentary:  Cue a clip of Mary Trump, sporting a startlingly similar hairstyle to that adopted by her son, offering this warning in an interview more than 30 years ago: \u201cI don\u2019t think the life of a politician would suit him. He\u2019s too used to doing things his way and doing them right.\u201d  Although we have yet been able to view the original interview, other photographs and videos of Mary Anne MacLeod Trump show her with a similar features and hairstyle:   ",
+    "category": "Fauxtography",
+    "tags": [
+     "Donald Trump",
+     "mary trump"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "4799",
+   "_score": 35.944542,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Does This Photo Show an Anti-Semitic Sign at a COVID-19 Lockdown Protest?",
+    "author_name": "David Mikkelson",
+    "date_published": "21 April 2020",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/anti-semitic-lockdown-protest/",
+    "claim": "A photograph shows protesters displaying an anti-Semitic sign during a COVID-19 lockdown protest.",
+    "content": " Snopes is still fighting an \u201cinfodemic\u201d of rumors and misinformation surrounding the COVID-19 pandemic, and you can help. Find out what we\u2019ve learned and how to inoculate yourself against COVID-19 misinformation. Read the latest fact checks about the vaccines. Submit any questionable rumors and \u201cadvice\u201d you encounter. Become a Founding Member to help us hire more fact-checkers. And, please, follow the CDC or WHO for guidance on protecting your community from the disease.   The weekend of April 17-19 saw a number of demonstrations take place in cities across the U.S. in protest of continued lockdown orders intended to limit the spread of the COVID-19 coronavirus disease. According to the BBC. Those taking to the streets say that the stringent measures restricting movement and businesses are unnecessarily hurting citizens. Protesters say the stay-at-home measures imposed by state governments to control the spread of Covid-19 are an overreaction. Some have also come bearing firearms as gun rights groups have been among the organisers, citing infringements on civil liberties. Some also say keeping these restrictions in place too long will cause long-term damage to local economies. For the most part the anti-lockdown protests were peaceful, although a few unseemly incidents of a non-violent nature did take place. For example, social media posts claimed that a few people in Columbus, Ohio, had taken advantage of the demonstration to display an anti-Semitic message:        Unfortunately, this image was all too real, as Cleveland.com reported: A photo from the stay-at-home protest at the Statehouse is gaining traction on Twitter for its anti-Semitic message. The photograph captured two men in a minivan. One held a sign with an illustration of a rodent with the Star of David on its side and the words \u201cThe Real Plague.\u201d The protest movement against coronavirus restrictions has been a mishmash of people. Some adhere to public health officials\u2019 guidance of distancing themselves at least 6 feet apart and wearing masks. They want to return to work. On the more extreme are others who call coronavirus a hoax. But the anti-Semitism might drown out all their messages. Ohio state Rep. Casey Weinstein, who had previously tweeted the above photograph along with the comments \u201cThere is a long, scary and disgusting history of blaming Jews for plagues and disease. NOT ON MY WATCH\u201d and \u201cI\u2019ll call this out and stand right up to antisemitism wherever and whenever I see it!\u201d also tweeted a second photograph of the two men wielding the anti-Semitic sign:  Hey! A second pic of these cool dudes from today. #makethemfamous pic.twitter.com/5y8UCJuvNQ \u2014 Rep. Casey Weinstein (@RepWeinstein) April 19, 2020  Weinstein was also quoted by Cleveland.com as stating that: \u201cI think it\u2019s important to call that [anti-Semitism] out. I\u2019m not going to let that pass. I\u2019m not. There are people out there exercising their rights. By no means am I saying they\u2019re all anti-Semitic, they\u2019re all racists, but there is an element there. I\u2019m glad to support everyone\u2019s First Amendment right to express their view, and I will gladly exercise mine to push back on anti-Semitism whenever and wherever I see it.\u201d ",
+    "category": "Fauxtography",
+    "tags": [
+     "COVID-19"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "9570",
+   "_score": 35.449448,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Does a Picture Depict Groomsmen Supporting a Paralyzed Man at His Wedding?",
+    "author_name": "Kim LaCapria",
+    "date_published": "11 January 2017",
+    "rating": null,
+    "url": "https://www.snopes.com/fact-check/groomsmen-supporting-a-paralyzed-man-at-his-wedding/",
+    "claim": "A picture depicts a paralyzed man's groomsmen holding him up so he could marry his bride.",
+    "content": " On 12 December 2016, a user submitted a version of the image reproduced in the Tweet above to Reddit, in an r/pics thread titled \u201cGroomsman hold up paralyzed groom for his wedding.\u201d By the following day, the image and its purported backstory were described as \u201ctrending,\u201d and Cosmopolitan covered them with using a clickbait title (\u201cThis Photo Got Retweeted Over 1.4k Times For The Sweetest Reason\u201d), in an article that began as follows: If there weren\u2019t already enough reasons why we love Twitter, here\u2019s another: Sometimes, on a normal non-spectacular Friday, whilst casually scrolling through your TL, you stumble across the cutest stories that make you appreciate humanity a little bit more. This time, a tweeter shared a photo of a groom being held up by his four groomsmen as he kissed his bride.\u201dHe\u2019s paralyzed, but his friends held him up to get married ?? Those are real friends ???,\u201d @EllaBandzzz tweeted, as she posted the moving photo \u2026 posted on 11th December, is so touching that it\u2019s been retweeted nearly 1.5 thousand times, and has over 1,000 Likes. Cosmopolitan eventually ceded that the picture\u2019s backstory was most likely not as described, but only following multiple emoji-laden paragraphs that created the opposite impression. At best, it seemed odd to leap to the conclusion that the groom was being \u201cheld up\u201d by several groomsmen in a pose that made no sense for its intended purpose; at worst, it seemed social media hucksters decided to use a random couple\u2019s wedding photographs to hawk a made-up story for pageviews. The Reddit thread responsible for the image\u2019s viral spread was full of impossible-to-ignore comments at the top, in which users disputed the claim because they recognized the pose in the photograph immediately: Comment from discussion Groomsman hold up paralyzed groom for his wedding.        Comment from discussion Groomsman hold up paralyzed groom for his wedding.    Comment from discussion Groomsman hold up paralyzed groom for his wedding.  Although blogs and viral picture sites were quite likely sourcing the image from Reddit, none of them appeared to note the large consensus that the photograph depicted a common \u201cfraternity pose.\u201d The web site Diply responsibly covered the claims, identifying Instagram user Rita Shaw and new husband Jared as the image\u2019s subjects: When Rita Shaw posted this lovely moment from her wedding on Instagram three weeks ago, she probably wasn\u2019t surprised with the number of likes it received. After all, it\u2019s a stunning photo that obviously captured an extremely meaningful moment for her and her husband. However, I\u2019m sure she didn\u2019t expect someone to then post the image on reddit with the caption: \u201cGroomsman hold up paralyzed groom for his wedding.\u201d Take the beautiful wedding photo of Rita and Jared Shaw as a perfect example of just how quickly and easily a fake story can come to life. All it took was a misinformed reddit post to cause this couple\u2019s special photo to go viral, but not for a reason they would have ever expected \u2026 I set out to find the truth behind this inspiring image, and eventually, I found the original, which, as I said before, was posted on Instagram by the bride, Rita Shaw \u2026 Along with her image was the caption: \u201cHappy Founders day to the good Bruhz #RQQ.\u201d After looking up #RQQ, I found out that it represented Omega Psi Phi, an international fraternity that was founded in 1911 by Howard University students. Also included were several images of Jared Shaw, standing and dancing without the assistance of his groomsmen:    The viral image and its fabricated backstory were considered by many viewers to be harmless and inspiring, but the newly-married Shaws likely had no desire for memories of their special day to be marred by a viral lie. The false backstory was an example of the particularly unsavory practice of reducing disabled people to objects of motivational sentiment (\u201cinspiration porn\u201c), eliding the difficulties they face and reducing them to one-dimensional plot devices in syrupy yarns. We contacted Rita Shaw via Instagram for comment but have not yet received a response. (Her account has since been set to \u201cprivate.\u201d) ",
+    "category": "Fauxtography",
+    "tags": [
+     "instagram",
+     "miscaptioned",
+     "misrepresented viral videos"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "11630",
+   "_score": 35.1703,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Do the Oldest and Weakest Wolves Really Lead the Pack?",
+    "author_name": "Dan Evon",
+    "date_published": "22 December 2015",
+    "rating": "Miscaptioned",
+    "url": "https://www.snopes.com/fact-check/wolf-pack-photo/",
+    "claim": "A photograph shows a wolf pack being led by the oldest and weakest members.",
+    "content": " In December 2015, a photograph of a wolf pack marching through the snow began circulating via Facebook along with an inaccurate description about its hierarchy: \u201cA wolf pack: the first 3 are the old or sick, they give the pace to the entire pack. If it was the other way round, they would be left behind, losing contact with the pack. In case of an ambush they would be sacrificed. Then come 5 strong ones, the front line. In the center are the rest of the pack members, then the 5 strongest following. Last is alone, the alpha. He controls everything from the rear. In that position he can see everything, decide the direction. He sees all of the pack. The pack moves according to the elders pace and help each other, watch each other.\u201d  &lt;!\u2013 While we don't know exactly who penned the dubious description attached to the picture, the earliest iteration we've found so far came from an Italian-language Facebook post dated 17 December 2015. This post was translated into English on 20 December 2015 and quickly went viral. \u2013&gt; Despite the image\u2019s popularity, however, the attached description of the inner workings of a wolf pack are inaccurate. The photograph shown was taken by Chadden Hunter and featured in the BBC documentary Frozen Planet in 2011, with its original description explaining that the \u201calpha female\u201d led the pack and that the rest of the wolves followed in her tracks in order to save energy: A massive pack of 25 timberwolves hunting bison on the Arctic circle in northern Canada. In mid-winter in Wood Buffalo National Park temperatures hover around -40\u00b0C. The wolf pack, led by the alpha female, travel single-file through the deep snow to save energy. The size of the pack is a sign of how rich their prey base is during winter when the bison are more restricted by poor feeding and deep snow. The wolf packs in this National Park are the only wolves in the world that specialize in hunting bison ten times their size. They have grown to be the largest and most powerful wolves on earth. While this description is more accurate than the one shared in the viral Facebook post, some researchers would nonetheless dispute the use of the term \u201calpha.\u201d In David Mech\u2019s 1999 paper \u201cAlpha Status, Dominance, and Division of Labor in Wolf Packs,\u201d he argued that the concept of an \u201calpha\u201d wolf who asserts his or her dominance over other pack members doesn\u2019t actually exist in the wild: Labeling a high-ranking wolf alpha emphasizes its rank in a dominance hierarchy. However, in natural wolf packs, the alpha male or female are merely the breeding animals, the parents of the pack, and dominance contests with other wolves are rare, if they exist at all. During my 13 summers observing the Ellesmere Island pack, I saw none. Thus, calling a wolf an alpha is usually no more appropriate than referring to a human parent or a doe deer as an alpha. Any parent is dominant to its young offspring, so \u201calpha\u201d adds no information. Why not refer to an alpha female as the female parent, the breeding female, the matriarch, or simply the mother? Such a designation emphasizes not the animal\u2019s dominant status, which is trivial information, but its role as pack progenitor, which is critical information. This photograph is \u201creal\u201d in the sense that it shows a pack of wolves in Wood Buffalo National Park, but the pack is not being led by the three oldest members and trailed by an \u201calpha\u201d wolf, as implied by a viral Facebook post. Instead, one of the stronger animals leads the group in order to create a path through the snow for them. ",
+    "category": "Fauxtography",
+    "tags": [
+     "animals",
+     "wolves"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "17409",
+   "_score": 35.11183,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "What\u2019s Wrong with This Picture?",
+    "author_name": "David Mikkelson",
+    "date_published": null,
+    "rating": null,
+    "url": "https://www.snopes.com/fact-check/whats-wrong-with-this-picture/",
+    "content": " Claim:   E-mail juxtaposes photographs of human and canine evacuees from New Orleans.  Status:   Multiple \u2014 see below.  Example:   [Collected via e-mail, 2005]    What\u2019s wrong with this picture?   A truckload of evacuees arrives at the Metairie evacuation center outside New Orleans    Over 150 dogs and other animals were evacuated from an animal hospital after their owners had left town without them           Origins:   These photographs may not both depict what their captions proclaim, but they do represent a general sort of truth.  Whether that truth matches the social commentary implied by their juxtapositioning is another matter. In general, many New Orleans residents imperiled by Hurricane Katrina and the resulting flood had to be quickly rescued and delivered to shelters by any conveyance available, including vehicles like the one shown above.  It is also the case that in the weeks since Hurricane Katrina hit, hundreds of lost or abandoned pets have been flown to animal shelters around the U.S. where they can be cared for until they are reunited with their previous owners or adopted by new ones (although the second photograph displayed above appears to show abandoned dogs evacuated from an animal hospital in a bus rather than an airplane). Whether those two broad facts should be considered, as implied by the interrogative title accompanying these photos, indicative of a society that cares far more for its rich and white citizens than its poor and black ones, or cares more about animals than human beings, or some combination thereof \u2014 or whether they\u2019re merely reflective of differences in circumstances and species \u2014 is a subjective exercise for the viewer. Last updated:   20 September 2005        Sources:       Bender, Kristin.   \u201cOakland Shelter Cleans Evacuated Pets.\u201d      The [Bay Area] Daily Review.   19 September 2005.   ",
+    "category": "Hurricane Katrina",
+    "tags": [
+     "ASP Article"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "3691",
+   "_score": 34.948776,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Does a \u2018Mysterious Ghost Hand\u2019 Appear in a Picture from 1900?",
+    "author_name": "Jordan Liles",
+    "date_published": "3 December 2020",
+    "rating": "Unproven",
+    "url": "https://www.snopes.com/fact-check/mysterious-ghost-hand/",
+    "claim": "A \"mysterious ghost hand\" is visible in a photograph from 1900 that depicted female factory workers posing at a linen mill in Northern Ireland.",
+    "content": " Since at least November 2020, a \u201cterrifying\u201d and \u201cghoulish\u201d century-old photograph that depicted a group of girls in a linen factory has been featured in online advertisements. One advertisement said: \u201cOne Detail Of This Photo Will Haunt Your Dreams\u2026 Take A Closer Look.\u201d Another read: \u201cThis terrifying photo gave us nightmares\u2026 look closer and you\u2019ll see it.\u201d A third variation included the words: \u201cThis photo gave us the creeps\u2026 Look closely and you\u2019ll see it.\u201d  The photograph appeared to have been captured in the year 1900 (or circa 1900). There is no evidence that it was digitally altered, though it could have been manipulated during processing, printing, or reproduction at some earlier point in time. The photograph was available on the Getty Images licensing website with a helpful caption:  Historical Geography. 1900. Ireland. Here are some happy Ulster girls from a linen factory of North Ireland\u2019s chief city. Irish linen long ago made a name for itself, and many of the finest handkerchiefs and lingerie come from this source. The flax fibre is derived from the stalk of the plant. Each girl in the photograph has round her waist a cord sustaining various implements used in her work. (Photo by: SeM/Universal Images Group via Getty Images)       The photograph features 15 girls posing at a linen factory in what later became known as Northern Ireland. The girl on the right side of the image, second row from the bottom, appears to have something on her shoulder.  While there appear to be \u201cghoulish\u201d fingers on her shoulder, referred to by \u201cInside Edition\u201d as a \u201cmysterious ghost hand,\u201d a helpful reader pointed out that it could simply have been the result of a long camera exposure. While instantaneous photography was invented prior to 1900 in the 19th century, some photographers continued to use a long exposure technique. One reader tweeted to us, and said: \u201cLooks like the hand of the woman behind her to the right, long exposure, she initially had her hand on her shoulder and then moved, you don\u2019t see a blur because the other woman\u2019s head is in the way.\u201d We also explored the possibility that the \u201cfingers\u201d on her shoulder could be some of the materials used in the linen factory. As the caption noted, \u201ceach girl in the photograph has round her waist a cord sustaining various implements used in her work.\u201d Falling on the front side of the girl to the left of the girl in question is an example of the \u201cimplements\u201d that they worked with, which somewhat resemble the \u201cfingers\u201d on the other girl\u2019s shoulder.  We also noticed that fourteen out of the fifteen girls in the photograph have their arms crossed in front of them.  A second photo from Getty Images also showed a linen factory in Belfast \u201ccirca 1900.\u201d However, it was unclear if it was the same factory. According to Yahoo, the photograph was sent into the website Belfast Live by a woman named Lynda, who said that the woman with the \u201cfingers\u201d on her shoulder was her grandmother, Ellen Donnelly. Snopes debunks a wide range of content, and online advertisements are no exception. Misleading ads often lead to obscure websites that host lengthy slideshow articles with lots of pages. It\u2019s called advertising \u201carbitrage.\u201d The advertiser\u2019s goal is to make more money on ads displayed on the slideshow\u2019s pages than it cost to show the initial ad that lured them to it. Feel free to submit ads to us, and be sure to include a screenshot of the ad and the link to where the ad leads. ",
+    "category": "Viral Phenomena",
+    "tags": [
+     "Ad Scams and Arbitrage"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "10885",
+   "_score": 34.94671,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Does This Photograph Show Eight Rainbows?",
+    "author_name": "Dan Evon",
+    "date_published": "29 May 2016",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/eight-rainbow-photo/",
+    "claim": "A photograph shows eight rainbows over Lehigh, Pennsylvania.",
+    "content": " In May 2016, a photograph began to make the online rounds, purportedly showing eight rainbows in the sky \u2014 all at the same time \u2014 over Lehigh Valley, Pennsylvania:  Lehigh Valley, PA a friend\u2019s picture of eight rainbows!   Although this image was often shared as legitimate, it was based on a photograph that has been digitally manipulated. The image was originally a picture of a multiple rainbow uploaded to:Imgur in 2014:  While the triple rainbow photograph (a faint fourth rainbow can be spotted on the right of the picture) is most likely authentic, little information is available about when and where it was taken. In April 2015, a similar photograph circulated on the web. Paul Neiman, a research meteorologist at the National Oceanic and Atmospheric Administration\u2019s Earth System Research Observatory, explained that these \u201cquadruple rainbows\u201d do exist, but only under rare conditions. They come from two different light sources \u2014 the sun and a large reflective surface, such as a lake:   This is an outstanding example of a primary and secondary rainbow (relatively common) occurring together with their reflected-light counterparts (quite rare). Allow me to elaborate. A typical primary rainbow is caused by refraction and one internal reflection of sunlight within raindrops, resulting in a rainbow that is positioned 41 arc degrees from the anti-solar point (i.e., the point directly opposite the sun \u2013 for example, if the sun is 10 degrees above the horizon at your back, the anti-solar point is 10 degrees below the horizon directly in front of you). The refraction causes the separation of white sunlight into its component colors, with red on the outside of the rainbow and violet on the inside. The secondary rainbow, which is centered 51 arc degrees from the anti-solar point (i.e., the larger of the two bows during a typical display), involves two internal reflections of sunlight within the raindrops rather than one, resulting in a reversal of the color sequence (red on the inside and violet on the outside). We can usually only see the portion of these rainbows above the horizon, because there isn\u2019t a sufficient density of raindrops between the observer and the ground to see the rainbow below the horizon (exceptions include full-circle rainbows viewed from locales such as airplanes and mountain tops). So far, so good. For the much rarer reflected-light rainbows shown in this spectacular photo, a large glassy-smooth water surface is required behind the observer. This smooth water surface reflects the sun, such that a second solar light source is generated. This reflected sun, which is located the same the number of arc degrees below the horizon as the real sun is above the horizon, creates a second primary and secondary rainbow on the opposite side of the sky from the sun, but with the center of these reflected-light rainbows above the horizon. The geometry dictates that the regular and reflected-light rainbows will join at the horizon, as this photo shows. The rainbows in this case do, however, comply with the laws of physics, unlike the ones in the doctored, eight-rainbow photograph.  ",
+    "category": "Fauxtography",
+    "tags": [
+     "Natural Phenomena"
+    ]
+   }
+  }
+ ]
+}

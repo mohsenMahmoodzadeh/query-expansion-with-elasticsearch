@@ -1,0 +1,217 @@
+{
+ "max_score": 13.659488,
+ "hits": [
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "3839",
+   "_score": 13.659488,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Do Veterans Get Free Access to National Parks?",
+    "author_name": "Bethania Palma",
+    "date_published": "11 November 2020",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/veterans-national-parks-lifetime/",
+    "claim": "Veterans and Gold Star families get free access to national parks starting on Veterans Day 2020.",
+    "content": " On Veterans Day 2020, the U.S. National Park Service announced that as of Nov. 11, 2020, veterans and Gold Star families will have access to all national parks, free of charge. The announcement from the park service states that going forward, \u201cGold Star Families and U.S. military veterans receive free access to more than 2,000 federal recreation areas, including national parks, wildlife refuges and forests. The free access program is a way to thank America\u2019s veterans and Gold Star families for their support of our country and to encourage them to explore recreational opportunities on their public lands and waters.\u201d  To commemorate #VeteransDay and honor those who have served in the military, @SecBernhardt announced that Gold Star Families and Veterans of the U.S. Armed Forces will have free entrance to national parks forever. Learn more at https://t.co/AzFJbBEOwv #DOIDelivers pic.twitter.com/I43ZWVuW1k \u2014 National Park Service (@NatlParkService) November 10, 2020  Any veteran of the U.S. Armed Forces, including the National Guard and Reserves, can get free access to national parks by presenting certain identification. Their families benefit as well, per NPR: \u201cFree access is for the veteran or the holder of the Gold Star Family voucher as well as travelling companions who are occupants of a single, private non-commercial vehicle OR the veteran or voucher-holder and three persons (16 and older) where per person fees are charged. The voucher is non-transferrable and void if altered.\u201d ",
+    "category": "Holidays"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "9210",
+   "_score": 12.702639,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did President Trump Open National Parks and Wildlife Refuges for Coal Mining?",
+    "author_name": "Dan Evon",
+    "date_published": "5 April 2017",
+    "rating": "Mixture",
+    "url": "https://www.snopes.com/fact-check/coal-mining-federal-lands-leases/",
+    "claim": "President Trump opened National Parks and wildlife refugees to coal mining.",
+    "content": " In March 2017, multiple web sites published articles under headlines, such as \u201cTrump Opens National Parks and Wildlife Refuges for Coal Mining,\u201d which were true in a literal sense, but didn\u2019t convey that public lands had not been fully and permanently closed to such activity in the first place. On 28 March 2017, President Donald Trump signed an executive order titled \u201cPresidential Executive Order on Promoting Energy Independence and Economic Growth\u201d that overturned several environmental regulations implemented during the Obama administration, such as a temporary (three-year) moratorium on the leasing of federal lands for coal mining: Federal Land Coal Leasing Moratorium.  The Secretary of the Interior shall take all steps necessary and appropriate to amend or withdraw Secretary\u2019s Order 3338 dated January 15, 2016 (Discretionary Programmatic Environmental Impact Statement (PEIS) to Modernize the Federal Coal Program), and to lift any and all moratoria on Federal land coal leasing activities related to Order 3338.  The Secretary shall commence Federal coal leasing activities consistent with all applicable laws and regulations.  The Obama administration placed a three-year moratorium on the leasing of federal lands for coal mining in January 2016 in order to review how domestic coal production aligned with the United State\u2019s goal of reducing greenhouse gas emissions. This moratorium did not, however, completely halt coal production on public lands \u2014 Secretary\u2019s Order 3338 temporarily stopped new coal mining efforts from starting up on public lands but but allowed existing coal mining projects to continue in operation: The Obama administration will halt new coal mining on public land for the next three years with immediate effect as it undertakes a review of the \u201cenvironmental and public health impacts\u201d of coal production. The wide-ranging review, applauded by climate and environmental groups, will assess how federal coal production fits in with the US\u2019s commitment to reduce its greenhouse gas emissions. It will also ensure \u201cAmerican taxpayers are earning a fair return for the use of their public resources\u201d \u2014 raising the possibility of a hike in royalties or a new levy on coal producers. About 40% of US coal is mined on public land. Barack Obama flagged new restrictions on coal exploitation in his State of the Union address, saying: \u201cI\u2019m going to push to change the way we manage our oil and coal resources so that they better reflect the costs they impose on taxpayers and our planet.\u201d The department of interior, which oversees leases on public land, stressed that coal would continue to be an important part of the US\u2019s energy mix and that current operations would not be affected by the freeze in new leases. It is estimated there is around 20 years-worth of coal production already under way, with 50 pending leases set to be affected by the decision. \u201cThe federal coal program is in needs of modernization, as we haven\u2019t down a top-down review for the past 30 years,\u201d said Sally Jewell, secretary of the department of interior. \u201cThe lease program was designed to get as much coal out of the ground as possible. It\u2019s time to take a careful look to see if it best serves the needs and priorities of today.\u201d Although President Trump\u2019s executive order lifted this moratorium a few years earlier then originally intended, it did not \u201copen\u201d public lands to coal mining, as such activity had already taken place and was still underway. The order did, however, allow for federal lands to be leased to coal companies for new mining operations that were precluded while the moratorium was in effect: Interior Secretary Ryan Zinke has ended the federal government\u2019s Obama-era moratorium on coal-mining leases on federal land. Zinke signed an order repealing the pause in leases in his Washington, D.C., office, surrounded by Republican lawmakers, lobbyists and staffers. The action implements parts of an executive order that President Trump signed \u2014  focused on repealing environmental policies and restrictions on energy production \u2014 under the goal of increasing energy independence. That means the Bureau of Land Management can now resume the process of allowing new coal-mining leases on its land. So yes, President Trump signed an executive order that allowed for the issuance of new coal mining leases for federal lands.  But existing coal mining operations on federal lands were still ongoing, and the moratorium that precluded the issuance of new coal mining leases was due to expire in 2019. ",
+    "category": "Politics",
+    "tags": [
+     "Donald Trump",
+     "executive orders"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "8648",
+   "_score": 12.2330475,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did a Law Professor Assert That a Solar Eclipse Was \u2018Racist\u2019?",
+    "author_name": "Dan MacGuill",
+    "date_published": "21 August 2017",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/eclipse-racist/",
+    "claim": "Law professor Alice Ristroph wrote in the Atlantic magazine that the 2017 solar eclipse, its path, or those who viewed it, were \"racist.\"",
+    "content": " In August 2017, two right-wing web sites falsely reported that a law professor had written that a 2017 solar eclipse was \u201cracist.\u201d First, the Daily Caller published an article headlined \u201cThe Eclipse Is Racist Because It Fails to Affect Enough Black People, the Atlantic Suggests,\u201d stating that \u201cThe Atlantic, a once-great magazine, has determined that the total eclipse of the sun due to occur on Monday will fail to affect enough black people.\u201d The following day, the Conservative Tribune asserted in a similar vein: \u201cAre you looking forward to Monday\u2019s solar eclipse \u2014 the first full eclipse to hit the United States in decades? You filthy, filthy racist. That\u2019s at least the take of Brooklyn Law School professor Alice Ristroph, who used a staggering 4,544 words in The Atlantic to explaining why the phenomenon of the moon blocking the sun just wasn\u2019t diverse enough for her tastes.\u201d Both web sites were referring to an essay by Alice Ristroph, a professor at Brooklyn Law School in New York. Her essay, originally published in Democracy under the title \u201cBlackout,\u201d and republished by the Atlantic on 18 August 2017, did not state \u2014 or even imply \u2014 that the eclipse itself or the path of its totality were \u201cracist.\u201d Nor did Ristroph say or imply that the eclipse would not be visible to \u201cenough\u201d black people, or that those who chose to view the eclipse were \u201cracists.\u201d Instead, Ristroph penned a lyric essay that used the path of the eclipse as a literary mechanism to explore the United States\u2019 troubled racial history of \u201ctotality\u201d and \u201cdivision.\u201d In noting that the path of the eclipse would cross sections of the United States in which there lived \u201calmost no black people,\u201d Ristroph was clear to state that this circumstance was a coincidence (from an astronomical standpoint) but used that fact as an opportunity to examine the historical reasons why some areas of America remain predominantly non-black. Along the way, she discussed different visions of \u201ctotality,\u201d such as Oregon\u2019s original goal of being an all-white state, and General William Tecumseh Sherman\u2019s vision of \u201ctotal war\u201d during the U.S. Civil War.       At no point did Ristroph use the word \u201cracist,\u201d and she explicitly made the (blindingly obvious) point that the eclipse itself did not harbor any racial prejudice:  It has been dubbed the Great American Eclipse, and along most of its path, there live almost no black people. Presumably, this is not explained by the implicit bias of the solar system. It is a matter of population density, and more specifically geographic variations in population density by race, for which the sun and the moon cannot be held responsible \u2026 The shadow of the moon doesn\u2019t care where it falls or who lives below.  In 2015, the Daily Caller similarly prevaricated about a New York Times opinion piece on the subject of low visitation rates at national parks by minorities.  Under the headline \u201cNow America\u2019s National Parks Are Racist,\u201d the Daily Caller wrote:  The cozily white opinion pages of The New York Times attacked the National Park Service and America\u2019s majestic national parks as racist because way too many white people visit them. Also, the visitors are old. And about 80 percent of the park service\u2019s employees are white. Thus, \u201cminorities are unwelcome.\u201d  One again, the Daily Caller completely misrepresented the thrust of a race-related discussion.  The New York Times article in question, by Glenn Nelson, did not decry either America\u2019s national parks or the National Park Service as being \u201cracist,\u201d nor did that word appear anywhere in Nelson\u2019s piece.   The gist of Nelson\u2019s article was that attendance at U.S. national parks by minorities was comparatively low, that a primary reason for that phenomenon was unfamiliarity with national parks among minorities, and that the National Park Service should try to encourage broader visitation through outreach aimed at clearing up such unfamiliarity. Nelson did not assert, as the Daily Caller misrepresented, that \u201cminorities are unwelcome\u201d at U.S. national parks.  In fact, he argued the opposite \u2014 that the National Park Service should attempt to dispel the misperception among minorities that they were not welcome at national parks:  [M]any minorities say they know little about the nation\u2019s parks or what to expect when visiting them. In the 2011 park service survey, nonwhites were more than three times as likely as whites to say that the parks provided poor service and were not safe to visit. And those responses were from nonvisitors, which means that perceptions had congealed into reality among what should be an important constituency for the parks. We need to demolish the notion that the national parks and the rest of nature are an exclusive club where minorities are unwelcome. The park service[\u2018s] \u2026 outreach should be tailored to minorities and delivered where they log in, follow, Tweet, view or listen. The park service needs to shout to minorities from its iconic mountaintops, \u201cWe want you here!\u201d  On 12 January 2017, President Barack Obama took up that suggestion, issuing a memorandum on \u201cDiversity and Inclusion in Our National Parks\u201d that directed federal agencies (among other actions) to engage in conducting \u201cactive outreach to diverse populations\u201d and \u201cidentifying and making improvements to existing programs to increase visitation and access by diverse populations\u201d \u2014 \u201cparticularly minority, low-income, and disabled populations and tribal communities.\u201d ",
+    "category": "Politics",
+    "tags": [
+     "conservative tribune",
+     "daily caller"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "3809",
+   "_score": 11.152381,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Were Canadians Warned Not to Let Moose Lick Their Cars?",
+    "author_name": "Dan Evon",
+    "date_published": "16 November 2020",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/canadians-moose-lick-cars/",
+    "claim": "Photographs show a road traffic warning sign that reads: \"Do Not Let Moose Lick Your Car.\"",
+    "content": " On Nov. 14, 2020, a set of photographs supposedly showing a traffic sign in Canada warning passersby to \u201cnot let moose lick your car\u201d went viral on social media: These pictures stirred up some questions. Are these signs real? How exactly do you stop a moose from doing what a moose wants to do? And, just how widespread is the moose-licking-car problem in Canada? First of all, these pictures are real. This sign was spotted along Maligne Lake Road in Jasper, Alberta, Canada. And while the sign may seem a bit humorous, it addresses a genuine problem in the National Parks of Canada.  Moose, apparently, are somewhat obsessed with salt. Jue Urie, the owner-operator of the Jasper Tour Company, told the CBC:  \u201cRoad salt is kind of like crack [to moose].\u201d In the winter when roads are salted to prevent them from freezing, moose have figured out that the salt can be easily accessed on the front bumpers of parked cars. So when people stop to look at a moose, or when cars are simply parked in the area, these large animals can get dangerously close to the vehicles in order to get a taste of salt.        Fitzhugh.ca, a news website serving the Jasper area, talked to Jasper National Park spokesman Steve Young about the issue. Young said:  \u201c(This) started as an occasional issue a few years ago and now is too common \u2026 People are getting far too close, and it\u2019s perpetuated by their (the moose\u2019s) obsession with salt, accessing the vehicles.\u201d Here\u2019s a video news report from 2016 about moose licking cars in Alberta, Canada:      In 2016, during a similar spate of salt-licking moose incidents, Alberta Parks issued a warning to visitors to not let moose lick their cars. That warning had some specific strategies to deter this practice, such as honking the car horn, as well as some techniques to avoid, such as \u201cdo not attempt to push the moose away from your vehicle.\u201d This, of course, is not a problem specific to Canada. In 2018, the Buckrail, a news outlet from Jackson Hole, Wyoming, reported that U.S. National Parks officials were issuing similar warnings to visitors. Denise Germann, parks spokesperson, said: \u201cWe highly discourage the practice of allowing wildlife like moose to lick salt off vehicles.\u201d ",
+    "category": "Critter Country",
+    "tags": [
+     "Editor's Picks"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "6558",
+   "_score": 11.043201,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did Visitors to Joshua Tree National Park Cut Down Trees During the Government Shutdown?",
+    "author_name": "Dan MacGuill",
+    "date_published": "11 January 2019",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/joshua-tree-shutdown/",
+    "claim": "Some visitors to Joshua Tree National Park cut down trees and perpetrated other acts of vandalism in January 2019 while staff, whose numbers were diminished due to the federal government shutdown, attempted to monitor visitor behavior. ",
+    "content": " The U.S. federal government shutdown, which entered its 21st day on 11 January 2019, had a significant negative impact on one institution of American life in particular: the national parks. With staff cut back to a minimum, monuments, forests, and wilderness areas around the country saw a buildup of trash and human waste, and volunteer groups were required to intervene in an effort to perform whatever maintenance and cleaning they could. In January, it was widely reported that three deaths had occurred in national parks during the shutdown, although it\u2019s not at all clear that those deaths would have been prevented if the parks in question had been fully staffed. On 10 January, \u201cThe Other 98%\u201d Facebook page linked vandalism at the iconic Joshua Tree National Park in California to a lack of staff caused by the ongoing shutdown: \u201cDuring the shutdown, with Joshua Tree National Park open but no staff on duty, visitors cut down Joshua trees so they could drive into sensitive areas where vehicles are banned. The destroyed trees are irreplaceable; they take sixty years to mature and live for more than 500 years.\u201d        The key claim in the widely-shared meme, that staffing shortages contributed to the destruction of some of the iconic eponymous Yucca brevifolia trees at Joshua Tree National Park, is accurate, according to facts confirmed and descriptions provided by park management. Although it wasn\u2019t correct to say that \u201cno staff\u201d were on duty during the shutdown, staff numbers were very heavily diminished.  On 8 January, the National Park Service (NPS) announced that they would be temporarily closing Joshua Tree \u201cto allow park staff to address sanitation, safety, and resource protection issues in the park that have arisen during the lapse in appropriations\u201d: Park officials are identifying the additional staff and resources needed to address immediate maintenance and sanitation issues and will utilize funds from the park fees to address those issues per the recently updated National Park Service contingency plan during a lapse in appropriations. While the vast majority of those who visit Joshua Tree National Park do so in a responsible manner, there have been incidents of new roads being created by motorists and the destruction of Joshua trees in recent days that have precipitated the closure. Law enforcement rangers will continue to patrol the park and enforce the closure until park staff complete the necessary cleanup and park protection measures. In an interview with the National Parks Traveller website (which published a photograph of one of the downed trees), Joshua Tree National Park Superintendent David Smith gave further details on the vandalism perpetrated in the park in early January: \u201cThere are about a dozen instances of extensive vehicle traffic off roads and in some cases into wilderness,\u201d Smith replied when asked about the damage in the park. \u201cWe have two new roads that were created inside the park. We had destruction of government property with the cutting of chains and locks for people to access campgrounds. We\u2019ve never seen this level of out-of-bounds camping. Every day use area was occupied every evening. Joshua trees were actually cut down in order to make new roads.\u201d According to National Parks Traveller, Smith also drew a clear connection between the significant cut in staff numbers during the shutdown and the ability of park staff to monitor visitor behavior and prevent the kind of damage seen in recent days: Monitoring a park the size of Joshua Tree, which covers 1,235 square miles and has about 20 different entrances due to dirt roads that ring the park, is extremely difficult with just eight law enforcement rangers. Were it not for the shutdown, there would have been more than 100 other \u201csets of eyes\u201d to help keep an eye on visitor behavior, the superintendent said. \u201cWe have 120 employees in the park, plus 30 associates that work for Great Basin Institute, the majority of whom are in the park every day,\u201d he said. \u201cThose are the folks that are in the campgrounds and in the day-use areas and doing science. So you\u2019ve got 100 sets of eyes in the park every day with folks contacting visitors.\u201d The following day, 9 January, the National Park Service announced a reversal of the decision to temporarily close Joshua Tree, writing that management, acting on a controversial directive from acting Interior Secretary David Bernhardt, would use funds derived from visitor fees in order to bring back the staff needed to keep the park open: By immediately utilizing revenue generated by recreation fees, National Park Service officials have been able to avert a temporary closure of Joshua Tree National Park that had been previously scheduled for January 10. In addition, recently closed areas of the park will once again be accessible to visitors starting January 10. Some visitor services, including campgrounds and entrance stations, will reopen utilizing recreation fee revenue. National Park Service officials have determined that by using Federal Land and Recreation Enhancement funds to immediately bring back park maintenance crews to address sanitation issues, the park will be able to maintain some visitor services, including reopening the campgrounds. Crucially, the announcement again drew a direct link between diminished staff numbers caused by the government shutdown, and the earlier destruction of trees at Joshua Tree National Park: The park will also bring on additional staff to ensure the protection of park resources and mitigate some of the damage that has occurred during the lapse of appropriations. [Emphasis added.] ",
+    "category": "Politics",
+    "tags": [
+     "federal government shutdown",
+     "national parks",
+     "the other 98%"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "5038",
+   "_score": 10.92987,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Does Map of Missing Persons in US Match Up with Cave Systems?",
+    "author_name": "Dan Evon",
+    "date_published": "24 February 2020",
+    "rating": "Mixture",
+    "url": "https://www.snopes.com/fact-check/missing-persons-cave-maps/",
+    "claim": "A comparison of two maps shows how most people in the United States seem to go missing near cave systems. ",
+    "content": " An image graphic supposedly showing how a map of missing persons in the United States matches up with a map of America\u2019s largest cave systems is frequently shared on social media:  This may seem like an eerie coincidence at first glance. But when we took a closer look at where the maps originated and what they purportedly showed, the comparison seemed overstated. For starters, the top map is not an exhaustive list of every missing person in the United States. If you notice, the map doesn\u2019t show any missing persons in large metropolitan areas, like Detroit, Michigan. That\u2019s because it was created with the focus on people who \u201cmysteriously vanished\u201d in remote areas, specifically near national parks. And because national parks are home to nearly 5,000 caves, these two maps not surprisingly have some similarities. The original map of missing persons was created by David Paulides, a former detective and current Bigfoot hunter, for his \u201cMissing 411\u201d book series. The version of this map on his website shows a series of orange dots surrounded by various color markings, but it doesn\u2019t feature the hundreds of black dots shown on the viral map above. It appears that someone simply took the \u201ccave dots\u201d from the bottom map and overlaid them onto the \u201cmissing persons\u201d map. This may just explain why the two maps look so similar.        Here\u2019s a look at how these two maps compare when we use Paulides\u2019 original map (sans the black dots): Some parallels can still be drawn between the two maps (after all, Paulides was mapping people who \u201cmysteriously vanished\u201d near national parks, which are home to thousands of caves), but the similarities are not as clean.  As noted above, the people map is not an exhaustive list of all missing persons in the U.S. The National Missing and Unidentified Persons System (NamUs) reports that nearly 600,000 people go missing every year. Many of these cases are resolved with the persons being found alive and well, but tens of thousands of individuals will remain missing for more than a year. The vast majority of these missing-persons cases are not counted on this map.  The above-displayed people map only shows what Paulides calls \u201c411 cases,\u201d or cases Paulides has deemed as having strange circumstances. This could be a case involving dogs that failed to pick up a scent, people who were found with missing clothing items, or cases involving people who traveled unusual distances after they were last seen. The Skeptical Inquirer took a deeper look into Paulides\u2019 \u201c411 Cases,\u201d and while the Inquirer found that Paulides\u2019 work involved real cases of missing persons, many of the so-called strange circumstances had plausible explanations: Paulides has classified over 1,440 missing persons cases under the Missing411 label. At its core, Missing411 is the vague claim that something unusual is occurring related to deaths and disappearances in national parks. The concept has been steeped in the milieu of conspiracy and the supernatural, as Paulides frequently appears on paranormal-oriented radio shows and podcasts to discuss it. A forthcoming documentary appears to be in the works as well. (I have been unable to ascertain the meaning of 411. I can only speculate that it\u2019s a slang synonym for \u201cinformation,\u201d although \u201cMissingInfo\u201d isn\u2019t much better of a moniker.) [\u2026] I was finding these cases to be fairly mundane until I arrived at the hiker\u2019s disappearance. Following a deadpan factual reporting of the details, Paulides quotes a local person saying cryptically that \u201caccording to local legend, beings called Lemurians lived underneath Mount Shasta . . . maybe the Lemurians got Carl.\u201d The text is decorated sparsely with this and other head-scratching non sequiturs. For example, in the last case of my brief audit, a woman named Amy disappears while exercising. Her body was never recovered but her wristwatch was found in a river bed years later. Paulides points out that years after that, a woman named Ann disappeared from the same place. He felt the need to point out that \u201cboth of their names start with A, and their first names only had three letters.\u201d I can only presume Paulides is open to the possibility that some nefarious Batman villain is at work in this area. Beware the three-lettered killer! In short, the above-displayed maps \u2014 one showing people who mysteriously vanished, the other cave systems in the U.S. \u2014 do bare a few similarities. However, that\u2019s because the missing-persons map shows people who vanished under strange circumstances near national parks \u2014 which house thousands of caves \u2014 and not an exhaustive list of every person currently missing in the United States. ",
+    "category": "Paranormal"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "13911",
+   "_score": 10.7791605,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Spiteful Obama Blocks Off View of Mt. Rushmore",
+    "author_name": "David Mikkelson",
+    "date_published": null,
+    "rating": null,
+    "url": "https://www.snopes.com/fact-check/rap-sheet/",
+    "content": "  Claim:   Photograph shows Mount Rushmore obscured by a helicopter-suspended sheet due to the federal government shutdown.  FALSE        Example:   [Collected via e-mail, October  2013]  Is Mount Rushmore really being covered during government shutdown? A picture is going around on FB showing two helicopters with a large piece of fabric (white sheets) hanging from them covering the faces on Mt. Rushmore.  Says Obama ordered this!       Origins:   One of the effects of the federal government shutdown of October 2013 has been the closure of public access to parks, battlefields, monuments, and historic houses under the jurisdiction of the federal government.  Although in some areas visitors may still be able to reach,  drive through, or view (from a distance) various national parks and other historic sites, all national park facilities, trails, visitor centers, and the like are closed.         One of the sites affected by the government shutdown is the famous Mount Rushmore National Memorial in the Black Hills of South Dakota, which features the likenesses of four U.S. presidents carved into the granite face of Mount Rushmore.  That site was the subject of some controversy because \u2014 as with other national parks \u2014 not only were its visitor center, viewing areas, and trails closed with the onset of the government shutdown (thereby preventing tourists from accessing some of the best vantage points for viewing the sculpture), but the National Park Service initially placed cones along a nearby highway that prevented motorists from stopping and snapping photos of the monument at roadside viewing areas:  The National Park Service placed cones along highway viewing areas outside Mount Rushmore, barring visitors from pulling over and taking pictures of the famed monument. The cones first went up Oct. 1, said Dusty Johnson, [South Dakota] Gov. Dennis Daugaard\u2019s chief of staff. The state asked that they be taken down, and federal officials did so with some of them. The state was told the cones were a safety precaution to help channel cars into viewing areas rather than to bar their entrance. \u201cI think reasonable people can disagree about that,\u201d Johnson said. The cones were down again [three days later] as a blizzard hit the Black Hills and plows needed access to the roads, Johnson said. He said the state would be monitoring to see whether the cones are put back along viewing areas. \u201cOnce the snow\u2019s off the ground, we\u2019re going to be keeping an eye on how the cones go up,\u201d Johnson said.       The widely circulated image of the sheet-toting helicopters shown above is nothing more than a digital manipulation created as a humorous illustration to a similar article, however.  The Mount Rushmore National Memorial has not been obscured from view by a large sheet suspended from helicopters (a patently silly notion) or anything else.  Although visitors may not currently be able to access some of Mount Rushmore\u2019s best viewing points, the monument itself remains visible anywhere from which it normally could be seen. Last updated:   5 October 2013   Sources:        Elliott, Christopher.    \u201cEverything You Need to Know About the National Park Closures.\u201d       National Geographic.    3 October 2013.       Ellis, Jonathan.    \u201cRushmore Blockage Stirs Anger in S.D.\u201d       Sioux Falls Business Journal.    5 October 2013.   ",
+    "category": "Fauxtography",
+    "tags": [
+     "ASP Article"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "5991",
+   "_score": 10.463318,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Was the Canadian Flag Displayed Across Niagara Falls?",
+    "author_name": "Dan Evon",
+    "date_published": "2 July 2019",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/canadian-flag-on-niagara-falls/",
+    "claim": "A photograph shows a Canadian flag displayed across Niagara Falls for Canada Day, July 1, in 2019. ",
+    "content": " A photograph supposedly showing a light display across Niagara Falls featuring the Canadian flag was widely shared on social media on Canada Day, July 1, in 2019: This is not a genuine photograph of Niagara Falls on Canada Day. While the Falls sometimes are illuminated in a variety of colors at night, these displays typically consist of solid bands of colors (not shapes such as the maple leaf shown above).  The Niagara Parks Commission provided some details about the real \u201cFalls Illumination\u201d events on their website: Every evening beginning at dusk, Niagara Falls is transformed into an incredible, multi-coloured water and light masterpiece. Special lights are housed in the Illumination Tower, next to Queen Victoria Place; on the roof of Table Rock Centre, at the brink of the Horseshoe Falls; and deep in the Niagara Gorge, across from the American Falls. Together, these lights work to create a breathtaking view not to be missed. The falls are also lit in custom colours for short durations to mark significant dates in support of charitable causes. Special colour illuminations are provided courtesy of The Niagara Falls Illumination Board. In addition to these nightly light shows, the Falls are occasionally lit with specific colors in honor of special events and holidays. When the Toronto Raptors won the NBA championship, for instance, the waterfall was lit red:                   View this post on Instagram                            \u202aTonight as the @Raptors seek Canada\u2019s first ever @NBA Championship, Niagara Falls will once again be proudly lit in Raptor Red at 9:30pm! \u202c \u202a#WeTheNorth #Raptors #NiagaraParks #NiagaraFalls #DiscoverON #ExploreCanada #Niagara\u202c A post shared by  Niagara Parks (@niagaraparks) on Jun 10, 2019 at 5:50pm PDT          On Canada Day, the lights illuminate Niagara Falls in red and white, the colors of the Canadian flag \u2014 minus any maple leaf.  The above-displayed image was created by digitally editing a photograph of the Niagara Falls\u2019 Canada Day display that was posted to Reddit in 2018. Here\u2019s a look at the edited image (left) and the original image (right): Chris Giles, travel media relations and content coordinator for Niagara Parks, confirmed that the image to the left \u201chas been photoshopped.\u201d Angela Berti, a spokesperson with New York State Parks, told us: \u201cThere was NO projection of the Canadian flag on the Falls. That is not a practice that is allowed. The Falls are lit each night, however, by the Niagara Falls Illumination Board, a binational organization that oversees the lighting of the Falls. We work hard to keep the Falls as natural as possible.\u201d This wasn\u2019t the only digitally altered picture of the Canadian flag on Niagara Falls to circulate on Canada Day 2019. This is also such a picture:  This picture was originally submitted to Worth1000.com (now DesignCrowd.com) in 2005 for the \u201cNationalism 2\u201d Photoshop contest: The rules of the contest explained: \u201cJust look in the crowd at any international sporting event. National pride is bursting at the seams. Body paint galore. Now we want you to take this idea a little farther. Place national symbols/flags on any random object. Don\u2019t just place a flag marking on someone\u2019s face. How boring, how unoriginal. You can do better than that.\u201d ",
+    "category": "Fauxtography"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "2239",
+   "_score": 10.270943,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Is There a \u2018No-Fly Zone\u2019 Over Walt Disney World?",
+    "author_name": "Madison Dapcevich",
+    "date_published": "4 April 2021",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/no-fly-zone-wdw/",
+    "claim": "Airplanes are restricted from flying over Walt Disney World in Orlando, Florida, under a \u201cno-fly\u201d restriction issued by the Federal Aviation Administration. ",
+    "content": " The Walt Disney World resort in Orlando, Florida, is one of just two U.S. theme parks awarded a \u201cno-fly zone\u201d designation. The other is Disneyland in Anaheim, California. Those federal government-designated protections grant the theme parks the same protection as the White House and NASA\u2019s Kennedy Space Center in Florida. According to the Federal Aviation Administration (FAA), the permanent flight restrictions were issued on Oct. 27, 2014, for unnamed \u201csecurity reasons\u201d. They require that no aircraft come within 3,000 feet in altitude of the theme park for a radius of three miles. Any person who knowingly violates the rules may be subject to certain criminal penalties under a violation of national defense airspace and could face fines or imprisonment for up to one year. Pilots who do not adhere to the restriction may be intercepted and detained. However, the no-fly zone does not apply to aircraft operated by the Department of Defense, law enforcement, or air ambulance flight operations. Flights operated by Walt Disney World itself are also allowable under an approved waiver. ",
+    "category": "Disney"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "18029",
+   "_score": 10.019023,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Questions Asked of Park Rangers",
+    "author_name": "David Mikkelson",
+    "date_published": "13 December 1999",
+    "rating": null,
+    "url": "https://www.snopes.com/fact-check/questions-asked-park-rangers/",
+    "content": " Reportedly excerpted from Outside Magazine, May 1995, pp. 120-121. Grand Canyon National Park:  Was this man-made? Do you light it up at night? I bought tickets for the elevator to the bottom \u2014 where is it? Is the mule train air conditioned? So where are the faces of the presidents?  Everglades National Park:  Are the alligators real? Are the baby alligators for sale? Where are all the rides? What time does the two o\u2019clock bus leave?        Denali National Park (Alaska):  What time do you feed the bears? Can you show me where the yeti lives? How often do you mow the tundra? How much does Mount McKinley weigh?  Mesa Verde National Park:  Did people build this, or did Indians? Why did they build the ruins so close to the road? Do you know of any undiscovered ruins? Why did the Indians decide to live in Colorado?  Carlsbad Caverns National Park:  How much of the cave is underground? So what\u2019s in the unexplored part of the cave? Does it ever rain in here? How many ping-pong balls would it take to fill this up? So what is this \u2014 just a hole in the ground?  Yosemite National Park:  Where are the cages for the animals? What time do you turn on Yosemite Falls?  Yellowstone National Park:  Does Old Faithful erupt at night? How do you turn it on? When does the guy who turns it on get to sleep? We had no trouble finding the park entrances, but where are the exits?  Last updated: &nbsp; 8 July 2007 13 December 1999 - original 8 July 2007 - added 2007 case   &nbsp;  Sources:   &nbsp; &nbsp; Acosta, Mark. &nbsp; \"Parents Want Answers Over Math Exam's Dark Content.\"  &nbsp; &nbsp; The [Riverside] Press-Enterprise. &nbsp; 9 July 1997 &nbsp; (p. A1).  --> ",
+    "category": "Humor",
+    "tags": [
+     "national park service",
+     "national parks",
+     "Qwazy Questions"
+    ]
+   }
+  }
+ ]
+}

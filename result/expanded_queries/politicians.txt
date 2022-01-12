@@ -1,0 +1,227 @@
+{
+ "max_score": 11.976053,
+ "hits": [
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "3927",
+   "_score": 11.976053,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did Hunter Biden \u2018Flip\u2019 and Turn Himself in to the FBI?",
+    "author_name": "Jordan Liles",
+    "date_published": "1 November 2020",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/hunter-biden-flipped-fbi/",
+    "claim": "Joe Biden's son, Hunter, turned himself in to the FBI and \"flipped\" on his father.",
+    "content": " On Oct. 28, 2020, a message posted to 4chan\u2019s /pol/ (\u201cPolitically Incorrect\u201d) claimed that Hunter Biden had turned himself in to the FBI and \u201cflipped\u201d on his father, former vice president Joe Biden. In the following days, readers asked us in both mail and searches if that claim was true. The message on /pol/ read as follows: Hunter Biden has turned himself into the FBI. He was personally interviewed this afternoon by Barr and six other Justice Department lawyers. He has been stashed in a medical facility in Washington D.C. where he is getting treatment for his addictions. So far he has signed statements and provided proof of over 300 million in bribes the Biden family has received in the last 20 years. The funds are hidden in several accounts in Switzerland and Hunter has provided proof that Joe Biden has been accessing those accounts and using funds for years. So far the evidence shows Joe Biden has personally removed over 45 million in cash and used it for personal items. The information has been forwarded to a special unit of the IRS for investigation. Barr will be meeting with Biden on Friday and recommend he either withdraw from the race or face numerous criminal charges. If he withdraws from the race and forfeit all funds in the accounts, the Biden family and specifically Hunter will not face criminal charges. The message spread to the conspiracy theory website BeforeItsNews and from there was shared on social media:  Real or fake?   Hunter Biden Has Flipped, Biden Family $300 Million Stash In Switzerland\u2026 Rudy Guiliani Freestyles One Of Greatest Speeches Ever, A Summary Of Joe Biden's 30 Year Crime Spree, Saying Joe Biden Is \"The Prince Of Darkness\"!! | Alternative https://t.co/nMUMsQxRs6 \u2014 Juanita Broaddrick (@atensnut) October 30, 2020         I heard Hunter Biden turned himself in to FBI on the 28th and flipped on pops. Spilled his guts for no charges and was put into a treatment center. Have you heard anything about that? \u2014 Amber Bouchard (@AmberBouchard) October 31, 2020   Hunter Biden has flipped? pic.twitter.com/SeJ6IG66VW \u2014 Chromosome-8 \ud83e\uddec (@chromosome_8) October 29, 2020   14/n Reportedly #HunterBiden has flipped pic.twitter.com/wd6ZjGbVDu \u2014 HolyNuts (Gab: @holynuts) (@netineti_itiiti) October 30, 2020   Biden turned himself in! https://t.co/9uq6e1cpOC \u2014 PaulDemske EsotericHealing (@Luap5150) October 30, 2020  The message also said this about Oct. 30: \u201cBarr will be meeting with Biden on Friday and recommend he either withdraw from the race or face numerous criminal charges.\u201d We were unable to find any credible news organizations that reported this alleged development. Had something of this magnitude occurred in the final week before Election Day, it would have driven wall-to-wall coverage in the news media, yet mention of it appeared not have been published even by far right-wing bloggers. This story stemming from 4chan\u2019s /pol/ follows a Hunter Biden death hoax that that also originated on /pol/. ",
+    "category": "Politics"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "5186",
+   "_score": 11.582161,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Starbucks Dreamer Day",
+    "author_name": "Kim LaCapria",
+    "date_published": "7 August 2017",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/starbucks-dreamer-day/",
+    "claim": "Starbucks is giving a discount to undocumented immigrants on 11 August 2017.",
+    "content": " On 2 August 2017, images advertising \u201cStarbucks Dreamer Day,\u201d indicating that the coffee chain planned to give a deep discount to undocumented immigrants circulated on social media:  Proud of @Starbucks for standing up to @realDonaldTrump. #borderfreecoffee #Immigrant #DREAMER pic.twitter.com/q1gmct8roL \u2014 (((Alt-Lite))) (@unrealAriel) August 3, 2017   @Starbucks Is this legit? pic.twitter.com/5uGpUAqQ2H \u2014 ProudAmericanGirl (@01ProudAmerican) August 3, 2017        Other iterations said the \u201cDreamer Day\u201d would take place on 10 September 2017:  pic.twitter.com/4oU9RYHGg9 \u2014 ProudAmericanGirl (@01ProudAmerican) August 4, 2017  By 4 August 2017 @Starbucks began responding to shares of iterations of the image, denying any such promotion existed and asking Twitter users about the origins of the rumor:  Michael, this is completely false. Starbucks is not sponsoring any such event. Where did you get this image? \u2014 Starbucks Coffee (@Starbucks) August 4, 2017   We\u2019re sorry you\u2019ve been completely misinformed. Starbucks is not sponsoring any such event. How did you hear this information? \u2014 Starbucks Coffee (@Starbucks) August 4, 2017        The second Starbucks tweet quoted was a response to a since-deleted tweet sent by @MariaChavez88, an account created on or around 3 August 2017 (almost certainly to seed the rumor on Twitter). Its second tweet was about the purported promotion, and its first about tacos:  Gracias Starbucks por mostrar apoyo a la comunidad Latina! mucho amor!! #borderfreecoffee pic.twitter.com/48BpZ8NrV4 \u2014 Maria Chavez (@Maria_chavez88) August 3, 2017   My auntie made some fire tacos! So glad she could come visit pic.twitter.com/ZON4lDzo3z \u2014 Maria Chavez (@Maria_chavez88) August 3, 2017  The image of \u201cfire tacos\u201d made by the user\u2019s \u201cauntie\u201d was swiped from recipe site Yummly. Even after the company denied the reports, pranksters continued to push the rumor:  Just confirmed with local Starbucks managers. They have chosen to honor Dreamer Day at all metro-Detroit Starbucks. #BorderFreeCoffee \u2014 James Aspen (@JamesCAspen) August 7, 2017        Before long, the claim inspired a second rumor that the first was a ruse to lure undocumented immigrants to central locations on a specific date. A 3 August 2017 thread posted to the DREAM Act forum warned: Dreamers, There is a flyer going around from 4chan stating we get free GRANDE cold beverage. Do not fall for it, their plan is to trick us into going and have them call ICE. Please be careful. On 2 August 2017, users of 4Chan\u2018s /pol/ forum apparently concocted the phony Starbucks Dreamer Day promotion, as way to get \u201call illegals to go at once and demand free stuff\u201d at a \u201cliberal place.\u201d Commenters immediately suggested calling Immigrations and Customs Enforcement (ICE) as well. But the original concept was floated simply as a way to drive a wedge between various liberal factions: How about we meme \u201cUndocumented Immigrant Day\u201d at Starbucks into existence? Announce free coffee for all illegals on a certain date. August 11? 11 looks like II (for Illegal Immigrant). I\u2019m open to suggestions there. Name a liberal place for all illegals to go at once and demand free stuff. Thoughts?  And then call ICE? I like it. Could cripple their business a bit.  My other idea is to get rainbow flag businesses to do the same thing. Get Milo or someone like that to film them so they can be shamed when they decline to take part. Drive the wedge between liberals and gays. Some gays are super liberal and want refugees. Some aren\u2019t stupid and know the refugees want to murder gays. The 4chan/pol/ forum has been the source of a number of media hoaxes and social media pranks, typically designed to sow discord among liberals and progressives (or to simply get media outlets to report their claims as legitimate phenomena). Prior hoaxes hatched on /pol/ included claims that a black McDonald\u2019s worker named Bubba Conroy spit in white peoples\u2019 food; that Hillary Clinton\u2019s campaign started a \u201c#DraftOurDaughters\u201d initiative; and that individuals were identifying as \u201cclovergender.\u201d  The hoaxes targeted what /pol/ users believed was political correctness, attempting to agitate social media users with rumors about race, gender identity, feminism, democratic socialism, and immigrants.  ",
+    "category": "Politics",
+    "tags": [
+     "/pol/",
+     "4chan",
+     "4chan hoaxes"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "9",
+   "_score": 10.67511,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Was US Rep. Jim Jordan Suspended From Twitter?",
+    "author_name": "Dan Evon",
+    "date_published": "10 January 2022",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/jim-jordan-suspended-twitter/",
+    "claim": "Republican congressman Jim Jordan was suspended from Twitter on Jan. 10, 2022. ",
+    "content": " Curious about how Snopes\u2019 writers verify information and craft their stories for public consumption? We\u2019ve collected some posts that help explain how we do what we do. Happy reading and let us know what else you might be interested in knowing. On Jan. 10, 2022, a screenshot started to circulate on Gab that supposedly showed U.S. Rep. Jim Jordan\u2019s Twitter account after he was suspended from Twitter:  Jordan has not been suspended from Twitter. While this screenshot is real, the @RepJimJordan Twitter account does not belong to the Ohio congressman.  Jordan\u2019s official Twitter account resides under the handle @jim_jordan. This account is listed on the congressman\u2019s official website. And the account, which has over 2.2 million followers, is still active. Jordan regularly uses this account for politics. His two most recent posts, as of this writing, were \u201cFreedom!\u201d and \u201cMove the Super Bowl to Ohio!\u201d On more consequential matters, Jordan used this account to issue a statement that he would not be cooperating in the bipartisan investigation into the attack on the U.S. Capitol on Jan. 6. Jordan previously said that he would cooperate as he had \u201cnothing to hide.\u201d        It isn\u2019t clear who set up the @RepJimJordan account, or what it was being used for. There are no archived versions of this page available. While we can\u2019t tell you what @RepJimJordan was posting, the fact that there are no archives of this page suggests that this was a relatively new account that was not monitored by political reporters because it was never used by the congressman.  In all likelihood, this account was suspended for impersonating a lawmaker.  The false claim that Jordan\u2019s Twitter account was suspended from Twitter comes a few days after another politician, Georgia U.S. Rep. Marjorie Taylor Greene, was permanently suspended from Twitter for repeated violations of the network\u2019s COVID-19 misinformation policy. The social network also banned former President Donald Trump after a mob of his supporters attacked the U.S. Capitol in January 2021. Twitter stated that account was suspended \u201cdue to the risk of further incitement of violence.\u201d Source: Broadwater, Luke. \u201cJim Jordan Refuses to Cooperate With Jan. 6 Panel.\u201d The New York Times, 10 Jan. 2022. NYTimes.com, https://www.nytimes.com/2022/01/09/us/politics/jim-jordan-jan-6-panel.html. Conradis, Brandon. \u201cJan. 6 Panel Fires Back at Jordan over Refusal to Cooperate.\u201d TheHill, 10 Jan. 2022, https://thehill.com/policy/national-security/589030-jan-6-panel-fires-back-at-jordan-over-refusal-to-cooperate. Niedzwiadek, Nick. \u201cMTG Hit with Facebook Suspension after Twitter Ban.\u201d POLITICO, https://www.politico.com/news/2022/01/03/marjorie-taylor-greene-facebook-suspension-526398. Accessed 10 Jan. 2022. Permanent Suspension of @realDonaldTrump. https://blog.twitter.com/en_us/topics/company/2020/suspension. Accessed 10 Jan. 2022.  ",
+    "category": "Technology"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "3943",
+   "_score": 10.392125,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "No, Hunter Biden Did Not Die From a Drug Overdose",
+    "author_name": "Dan MacGuill",
+    "date_published": "27 October 2020",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/hunter-biden-dead-overdose-hoax/",
+    "claim": "Hunter Biden died of a drug overdose in October 2020",
+    "content": " Voting in the 2020 U.S. Election may be over, but the misinformation keeps on ticking. Never stop fact-checking. Follow our post-election coverage here. In October 2020, a false and distasteful rumor emerged online that Hunter Biden, the 50-year-old son of Democratic presidential candidate Joe Biden, and the subject of several interconnected allegations related to his personal life and business affairs, had died from a drug overdose.  The claim appears to have originated on 4chan\u2019s /pol/ (\u201cPolitically Incorrect\u201d) thread, the birthplace of many dark, inflammatory and dangerous right-wing memes, rumors and conspiracy theories in recent years.  On Oct. 19, an anonymous user wrote on /pol/: \u201cMedical professional and long-time lurker here. Hunter Biden is being treated for a heroin overdose in my hospital and is in critical condition. Don\u2019t ask for proof or details because what I\u2019m doing is highly illegal and were it not for my double VPN you wouldn\u2019t be reading this.\u201d       On Oct. 25, an anonymous user with a different ID wrote: \u201cDon\u2019t ask me how I know but Hunter Biden died of a crack overdose over 20 minutes ago. Joe is already on his way to the hospital.\u201d  The rumor that Biden had died spread online in the ensuing hours and days. Some observers were convinced of the credibility of the Oct. 25 post because the associated user had the same \u201cPepe the Frog\u201d avatar as the anonymous user who announced the suicide of financier and convicted sex criminal Jeffrey Epstein in a New York prison in August 2019. In particular, @NeonRevolt, an enthusiastic promoter of the QAnon cluster of conspiracy theories on various online platforms, popularized the claim that the person who announced Biden\u2019s death on Oct. 25 was the same person who used a similar formula of words to announce Epstein\u2019s death in August 2019:   In reality, different individuals can use the same avatar when posting to 4chan, and no evidence existed to demonstrate that the person behind the Epstein announcement was the same person who claimed that Biden had died of a drug overdose in October 2020.  In any event, the announcement of Biden\u2019s death was false. His attorney, George Mesires, confirmed to Snopes that Hunter Biden was alive, writing \u201cThe rumor is false.\u201d The false announcement of Biden\u2019s death quickly prompted speculation and conspiracy theories. The specific claim that he had died from a drug overdose was particularly distasteful, given that Biden has spoken publicly about his long battle with alcohol and drug addiction.   ",
+    "category": "Politics",
+    "tags": [
+     "2020 election"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "3961",
+   "_score": 10.241016,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did Nike Offer \u2018People of Color\u2019 a 75 Percent Off Coupon?",
+    "author_name": "Dan MacGuill",
+    "date_published": "7 September 2018",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/nike-coupon-color/",
+    "claim": "Nike offered 'people of color' several coupons for discounts on the company's products.",
+    "content": " Nike\u2019s September 2018 advertising deal with Colin Kaepernick caused a storm of controversy and debate in September 2018, with calls for a boycott of the company by those opposed to the national anthem protests against racial injustice which Kaepernick led by \u201ctaking a knee\u201d during the 2016 NFL season. The deal also prompted a wave of misinformation and junk news, include fake reports that the University of Alabama, the federal government, and Michael Jordan had all cut ties with Nike over the Kaepernick deal, that Kaepernick had immediately lost the deal after an \u201canti-white\u201d rant, and a viral hoax which falsely claimed that one man had ended up in the hospital after symbolically setting fire to his Nike shoes, while still wearing them. In the days following the announcement of the endorsement deal, internet users began sharing fake Nike coupons which purported to offer \u2018people of color\u2019 significant discounts on Nike shoes and clothing, as part of the ongoing \u201cbelieve in something\u201d campaign being headed by Kaepernick. In an archived 5 September thread on the controversial /pol (\u201cpolitically incorrect\u201d) section of 4Chan, users posted three versions of the fake coupons \u2014 one offering \u2018people of color\u2019 75 percent off shoes and apparel until 1 January 2019, another offering the same discount until 9 September 2018, and another offering \u201curban youth\u201d 80 percent off shoes and apparel until 31 October 2018:             In a conversation riddled with racist tropes, slurs and imagery, 4Chan users discussed plans to print out the fake coupons and distribute them in shopping malls and near Nike stores in an effort to cause confusion and mischief. In a potentially dangerous twist, the QR code on the second coupon reveals a threatening message when scanned with a QR reader: \u201cThis is a ROBBERY, Move slowly and put all the LARGE bills in the shoe box OR everyone DIES.\u201d In reality, Nike did not offer any such discount coupons in September 2018, as none was listed among the company\u2019s official list of promotions and discounts. A small image of Kaepernick\u2019s face in the QR code of two of the coupons further confirmed that the artifacts were hoaxes. The /pol section of 4Chan has a history of racially-charged hoaxes such as the \u201cNike coupon,\u201d which appeared in September 2018. In April 2018, 4Chan users concocted a similar fake Starbucks coupon for a free drink for customers \u201cof African-American heritage.\u201d The fake coupon emerged after a controversy in which Starbucks apologized when two black men were arrested while waiting in a Starbucks coffee shop in Philadelphia. When scanned, the QR code in the Starbuck fake coupon displayed the word \u201cnigger.\u201d ",
+    "category": "Junk News",
+    "tags": [
+     "4chan",
+     "4chan hoaxes",
+     "colin kaepernick"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "6066",
+   "_score": 10.241016,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did the Queen Call President Trump an \u2018Amazing Person\u2019 with a \u2018Good Heart\u2019?",
+    "author_name": "Dan MacGuill",
+    "date_published": "7 June 2019",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/queen-elizabeth-praised-trump/",
+    "claim": "Queen Elizabeth II called U.S. President Donald Trump an \"amazing person\" with a \"good heart\" in a controversially suppressed interview in June 2019.",
+    "content": " In the aftermath of U.S. President Donald Trump\u2019s state visit to the U.K., France, and Ireland in June 2019, some of his supporters began sharing a meme that appeared to contain glowing praise for the 45th president, provided by none other than Queen Elizabeth II. The meme contained a photograph of Trump and Her Majesty sitting next to one another, along with the following quotation: \u201c\u2018He\u2019s really just an amazing person. So thoughtful, you know. We\u2019ve had some private talks and he is very genuine. I have a sense about people, and the president has a good heart. In another life, he could be my son'\u201d:  The \u201cIn Trump We Trust\u201d Facebook page provided the following additional context for the purported quotation: \u201cUK reporter says executives scrapped [an] entire interview with Queen Elizabeth after she repeatedly praised President Trump.\u201d That post was removed on 7 June, but an archived version can be viewed here.  On 4 June, the right-leaning, conspiracy-theory website \u201cClover Chronicle\u201d published a post similarly asserting that: \u201cA staffer at an unnamed MSM [mainstream media] news outlet in the United Kingdom is claiming they were recently involved in an interview with Queen Elizabeth II where she unexpectedly complimented U.S. President Donald Trump. The alleged insider said executives at the organization are \u2018fuming\u2019 because they couldn\u2019t salvage the piece due to her relentless praise of the POTUS.\u201d Those claims originated with a 4 June post on the notorious /pol/ section of the online forum 4chan, a frequent source of hyper-partisan misinformation. There, an anonymous member wrote: Was just involved in an exclusive interview with the Queen, but the execs at my company decided not to air it because she praised Trump so fucking much. It was literally impossible to edit and not make it look like total garbage. The brass are fuming, /pol/. It\u2019s as if she said fuck it and just spoke her mind. It was AMAZING. Here\u2019s just one of the questions/answers between her and the reporter- Q: Many are wondering about your relationship with President Trump? Can you tell us a bit about it? A: He\u2019s really just an amazing person. So thoughtful, you know. We\u2019ve had some private talks and he is very genuine. I have a sense about people, and the President has a good heart. In another life, he could be my son. After that, everyone was absolutely flabbergasted. I could tell it was hard for the interviewer to go on and follow the script, but he/she did nonetheless. There was no factual basis to this story, and the remarks attributed to Elizabeth were fabricated. A spokesperson for Buckingham Palace confirmed as much to Snopes, writing in an email: \u201cHer Majesty The Queen does not give interviews, and did not give an interview.\u201d ",
+    "category": "Junk News"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "3957",
+   "_score": 10.094237,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Hillary Clinton and #DraftOurDaughters",
+    "author_name": "Kim LaCapria",
+    "date_published": "28 October 2016",
+    "rating": null,
+    "url": "https://www.snopes.com/fact-check/hillary-clinton-and-draftourdaughters/",
+    "claim": "Hillary Clinton tweeted that we should #DraftOurDaughters, encouraging women to go to war.",
+    "content": " On 28 October 2016, the hashtag #DraftOurDaughters began trending on Twitter, vaguely connected with purportedly \u201cleaked\u201d ads produced by Hillary For America (an arm of the Hillary Clinton campaign).  #DraftOurDaughters appeared in the early hours of 28 October 2016, quickly becoming popular. Dozens of official looking images boasted a pro-war position, and one popular purported tweet from Clinton was circulated widely:  @OnMessageForHer Yeah no she just lost my vote. Like wtf?! Democrats want to DRAFT ME? I\u2019ll vote Trump so I don\u2019t go to war and die TYVM pic.twitter.com/TiCHA2Xrmw \u2014 Alisha Arsenault (@alishabae69) October 28, 2016         The depicted tweet appeared to exist only in screenshot form, and was not anywhere to be found on Hillary Clinton\u2019s account. The tweet from Twitter user \u201c@alishabae69\u201d was the first ever published by that account, which was created in October 2016 and consisted solely of #DraftOurDaughters content. The avatar for that account appeared to be lifted from a widely circulated image of a woman named Alena Ushkova. The photograph was first published in 2014, and apparently depicted a person not from the United States:  A Facebook page was one of several social media users or entities to assert that news outlets \u201ctook the bait\u201c, covering the hashtag as a legitimate Clinton campaign effort. That article was clearly marked as an unvetted \u201ccommunity\u201d submission, and contained obviously satirical content: I wonder what Donald will have to say about this one\u2026 I\u2019m sure my wife would be proud to stand up to Russia\u2019s homophobic and Christian ways. #ImWithHer #EnlistForHillary #DraftOurDaughters Remember to vote November 12th! It didn\u2019t take all that much digging to discover #DraftOurDaughters was the work of Clinton opponents, as commenters on the subreddit r/The_Donald explained:  The #DraftOurDaughters hashtag was not an official Hillary Clinton campaign effort. The trend originated on 4chan\u2019s /pol/, where users cooked up fake campaign ads and arranged to spread them on social media in an attempt to dupe fellow users. Separate threads on /pol/ laid out the plan and directed users to create as many versions of the memes as possible with which to flood social media, and there was no question the ads were neither legitimate nor reflected an actual Clinton campaign effort.   Clinton has gone on record supporting legislation to include women in the draft, but has also clarified that she favors an all-volunteer military: \u201cI am on record as supporting the all-volunteer military, which I think at this time does serve our country well,\u201d Clinton told The Huffington Post. \u201cAnd I am very committed to supporting and really lifting up the men and women in uniform and their families.\u201d The effort was one of several coordinated trolling efforts by the board and similar forums. Previous hoaxes included dangerous Bernie Sanders glowstick instructions, a fabricated tweet claiming that a McDonald\u2019s worker spat in white people\u2019s food, a widely reported spate of fake \u201cwhite students\u2019 unions\u201d at colleges, and a massively viral \u201cpropaganda\u201d video about refugees in Europe. ",
+    "category": "Politics",
+    "tags": [
+     "/pol/",
+     "4chan",
+     "fake"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "3143",
+   "_score": 9.995237,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Does This Photograph Show Barack Obama Dressed as Satan?",
+    "author_name": "Dan Evon",
+    "date_published": "19 June 2018",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/barack-obama-illuminati-photo/",
+    "claim": "A photograph shows Barack Obama dressed as Lucifer for an 'Illuminati ritual.'",
+    "content": " In June 2018, disreputable junk news sister sites Neon Nettle and Your News Wire (now News Punch) reported that a photograph of former President Barack Obama dressed up in a Satan costume, complete with a mask and horns, had been \u201cleaked\u201d to the Internet:  Although these sites and others such as Pol Investigates \u2014 a blog that rehashes \u201cinvestigations\u201d from the /pol/ forum on 4chan \u2014 went to considerable lengths in an attempt to \u201cprove\u201d that the masked man seen in the photograph was Barack Obama, the notion was based on nothing more than a few small sections of someone else\u2019s facial features bearing a passing resemblance to those seen a picture of Barack Obama. Here\u2019s one example of how these forums \u201cconnected the dots\u201d in order to show that this image truly pictured Barack Obama:        Regardless of how many lines might have been scribbled across these graphics, however, the claim quickly fell apart under closer examination. Where did this photograph come from? Conspiracy theorists frequently use the word \u201cleaked,\u201d implying that they have somehow gained access to secret information that others were trying to prevent from being disclosed.  This image wasn\u2019t \u201cleaked,\u201d however; it was publicly posted to Instagram by user @everysilversea on 20 January 2017 (the date of President Trump\u2019s inauguration) along with the caption \u201cclass &amp; grace, you\u2019re my favourite.\u201d The image was later deleted, but an archived version can be seen here. Pol Investigates asserted that this Instagram user \u201cadmitted\u201d the masked person seen in the photograph was Barack Obama when asked about the deleted image:   The Instagram user\u2019s responding to the loaded question \u201cWhat\u2019s with your Obama pic? Why did you delete it?\u201d by writing \u201ctoo much hate and not enough support\u201d is what was touted as \u201cconfirmation\u201d that the picture of the masked man was truly a photograph of Barack Obama. As this Instagram user was called a \u201cwitch\u201d and accused of covering for a \u201cMuslim satanic piece of shit,\u201d it seems reasonable to assume that her reason for deleting the photograph was the harassment she received after posting it, as stated. Who is the man in the mask?       It is difficult to identify a person based on one low-res photograph, especially one in which most of the person\u2019s face is obscured by a mask. Yet many viewers readily responded to the power of suggestion and jumped to the conclusion that Obama was connected to some form of Satanic worship based on a single image:  The timing of the photograph in itself demolished the absurd argument presented by News Punch:  It seems unlikely that Obama would dress up as Satan for a fancy dress competition or on Halloween. The fact that the person standing next to Obama \u2026 is dressed normally suggests that this photo was not taken at a fancy dress party, but rather that Obama was participating in an Illuminati ritual and paying his respects to his Lord Lucifer.  Since the photograph in question was posted on the day of Donald Trump\u2019s inauguration (i.e., the last day of Barack Obama\u2019s term of office), it had to have been taken while Obama was still President of the United States. The notion that a sitting president could be cavorting about in a Luciferian costume, participating in an \u201cIlluminati ritual,\u201d and posing for photographs openly posted to social media, all without any word of his activities reaching the press or the public until some fake news sites sleuthed it out long after the fact, is ridiculous in the extreme. The person in the mask \u2014 at least, the small portion of that person\u2019s face which is visible \u2014 bears a passing resemblance to the features of Barack Obama. But a much more logical conclusion about his identity can be reached than the far-fetched assumption that person was the President of the United States.  The head piece in this photograph, which was created by Miss G Designs and the pictured costume were both worn to a Burning Man Festival in 2015 by New York Real Estate agent Michel Madie. We\u2019ve found several other images of Madie in this headdress and costume via Ben Henretig, Scott London, and Facebook:        Indeed, photographs of Madie show him to bear a strong resemblance to the masked features visible in the alleged picture of Barack Obama:                       Or, as someone charted in the language of conspiracy buffs:  Artur Davis,  who represented Alabama's 7th congressional district in the U.S. House of Representatives from 2003 to 2011 and was one of the national co-chairs for Obama's 2008 presidential campaign.  However, Davis bears only a passing resemblance to the person pictured here:  Supporters of this theory also noted that the man who isn't Artur Davis was wearing a jacket with the word \"Chicago\" written across it's front.&nbsp;  As far as we can tell the visible letters on the man's jacket are \u011b, c, and a. (or possibly c, c, and a). Those letters, in that order, will never spell Chicago; even if \"Chicago\" was printed all over his coat, it's unclear what that proves or what evidence it supports. The \"Chicago\" claim is just one example of the faulty logic and poor research used as evidence for this rumor. Although the man in this photograph does look similar to President Obama, no evidence has been provided to definitely determine that the former President was actually dressed up in this costume. --> ",
+    "category": "Fauxtography",
+    "tags": [
+     "barack obama",
+     "neon nettle",
+     "news punch"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "5298",
+   "_score": 9.604374,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did Lindsey Graham Say Republicans Would Get \u2018Destroyed\u2019 If They Nominated Donald Trump?",
+    "author_name": "Dan Evon",
+    "date_published": "9 October 2018",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/lindsey-graham-nominate-trump/",
+    "claim": "Senator Lindsey Graham once said that Republicans would \"get destroyed\" if they nominated Donald Trump as their presidential candidate.",
+    "content": " A statement ostensibly uttered by Lindsey Graham of South Carolina started to recirculate on social media after the Republican senator delivered an emotional, angry, and dramatic defense of Supreme Court nominee Brett Kavanaugh during a hearing concerning sexual assault allegations against the nominee in September 2018. Some social media users were taken aback by Graham\u2019s performance in defense of President Trump\u2019s nominee, as they remembered a time when the senator was highly critical of Donald Trump as a politician:  \u201cIf we nominate Trump, we will get destroyed \u2026 and we will deserve it\u201d is a genuine quote from Senator Graham that was originally posted to his official Twitter account on 3 May 2016. A screenshot of the tweet, which is still available on Graham\u2019s timeline as of this writing, can be seen below:  This tweet was posted the day before Donald Trump became the Republican party\u2019s presumptive nominee for President of the United States on 4 May 2016. Prior to this date, Graham, who also ran for president but ended his campaign in December 2015 before the primaries, frequently voiced opinions critical of Donald Trump.       For example, Graham repeatedly said that Trump was not qualified to be president and that his involvement in the election process was damaging to the Republican party:  Graham struck a more conciliatory tone with Trump after the latter won the Republican party\u2019s nomination, and he eventually came out in support of Trump after the election. A number of news outlets, such as Politico, Mashable, New York magazine, the Washington Post, MSNBC, and the New York Times have noted Graham\u2019s transition from \u201cnever-Trumper\u201d to Trump supporter. On 22 June 2018, the conservative Weekly Standard threw their two cents into the conversation: While most Republicans fell in line before the 2016 election, Lindsey Graham \u2014 along with fellow senators Mike Lee, Ben Sasse, John McCain, and Rob Portman \u2014 was a high-profile NeverTrumper on Election Day. \u201cMy party has gone batshit crazy,\u201d Graham said in a February 2016 speech about Trump. Graham told Fox News that Trump is \u201ca kook. I think he\u2019s crazy. I think he\u2019s unfit to be president.\u201d But sometime after the election, Graham became a neo-Trumper. \u201cYou know what concerns me about the American press is this endless, endless attempt to label the president some kind of kook,\u201d Graham said in November 2017. \u201cI intend to support him in 2020 without equivocation,\u201d Graham tells me now. What changed since 2016? A neoconservative, in Irving Kristol\u2019s famous formulation, was a liberal who\u2019d been mugged by reality. Neo-Trumpers like Graham, then, are NeverTrumpers who were mugged by\u2014what, exactly? Necessity? Expediency? Sean Hannity? To hear Graham tell it, policy is what changed his mind. \u201cHe\u2019s on track to do big things,\u201d Graham says of the president. \u201cHe built up the military. I campaigned on it. He got out of the Iran deal. I campaigned on it. He\u2019s destroying ISIL. I campaigned on it. He\u2019s restructuring the tax code and the way we do business. I campaigned on it. He\u2019s doing much of what I campaigned on, and I\u2019m pleased.\u201d Graham now speaks regularly with Trump and has become a close ally on matters ranging from North Korea to health care. What about the issues of temperament that in 2016 made Trump, in Graham\u2019s view, unfit to be president? Is there anything specific, I ask, that has convinced the senator that Trump isn\u2019t the \u201ckook\u201d Graham called him back then? \u201cOne, I got to know him,\u201d Graham says. \u201cI\u2019ve played golf with him. You know, play golf with somebody for three or four hours, you get to know them better. He\u2019s funny as hell. He\u2019s got a great sense of humor. There\u2019s a method to the madness.\u201d ",
+    "category": "Politics",
+    "tags": [
+     "Donald Trump",
+     "lindsey graham"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "7857",
+   "_score": 9.5564,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did People Start Licking Toilets as a Protest Against Donald Trump?",
+    "author_name": "Dan MacGuill",
+    "date_published": "21 March 2018",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/toilet-licking-trump-protest/",
+    "claim": "People have begun licking toilets as a form of protest against United States President Donald Trump.",
+    "content": " Donald Trump ushered in an age of memes and hashtags when the billionaire real estate developer entered the Republican primary race in the summer of 2015. The online onslaught had not slackened by June 2017, when social media became awash in claims that liberal critics of the new president had begun licking toilets as a form of protest against him. The earliest instance of the meme that we found was a 15 June 2017 post on the notorious /pol/ (\u201cpolitically incorrect\u201d) section of the 4chan Internet forum (that thread has since been deleted, but an archived version can be found here):   This meme is a hoax. Nobody is (or was) licking toilets as a form of protest against Donald Trump. The images shown in the meme were taken from unrelated videos, with the #FUCKTRUMP hashtag digitally added in. For example, here is a screengrab from the video that gave rise to the image in the top left-hand portion of the collage:   The meme has proven popular on the pro-Trump Reddit forum r/The_Donald and in other right-wing online spaces as a joke about the supposed gullibility of liberals who are opposed to President Trump. ",
+    "category": "Politics",
+    "tags": [
+     "4chan",
+     "Donald Trump",
+     "trump"
+    ]
+   }
+  }
+ ]
+}

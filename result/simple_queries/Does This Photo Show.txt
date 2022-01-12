@@ -1,0 +1,210 @@
+{
+ "max_score": 16.436218,
+ "hits": [
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "5646",
+   "_score": 16.436218,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Does This Photo Capture a Skull-Like Face in the Clouds?",
+    "author_name": "David Mikkelson",
+    "date_published": "23 September 2019",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/does-photo-show-skull-face/",
+    "claim": "A photograph shows a skull-like cloud formation above California.",
+    "content": " One of the more common \u201cface in the clouds\u201d images that circulate on social media is the following picture, which seemingly captures an evil, grinning, skull-like countenance said to have appeared in the sky in any one of a number of various locales.  Even viewers who aren\u2019t well-versed in digital editing can spot this image for what it is, particularly if they\u2019re heavy metal fans \u2014 the macabre visage supposedly glimpsed in the clouds and captured on film was directly lifted from the cover illustration for Iron Maiden\u2019s 2000 album, \u201cBrave New World\u201d:  The album\u2019s title was taken from the famous 1932 dystopian Aldous Huxley novel, and the sky portion of its cover art was created by artist Derek Riggs. ",
+    "category": "Fauxtography"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "458",
+   "_score": 13.717628,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Does This Photo Show a Star Being Born?",
+    "author_name": "Madison Dapcevich",
+    "date_published": "5 October 2021",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/photo-of-star-being-born/",
+    "claim": "A photograph shared to social media in October 2021 showed a star being born in the Milky Way.",
+    "content": " Looking almost like an abstract artistic rendering of space, a photograph shared to Instagram on Oct. 4, 2021, claimed to show a star being born. With orange and blue-hued colors wafting around what looked to be a linear beam of light, the celestial origins of the photograph was described by NASA:                View this post on Instagram                        A post shared by NASA (@nasa)    A star was observed by the Hubble Space Telescope in 2015 using infrared light, which allows the telescope to look through gas and dust to reveal stars as they are newly formed. Unseeable by the human eyes, infrared light is used to view the thermal activity, or heat, of objects to paint a clearer picture of worlds beyond our own.           \u201cIn the center of the image, partially obscured by a dark cloak of dust, a newborn star shoots twin jets of hot gas out into space as a sort of birth announcement to the universe,\u201d said NASA in an article dedicated to the Hubble Telescope\u2019s 30th anniversary.  Hubble is equipped with multiple cameras and measuring devices that capture images \u2014 but they are all done so in false color, or black and white. To get the vibrant colors seen in photographs taken by the telescope, scientists assign different colors.  \u201cTo summarize, there are things Hubble can\u2019t see that we want to know more about, and we need an infrared telescope to learn about them. Things like: stars and planets being born in clouds of dust and gas; the very first stars and galaxies which are so far away the light they emit has been pushed into the infrared; and the chemical fingerprints of elements and molecules in the atmospheres of exoplanets,\u201d wrote NASA outreach specialist Maggie Masetti.  Found in the Milky Way, our home galaxy, the event photographed is described by NASA as Herbig-Haro Jet HH 24, a bright patch of nebulosity, or a large cloud of gas and dust, associated with newborn stars. These form when narrow jets of partially ionized gas ejected by stars collide with nearby nebulous material.  The photograph showed a star being born in a \u201cturbulent birthing ground\u201d known as Orion B molecular cloud complex, which is located 1,350 light-years from Earth. (A light-year is the measurement of light traveling in a single Earth year, equating one light year to 6 trillion miles.) In the Orion complex, Orion B meets with the neighboring Orion A cloud complex in the constellation of Orion. Over a few million years, thousands of stars have been born in this active dual-cloud area.  \u201cWhen stars form within giant clouds of cool molecular hydrogen, some of the surrounding material collapses under gravity to form a rotating, flattened disk encircling the newborn star,\u201d wrote NASA in a December 2020 blog post accompanying the image. \u201cAlthough planets will later congeal in the disk, at this early stage the protostar is feeding on the disk with a voracious appetite. Gas from the disk rains down onto the protostar and engorges it. Superheated material spills away and is shot outward from the star in opposite directions along an uncluttered escape route \u2014 the star\u2019s rotation axis.\u201d Shocks along these jets heat the surrounding gas to temperatures reaching thousands of degrees Fahrenheit that then collide with surrounding nebulous matter \u201clike a stream of water plowing into a hill of sand.\u201d         NASA launched the school bus-sized telescope in 1990, and in the three decades since, Hubble has been orbiting the earth at a rate of 5 miles per second \u2014 the equivalent of driving a car across North America in 10 minutes. Not only has Hubble seen stars being born, but it has captured stars as they died and planets, stars, and galaxies trillions of miles away. It works by facing towards and photographing space just outside of Earth\u2019s atmosphere, which otherwise blocks most of the light from space. This, NASA says, enables the telescope to digitally snap photographs and send them back to Earth using radio waves.  The successor to Hubble will be the James Webb Space Telescope, the world\u2019s largest and most powerful telescope to be launched in space in December 2021.  And if that wasn\u2019t enough stellar excitement to tide you over until then, here are a few other out-of-this-world images captured by Hubble:  Stellar Birth  Carina Nebula        Pillars of Creation  Stellar Jewelry Box  Star Eta Carinae  Sources \u201cBeholding the Birth and Death of Stars.\u201d HubbleSite.Org, http://hubblesite.org/home/hubble-30th-anniversary/hubbles-exciting-universe/beholding-the-birth-and-death-of-stars. Accessed 5 Oct. 2021. Belleville, Michelle. \u201cHubble Space Telescope.\u201d NASA, 24 Sept. 2019, http://www.nasa.gov/mission_pages/hubble/main/index.html. Hille, Karl. \u201cHubble Space Telescope Images.\u201d NASA, 21 Jan. 2015, http://www.nasa.gov/mission_pages/hubble/multimedia/index.html. Infrared Waves | Science Mission Directorate. https://science.nasa.gov/ems/07_infraredwaves. Accessed 5 Oct. 2021. James Webb Space Telescope \u2013 Webb/NASA. https://www.jwst.nasa.gov/. Accessed 5 Oct. 2021. MSFC, Jennifer Wall\u202f:. \u201cWhat Is the Hubble Space Telescope?\u201d NASA, 21 May 2015, http://www.nasa.gov/audience/forstudents/k-4/stories/nasa-knows/what-is-the-hubble-space-telecope-k4.html. Nowakowski, Tomasz and Phys.org. Structure of the Molecular Cloud Orion A Investigated in Detail. https://phys.org/news/2020-07-molecular-cloud-orion.html. Accessed 5 Oct. 2021. Smith, Yvette. \u201cAwakening Newborn Stars.\u201d NASA, 2 Dec. 2020, http://www.nasa.gov/image-feature/awakening-newborn-stars \u201cAwakening Newborn Stars.\u201d NASA, 2 Dec. 2020, http://www.nasa.gov/image-feature/awakening-newborn-stars. \u201cThe Truth About Hubble, JWST, and False Color.\u201d NASA Blueshift, https://asd.gsfc.nasa.gov/blueshift/index.php/2016/09/13/hubble-false-color/. Accessed 5 Oct. 2021. What Is a Light-Year? | NASA Space Place \u2013 NASA Science for Kids. https://spaceplace.nasa.gov/light-year/en/. Accessed 5 Oct. 2021. ",
+    "category": "Science",
+    "tags": [
+     "Editor's Picks"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "3610",
+   "_score": 13.717628,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Does This Photo Show a Crowded MAGA Demonstration?",
+    "author_name": "Madison Dapcevich",
+    "date_published": "13 December 2020",
+    "rating": "Miscaptioned",
+    "url": "https://www.snopes.com/fact-check/maga-demonstration-photo/",
+    "claim": "An image of protesters packing the streets of the District of Columbia depicted a Make America Great Again (MAGA) demonstration. ",
+    "content": " As thousands of supporters of U.S. President Donald Trump rallied in the District of Columbia as part of the Million MAGA March Freedom Rally held on Dec. 12, 2020, to protest the outcome of the 2020 presidential contest, misinformation about the number of attendees circulated on the internet. One such claim was an image shared in a tweet by user @AMYGillard8, whose profile identified with Trump and the Make America Great Again movement, and included statements alluding to 2020 election misinformation such as \u201cstop the seal\u201d and \u201cfight like Flynn.\u201d At the time of writing, the tweet had been shared more than 3,000 times.  A reverse image search returned at least 65 results, the oldest of which dated back to 2018. While it is true that the image in question is real, the photograph does not represent a MAGA demonstration. In actuality, the photo was captured by Shannon Finney with Getty Images during the March for Our Lives rally on March 24, 2018, on Pennsylvania Avenue in the District of Columbia.         An image taken from a similar viewpoint was taken by photographer David Tulis, and available for purchase at the time of writing on the British stock photography agency website, Alamy. The March for Our Lives Rally was organized by students in support of legislation to prevent gun violence in the U.S. following the shooting at Marjory Stoneman Douglas High School in Parkland, Florida, on Feb. 14, 2018, in which a gunman opened fire in the high school, killing 17 people and injuring 17 others. \u201cAfter the shooting on February 14, we organized the single largest day of protest against gun violence in history. Millions came together to protest our political leaders\u2019 inaction,\u201d wrote the founders on their website. The nonprofit organization\u2019s \u201cPeace Plan\u201d urges universal background checks on gun sales, raising the federal age of gun ownership and possession to 21, and calls for a ban on the sale of high-capacity magazines and bump stocks in the U.S. So how many people attended the March for Our Lives rally? The Virginia-based imaging firm Digital Design &amp; Imaging Service, Inc. estimated 200,000 people attended the demonstration in Washington, D.C. However, the event organizers put the total number of attendees closer to 800,000, making it among the largest single-day demonstrations in U.S. history. Outside of the nation\u2019s capital, more than 880 related events occurred around the globe. By comparison, event organizer Million MAGA March estimated nearly 23,000 people attended the Dec. 12 Freedom March.  ",
+    "category": "Politics"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "4355",
+   "_score": 13.717628,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Does This Photo Show Buses Purchased by BLM?",
+    "author_name": "David Mikkelson",
+    "date_published": "27 July 2020",
+    "rating": "Miscaptioned",
+    "url": "https://www.snopes.com/fact-check/blm-buses-photo/",
+    "claim": "A photograph shows buses purchased by Black Lives Matter to \"transport members to riots.\"",
+    "content": " Rumors are surging in the wake of George Floyd\u2019s death and resulting protests against police violence and racial injustice in the United States. Stay informed. Read our special coverage, contribute to support our mission, and submit any tips or claims you see here.  Amidst the political turmoil in the U.S. following the May 2020 police custody death of George Floyd in Minneapolis, a meme shared on social media sought to denigrate the Black Lives Matter (BLM) movement. That meme claimed BLM had raised \u201cover a billion dollars\u201d but had not used that money to provide necessities such as food, housing, or schooling; instead, they had expended it on buying \u201chuge charter busses to transport members to riots\u201d:  As for the first part of the meme, BLM is a \u201cdecentralized movement advocating for non-violent civil disobedience in protest against incidents of police brutality and all racially motivated violence against African-American people\u201d; it isn\u2019t a centrally organized group that was founded for the purpose of feeding the hungry, providing housing, or funding schooling, nor does it raise money on that basis. Moreover, the photograph accompanying this meme does not show any buses purchased by BLM \u201cto transport members to riots,\u201d or for any other purpose. The vehicles pictured here belong to the Toronto Raptors professional basketball team, who wrapped their buses with the Black Lives Matter name as a show of support for the movement, as documented on the Raptors\u2019 Twitter account:  Silence is not an option. pic.twitter.com/qpn8sMo2nu \u2014 Toronto Raptors (@Raptors) July 9, 2020  The same photograph was used to accompany a CBC article about the Raptors\u2019 arrival at the protected \u201cNBA bubble\u201d training facility at the Walt Disney World Resort in Orlando, Florida, where the picture was captioned as follows: \u201cThe reigning NBA champion Toronto Raptors arrived at the Disney campus after a two-hour drive from Naples, Fla., where the team has trained for roughly two weeks. The team\u2019s buses were wrapped with its logo and the words \u2018Black Lives Matter\u2019 displayed.\u201d ",
+    "category": "Fauxtography",
+    "tags": [
+     "George Floyd Protests"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "5190",
+   "_score": 13.717628,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Does This Photo Show Computer Storage in 1956?",
+    "author_name": "David Mikkelson",
+    "date_published": "4 December 2007",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/computer-storage-1956/",
+    "claim": "A photograph shows a 1956 computer disk memory storage unit.",
+    "content": " When mid-20th century prognosticators tried to imagine what life would be like in the 21st century, they often envisioned a world in which computers were large, powerful, and few \u2014 massive machines that controlled all sorts of functions from centralized locations.   Instead, what we have today are large numbers of (increasingly) smaller and cheaper computers distributed along networks, many of them dedicated to handling specialized tasks.   It\u2019s not surprising, then, that those who came of age in the era of the personal computer might view a picture of a cabinet-sized (5\u2032 x 6\u2032) 4.4 MB disk drive as something taken from a 1950s science fiction film or the product of digital manipulation, as depicted in this photograph:  CAN YOU GUESS WHAT THIS IS?  Its a hard disk in 1956\u2026. The Volume and Size of 5MB memory storage in 1956. In September 1956 IBM launched the 305 RAMAC, the first computer with a hard disk drive (HDD). The HDD weighed over a ton and stored 5MB of data. Makes you appreciate your 4 GB USB drive, doesn\u2019t it?  In 1956, IBM introduced the 305 RAMAC system, generally acknowledged as the first (commercially successful) computer to feature what we would now call a \u201cdisk drive\u201d or \u201chard drive\u201d (i.e., data stored on a magnetic disk and accessed via a moving head).  An EETimes article described RAMAC\u2019s capabilities and size as follows:  It started with a product announcement in May of 1955. IBM Corp. was introducing a product that offered unprecedented random-access storage \u2014 5 million characters (not bytes, they were 7-bit, not 8-bit characters). This first disk drive heralded startling leaps in mass-storage technology and the end of sequential storage on punched cards and paper or Mylar tape, though magnetic tape would continue for archival or backup storage. The disk drive was big, not quite ready for today\u2019s laptop. With its vacuum-tube control electronics, the RAMAC (for \u201crandom-access method of accounting and control\u201d) occupied the space of two refrigerators and weighed a ton. It stored those 5 million characters on 50 hefty aluminum disks coated on both sides with a magnetic iron oxide, a variation of the paint primer used for the Golden Gate Bridge.  What\u2019s pictured above is indeed the IBM 350 disk storage unit utilized by the IBM 305 RAMAC:  The 350 Disk Storage Unit consisted of the magnetic disk memory unit with its access mechanism, the electronic and pneumatic controls for the access mechanism, and a small air compressor. Assembled with covers, the 350 was 60 inches long, 68 inches high and 29 inches deep. It was configured with 50 magnetic disks containing 50,000 sectors, each of which held 100 alphanumeric characters, for a capacity of 5 million characters. Disks rotated at 1,200 rpm, tracks (20 to the inch) were recorded at up to 100 bits per inch, and typical head-to-disk spacing was 800 microinches. The execution of a \u201cseek\u201d instruction positioned a read-write head to the track that contained the desired sector and selected the sector for a later read or write operation. Seek time averaged about 600 milliseconds.  With storage capacities of 5 million and 10 million digits, and the capability to be installed either singly or in pairs, the 350 provided the 305 system with storage capacities of 5, 10, 15 or 20 million characters.  An IBM RAMAC 305 with a 350 disk storage unit leased for about $3,200 per month back in 1957 (roughly $29,000 in 2020 dollars).  Over a thousand of the 305 systems (one of IBM\u2019s last vacuum tube units) were manufactured before production ended in 1961, and the 305 was withdrawn in 1969. ",
+    "category": "Fauxtography"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "48",
+   "_score": 13.062538,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Does This Photo Show a \u2018Genius D-Day Invention\u2019?",
+    "author_name": "Jordan Liles",
+    "date_published": "30 December 2021",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/genius-d-day-invention/",
+    "claim": "A photo of three massive coils of pipe shows a \"genius D-Day invention that helped win the war.\"",
+    "content": " In late December 2021, an online advertisement showed three massive coils of what appeared to be wire or pipe on the ground at a facility. It read: \u201cGenius D-Day Inventions that Helped Win the War.\u201d The D-Day invasion of Normandy occurred on June 6, 1944.  The ad appeared on MSNBC.com and other news websites that displayed ads from the Taboola advertising network. In the past, such military ads often ended up being misleading. However, this one was true. We clicked the ad. On page 20 of the lengthy article, it revealed that the picture showed part of what was known as Operation PLUTO. The acronym stood for \u201cPipe Line Under The Ocean.\u201d We confirmed the photo\u2019s authenticity on the Getty Images website.       The pipes carried gasoline to help the Allied war effort. The progress made in the weeks following D-Day allowed the operation to be completed by August 1944. In other words, the pipeline wasn\u2019t used for D-Day. Rather, the Allied invasion allowed for the operation to later be successful.   On May 30, 1945, the Kingston Whig-Standard reported on the secret operation, calling it \u201cone of the most closely guarded secrets of the invasion of Europe.\u201d From Aug. 12, 1944, to May 8, 1945, about 120,000,000 gallons of gasoline reached the Anglo-American armies via the pipeline system laid under the English Channel by British engineers in co-operation with the British Navy. One million gallons daily still reach Frances through the 20 undersea pipelines, 16 running from Dungeness to Boulogne, four from the Isle of Wight to Cherbourg. From there the gasoline is carried via high pressure lines to the Rhine. Operation PLUTO guaranteed uninterrupted delivery of bulk petroleum (which usually needs a special harbour and dock and extensive storage facilities) across the beaches, making it invulnerable from air, surface, or submarine attack, and completely independent of the weather. Winston Churchill, the former prime minister of the United Kingdom, once paid tribute to the feat of British engineering: \u201cIt is now possible to reveal the existence of an oil pipeline system under the sea stretching across the Channel to the Continent. A large part of the Allied Expeditionary Force has been supplied with petrol by this unique method, which provides for petroleum the same kind of facilities upon a hostile shore that the Mulberry harbours provided for general military stores. Operation PLUTO is a wholly British achievement and a feat of amphibious engineering skill of which we may well be proud.\u201d        General Dwight D. Eisenhower also expressed his \u201cwarm appreciation of the work the PLUTO pipelines have done in supplying United States as well as British forces in their drive into Germany.\u201d An old British Path\u00e9 newsreel provided a glimpse at how the entire process worked from planning to execution:      In sum, yes, the impressive photo of massive coils of pipe did show something that helped to win the war. They supplied hundreds of millions of gallons of fuel for Allied forces, helping in the effort to drive Germany to surrender in early May 1945. For more information on Operation PLUTO, we recommend this page on the D-Day Revisited website. Snopes debunks a wide range of content, and online advertisements are no exception. Misleading ads often lead to obscure websites that host lengthy slideshow articles with lots of pages. It\u2019s called advertising \u201carbitrage.\u201d The advertiser\u2019s goal is to make more money on ads displayed on the slideshow\u2019s pages than it cost to show the initial ad that lured them to it. Feel free to submit ads to us, and be sure to include a screenshot of the ad and the link to where the ad leads. Sources:   \u201cOperation PLUTO.\u201d The Kingston Whig-Standard, 30 May 1945, https://www.newspapers.com/image/729721933/?terms=%22operation%20pluto%22&amp;match=1.     \u201cOperation Pluto.\u201d D-Day Revisited, https://d-dayrevisited.co.uk/d-day-history/planning-and-preparation/operation-pluto/.     Operation Pluto (1945). British Path\u00e9, 1945. www.youtube.com, https://www.youtube.com/watch?v=RqKxeYZLNmU.     \u201cThree Huge Coils of Pipeline from the Salvaging of \u2018Pluto\u2019, The\u2026\u201d Getty Images, https://www.gettyimages.com/detail/news-photo/three-huge-coils-of-pipeline-from-the-salvaging-of-pluto-news-photo/1053485606.     \u201cWhy Germany Surrendered Twice in World War II.\u201d National Geographic, 6 May 2020, https://www.nationalgeographic.com/history/article/germany-surrendered-twice-world-war-ii.    ",
+    "category": "History",
+    "tags": [
+     "Ad Scams and Arbitrage"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "558",
+   "_score": 13.062538,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Does This Photo Show the World\u2019s Highest Altitude Lake?",
+    "author_name": "Madison Dapcevich",
+    "date_published": "27 September 2021",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/worlds-highest-lake-tilicho/",
+    "claim": "Tilicho Lake, or Tilicho Tal, is the world\u2019s highest-altitude lake. ",
+    "content": " Tilicho Lake, or Tilicho Tal, in the Manang District of Nepal is many things. It is glacial fed, remote, and a destination goal set by many expeditionary backpackers. But despite claims on social media, Tilicho Tal is not the world\u2019s highest-altitude lake. A photograph shared on Facebook on Sept. 26, 2021, claimed to show Tilicho Tal described as the body of water as the \u201chighest lake of the world.\u201d At the time of this writing, the post had been liked more than 203,000 times.     Google reviews left by local guides stated that the lake is the \u201cworld\u2019s highest altitude lake\u201d at \u201c4919 MSL.\u201d MSL means \u201cmean sea level\u201d and is typically used in conjunction with the number of feet to imply altitude above sea level, according to the National Wildfire Coordinating Group. But as several reviews also pointed out, this claim is incorrect:        Furthermore, a look at the topographic map below revealed that the lake was situated at 4,920 meters, or approximately 16,141 feet. (Each line colored in the lighter grey/tan color denotes a measurement of 20 meters.)   The confusion in measurement could be an error in translating. The travel website Trip Advisor noted that the altitude is situated at 4,949 meters, or about 16,236 feet, from sea level. On the other hand, the hiking app AllTrails, which uses GPS to track elevation gain on hikes around the world, recorded the peak altitude at 16,807 feet with an elevation gain of 6,660 feet over the 12.3-mile hike. And as the online lake database Lakelubbers noted, the glacial-fed lake sits at an altitude of 16,139 feet. \u201cReports of the lake\u2019s elevation vary, but most estimate it is located at 16,138 feet. Actual official figures for the lake don\u2019t appear to exist, but the lake is reported to be about 1,200 acres and nearly 280 feet deep,\u201d Lakelubbers wrote, with the caveat that \u201call statistics are from unofficial sources and may not be accurate.\u201d Researcher and hydrologist Jagat Kumar Bhusal wrote in a 2008 study that the \u201cpure, clean, and transparent\u201d waters of Tilicho Tal are \u201csituated at 5,000 meter [sic] above sea level,\u201d which would measure about 16,404 feet. By and large, varying reports suggest that the lake is likely located at an altitude measuring between 16,000 and 16,800 feet \u2014 and though that makes Tilicho Tal among the highest lakes in the world, it does not cap the list. As the reference site Thought Co. pointed out in a 2019 listicle, at least 10 other lakes exist that are \u2014 or were previously \u2014 located at a higher elevation than Tilicho Tal, including two of the world\u2019s highest lakes, both in Chile: Ojos del Salada (approximately 20,965 feet) and Tres Cruces Norte in Chile (20,361 feet). Sources \u201cContributions by Suwal Raju.\u201d Contributions by Suwal Raju, https://www.google.com/maps/contrib/114310170095914754134/reviews?hl=en-US. Accessed 27 Sept. 2021. \u201cDr Jagat Bhusal.\u201d World Science Forum, http://worldscienceforum.org/participants/bhusal-jagat-33646. Accessed 27 Sept. 2021. \u201cGoogle Maps.\u201d Google Maps, https://www.google.com/maps/@28.692325,83.8426661,14.03z/data=!5m1!1e4. Accessed 27 Sept. 2021. Highest Altitude/Elevation Lakes &amp; Reservoirs \u2013 Lakelubbers. https://www.lakelubbers.com/worlds-lakes-highest-elevations-C4/. Accessed 27 Sept. 2021. M. A., Geography, and English and Geography B. A. \u201cThe 10 Highest Lakes in the World.\u201d ThoughtCo, https://www.thoughtco.com/highest-lakes-in-the-world-4169915. Accessed 27 Sept. 2021. NWCG Glossary of Wildland Fire, PMS 205 | NWCG. https://www.nwcg.gov/glossary/a-z. Accessed 27 Sept. 2021. \u201cTilicho Lake \u00b7 Khangsar 33500, Nepal.\u201d Tilicho Lake \u00b7 Khangsar 33500, Nepal, https://www.google.com/maps/place/Tilicho+Lake/@28.6833511,83.8479122,15z/data=!4m7!3m6!1s0x39be198522c80de7:0x3b66a38896292bca!8m2!3d28.683333!4d83.856667!9m1!1b1!5m1!1e4. Accessed 27 Sept. 2021. \u201cTilicho Lake, Nepal Vacation Info.\u201d Lakelubbers, http://http://www.lakelubbers.com/tilicho-lake-2540/. Accessed 27 Sept. 2021. ",
+    "category": "Travel"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "1034",
+   "_score": 13.062538,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Does This Photo Show Skin Punctured by a Needle?",
+    "author_name": "Madison Dapcevich",
+    "date_published": "12 April 2021",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/skin-after-needle-puncture/",
+    "claim": "A highly magnified image shared to social media in April 2021 showed a puncture hole in someone's skin made by a needle.",
+    "content": " An image shared to Reddit on April 11, 2021, claimed to depict an intimate look at a puncture hole in skin made by a needle \u2014 and its flaky, almost cave-like attributes garnered the picture more than 22,800 upvotes on the social media platform.  A reverse image search revealed that the photograph in question was hosted by Science Photo Library, a London-based database of science and medical images. The SPL website noted that its images are \u201cacquired from scientific and medical experts, acclaimed photographers and renowned institutions.\u201d According to the caption, the photo was captured by Anne Weston of Francis Crick Institute and showed an up-close-and-personal, highly magnified puncture in the skin made by a tattoo needle: Tattoo needle puncture in skin, coloured scanning electron micrograph (SEM). Skin tattooing has been practised for thousands of years. To make tattooing permanent tiny needles are used to punch through the top layer of the skin (epidermis) and into the next layer (dermis). This image shows many skin cells from the epidermis surrounding a hole created by a tattoo needle. Magnification: x280 when printed at 10cm wide. Tattoos become permanent by piercing the top layer of the skin and depositing a small amount of ink within each puncture, according to the Mayo Clinic. And that microscopic process was captured and magnified by SEM, a photography process that the National Library of Medicine noted allows for the \u201ctopographical visualization of structures.\u201d An SEM is more powerful than a traditional microscope because the device scans an electron beam over an item, rather than using a combination of light and high-power lenses to amplify a subject. These electron beams interact with a given sample to map out its surface topography. It works in a similar way as some other, more large-scale topographical mapping technologies, such as deep-sea mapping of the seafloor or light detection and ranging (LiDAR) processes on terrestrial landscapes \u2014 but at a much smaller scale. The SEM picture shows the top layer of the skin known as the epidermis. Its outermost layer is known as the stratum corneum, Latin for \u201chorny layer.\u201d This outer layer provides the first line of defense for the body against the external world and is made up of corneocytes. Corneocytes are made up of keratin filaments \u2014 flat cells that organize in a \u201cbrick and mortar formation.\u201d  ",
+    "category": "Science"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "2747",
+   "_score": 13.062538,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Does This Photo Show Half-Male, Half-Female Cardinal?",
+    "author_name": "Madison Dapcevich",
+    "date_published": "26 February 2021",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/photo-dual-gender-cardinal/",
+    "claim": "A photograph captured in late February 2021 showed a half-male, half-female cardinal.",
+    "content": " A \u201conce-in-a-lifetime\u201d sighting made by a Pennsylvania birdwatcher took internet flight in late February 2021 when photographs claimed to capture a half-male, half-female northern cardinal. The now-viral photographs were taken by Jamie Hill, a self-described birder of nearly five decades, on Feb. 20 in the northwestern city of Green Valley.     The bird in question is what is known as a bilateral gynandromorph northern cardinal, whose scientific name is Cardinalis cardinalis. The extremely rare bird\u2019s unique half-red and half-white body is indicative of its condition, which means that it is genetically half male and half female. \u201cThis bird would have a functioning ovary on its left side and a functioning single testis on its right,\u201d wrote Hill on Facebook. \u201cTheoretically, this bird could either mate with a normal male cardinal and lay fertile eggs, or it could mate with a normal female cardinal and father her eggs!\u201d       Northern cardinals are widely distributed across the temperate ecosystems of the eastern and midwestern United States, down into Central America. There are 18 subspecies of the songbird, and in every case, males exhibit bright red plumage with a black mask on their face, while females are a light brown or light greenish-brown in color. Gynandromorphism is a rare trait that has been recorded in a variety of species, from butterflies and spiders to zebra finches and cardinals. Organisms with the condition are physically distinguished due to sexual dimorphism, or the understanding that males and females have differences in sizes, coloration, and the sexual organs themselves. And though the cause is poorly understood, researchers theorize that the split occurs in an organism\u2019s early development when it contains only a few cells. During this phase, an event known as mitosis occurs whereby each individual cell will divide. And in the case of bilateral gynandromorphs, it is thought that the division of cells occurs in such a way that it may cause half to be male and the other half to be female. \u201cGynandromorphy has not been studied enough for us to understand its origins completely. It could arise from atypical cell division in the early stages of the development of an embryo. But genetic anomalies of other types can often have multiple causes,\u201d explained Keith Russell, program manager of urban conservation at Audubon Mid-Atlantic, in an email to Snopes. While spotting a bilateral gynandromorph in the wild is rare, it is not entirely unheard of. Researchers publishing their work in a 2014 issue of The Wilson Journal of Ornithology spent a total of 40 days observing one such bird in northwestern Illinois from December 2008 to March 2010. According to the scientists, the bird was never heard vocalizing and was not subjected to any \u201cunusual agonistic behaviors\u201d from other cardinals in the area. A similar \u2014 if not the same \u2014 bilateral gynandromorphic cardinal was also spotted in Pennsylvania in 2019. Daniel Hooper, who was then a postdoctoral fellow at the Cornell Lab of Ornithology, told National Geographic that sex determination in birds is different than in mammals. In birds, the sex chromosomes are called Z and W (in mammals it is X and Y). Female birds have a single copy of each (ZW), whereas males have two of the same (ZZ). \u201cSex cells\u2019 nuclei, including sperm and eggs, usually have only one copy of either chromosome\u2014males produce only Z-carrying sperm, and females produce either Z- or W-carrying eggs,\u201d wrote the publication at the time. \u201cGynandromorphy like that in this cardinal occurs when a female egg cell develops with two nuclei\u2014one with a Z and one with a W\u2014and it\u2019s \u2018double fertilized\u2019 by two Z-carrying sperm.\u201d In the instance of the 2021 cardinal, it is assumed that the right red half of the bird is ZZ while the brownish left side is ZW. Russell told Snopes there is a chance that the bird spotted in 2021 may have either been the same bird or perhaps a coincidence. Either way, there is nothing specific to the life of the northern cardinal that would make it more likely to exhibit traits of bilateral gynandromorphism. \u201cHowever, since the cardinal is a very common, brightly colored and easily observed species, when gynandromorphy occurs in this species it would be more easily detected than in a species that is less common and less conspicuously colored,\u201d said Russell. And it\u2019s not just northern cardinals that have been shown to carry traits of bilateral gynandromorphism. According to Russell, there have been at least nine documented bird cases, including the rose-breasted grosbeak, house sparrow, black redstart and the domestic chicken. Museum specimens also report instances of gynandromorph orchard oriole and a black-throated blue warbler. ",
+    "category": "Critter Country",
+    "tags": [
+     "Editor's Picks"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "4678",
+   "_score": 13.062538,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Does This Photo Show Trump Wearing a Protective Mask?",
+    "author_name": "Dan Evon",
+    "date_published": "22 May 2020",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/trump-face-mask-ford/",
+    "claim": "A photograph shows U.S. President Donald Trump wearing a protective face mask during a visit to a Ford manufacturing plant in spring 2020.",
+    "content": " Snopes is still fighting an \u201cinfodemic\u201d of rumors and misinformation surrounding the COVID-19 pandemic, and you can help. Find out what we\u2019ve learned and how to inoculate yourself against COVID-19 misinformation. Read the latest fact checks about the vaccines. Submit any questionable rumors and \u201cadvice\u201d you encounter. Become a Founding Member to help us hire more fact-checkers. And, please, follow the CDC or WHO for guidance on protecting your community from the disease.   In the days before U.S. President Donald Trump\u2019s visit to a Ford manufacturer in Michigan on May 21, 2020, the company informed the White House that face masks would be required for all visitors. This request proved somewhat controversial, however, as Trump had thus far refused to wear a mask in public during the COVID-19 coronavirus disease pandemic, despite recommendations from health officials.  The majority of videos and photographs from the visit showed Trump touring the facility, delivering a speech, and speaking with Ford executives \u2014 all without a face covering. So when a photograph emerged supposedly showing Trump wearing a face mask during this visit, some viewers were surprised and skeptical of the sight:  Trump does NOT want you to share this picture of him wearing a mask\u2026 pic.twitter.com/vCO06D0Ud6 \u2014 William LeGate (@williamlegate) May 22, 2020  As it turns out, this is a genuine photograph of Trump wearing a face mask during part of his visit to a Ford manufacturing plant in Michigan.  Executive Chairman Bill Ford confirmed that Trump \u201cwore a mask during a private viewing of three Ford GTs from over the years. The president later removed the mask for the remainder of the visit.\u201d Mark Truby, Ford chief communications officer, said, \u201cThe subject of a face mask came up. Bill said it would be great if you could wear one. Trump then retrieved one from his personal staff with a White House seal on it, and then they proceeded to visit.\u201d Trump also confirmed that he work a mask during a portion of the visit. Trump told reporters that he wore a mask in the \u201cback area,\u201d but that he removed his mask because he \u201cdidn\u2019t want to give the press the pleasure of seeing it.\u201d Trump then showed the press his mask and said that he took it off because he was giving a speech:      ",
+    "category": "Fauxtography",
+    "tags": [
+     "COVID-19"
+    ]
+   }
+  }
+ ]
+}

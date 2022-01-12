@@ -1,0 +1,62 @@
+{
+ "max_score": 52.62018,
+ "hits": [
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "2663",
+   "_score": 52.62018,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Was a Mysterious Monolith Found in Utah?",
+    "author_name": "Dan Evon",
+    "date_published": "24 November 2020",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/monolith-found-utah/",
+    "claim": "Photographs show a metallic, nonnatural monolith that was discovered in Utah. ",
+    "content": " In November 2020, photographs and videos supposedly showing a monolith that was discovered somewhere in Utah started to circulate on social media: While we don\u2019t know too much about what this object is or who put it there, this is a genuine image of a surprising discovery. This photograph was taken by the Utah Department of Public Safety Aero Bureau and was posted to their official social media pages on Nov. 20. The bureau explained that they discovered the monolith a few days before while conducting a count of big horn sheep in the area.  The Bureau wrote on Instagram: \u201cCounting big horn sheep with DWR this week. During the counts we came across this, in the middle of nowhere, buried deep in the rock. Inquiring minds want to know, what the heck is it? Anyone? \ud83d\udc7d?\u201d In a news release, the organization said that the discovery was made on Nov. 18 somewhere in southeastern Utah. The group did not want to give the exact location of the object, fearing that \u2014 since it was in an isolated area \u2014 it would lead to visitors who could potentially get lost and stranded. The object is made of metal and judging from the photographs it stands over 10 feet tall. While it\u2019s unclear who erected this monolith, the government agency noted that it was illegal \u201cto install structures or art without authorization on federally managed public lands, no matter what planet you\u2019re from.\u201d       Here\u2019s the full press release and some additional photographs of the monolith: On November 18, 2020, the Utah Department of Public Safety Aero Bureau was working with the Utah Division of Wildlife Resources to conduct a count of big horn sheep in a portion of southeastern Utah. While on this mission, they spotted an unusual object and landed nearby to investigate further. The crew members found a metal monolith installed in the ground in a remote area of red rock. The crew said there was no obvious indication of who might have put the monolith there. The exact location of the installation is not being disclosed since it is in a very remote area and if individuals were to attempt to visit the area, there is a significant possibility they may become stranded and require rescue. It is illegal to install structures or art without authorization on federally managed public lands, no matter what planet you\u2019re from. The Bureau of Land Management will be determining if they need to investigate further.     While we can\u2019t say for certain where this monolith comes from, the most likely explanation is that it was some form of art installation. It\u2019s possible that it was undertaken in the same spirit as the crop circle hoaxes that popped up around England in the 1970s and convinced a generation of people that aliens were communicating via corn fields. A monolith is defined in the dictionary as a \u201cgreat stone often in the form of an obelisk or column,\u201d but this word has become closely associated with alien encounters, thanks in large part to Stanley Kubrick\u2019s 1968 film \u201c2001: A Space Odyssey.\u201d In fact, the monolith that was discovered in Utah bares a resemblance to the alien monolith depicted in the film:      It should also be noted that although news of this mysterious monolith went viral in November 2020, imagery from Google Maps indicates that the odd artifact has been in its current location since at least 2015-16. Here are a few additional videos of this monolith from the Utah Department of Public Safety:          Shortly after these images went viral, it was reported that this mysterious monolith had \u201cdisappeared.\u201d But there was nothing otherworldly about its disappearance. USA Today reported that four humans removed the structure from the area. Monolith mania continued through the end of November as a similar structure was found in Romania.  As of this writing, the most likely explanation for these monoliths continues to be artists/bored humans.  ",
+    "category": "Fauxtography"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "3698",
+   "_score": 45.557148,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Was a Third \u2018Monolith\u2019 Found in California?",
+    "author_name": "Bethania Palma",
+    "date_published": "3 December 2020",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/monolith-california/",
+    "claim": "A new mysterious \"monolith\" was found in California.",
+    "content": " In the winter months of 2020, oblong metallic structures appeared and vanished in various locations, creating something of a public mystery \u2014 in part because the objects\u2019 appearance reminded some of the famous monolith in the 1968 science fiction film \u201c2001: A Space Odyssey.\u201d After making a splash and appearing in Utah on Nov. 18, 2020, a monolith appeared in Romania less than two weeks later. Both mysteriously disappeared days after they were found. Then on Dec. 2, a third one was found on Pine Mountain in Atascadero, a city in central California\u2019s coastal San Luis Obispo County.  \ud83d\udea8 \ud83d\udea8 BREAKING NEWS \ud83d\udea8 \ud83d\udea8  There is currently a monolith at the top of Pine Mountain in Atascadero!! (Photos by @Atownreporter) pic.twitter.com/0vPhEWYkeY \u2014 Connor Allen (@ConnorCAllen) December 2, 2020  According to the local newspaper, The Atascadero News, the monolith has become an attraction for hikers in the area: The three-sided obelisk appeared to be made of stainless steel, 10-feet tall and 18 inches wide. The object was welded together at each corner, with rivets attaching the side panels to a likely steel frame inside. The top of the monument did not show any weld marks, and it appears to be hollow at the top, and possibly bottom. Unlike its Utah sibling, the Atascadero obelisk was not attached to the ground, and could be knocked over with a firm push. The Atascadero News estimates it weighs about 200 pounds. As of this writing, there is no publicly-known explanation as to who is responsible for the objects or why they are appearing, although a working hypothesis is that they are part of a guerrilla art installation. Some joked that the monoliths were the work of extraterrestrials. The monolith was torn down overnight by a group of white supremacists decked out in gear labeled with the campaign slogan of U.S. President Donald Trump, \u201cMake America Great Again,\u201d as reported by Vice on Dec. 3, 2020. One of the men stated on a livestream video of their activity, \u201cChrist is king in this country. We don\u2019t want illegal aliens from Mexico or outer space.\u201d ",
+    "category": "Viral Phenomena"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "2647",
+   "_score": 25.058893,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Are These Drones Playing Volleyball?",
+    "author_name": "Dan Evon",
+    "date_published": "6 March 2021",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/drones-playing-volleyball/",
+    "claim": "A video genuinely shows a group of drones playing volleyball.",
+    "content": " In February 2021, a video started to circulate on social media that supposedly showed a group of drones playing a game of volleyball above a building\u2019s rooftop:  \ud83d\udd75\ufe0f pic.twitter.com/WZi5cLo9cs \u2014 Marius Avram (@securityshell) February 27, 2021  This is not a genuine video of drones playing volleyball. This footage features computer-generated images.  Created by Hamid Ebrahimnia, a visual effects artist from Tehran, Iran, this footage was originally posted to Ebrahimnia\u2019s Instagram page along with a caption that clearly explained the video featured CGI.       Ebrahimnia wrote: \u201cDrone pilots playing in quarantine \ud83c\udfd0 I did all animations in Cinema4D, tracked in Mocha and composited in After Effects.\u201d Here\u2019s the original post:                View this post on Instagram                        A post shared by Hamid Ebrahimnia (@hamidebrahimnia)    Ebrahimnia posted a second clip that provided a glimpse at how this footage was made. That posting shows the raw iPhone footage, the CGI animations, and the final composite after it was rendered in the software program After Effects.                 View this post on Instagram                        A post shared by Hamid Ebrahimnia (@hamidebrahimnia)    Ebrahimnia wrote: Split screen version of my recent drones work. First I filmed the building, recorded by the iPhone 12 ProMax, from ultra wide zooming to tele lens, then I tracked the footage with Mocha planar tracking and imported data to the Cinema4D and made a cg version of the outer space of building even the windows with details so the shadows and reflections completely matches the real footage, then I adjusted the position of CG sun in the scene to match the real sun so shadows length and position completely match. Then I made the drones and balls animation and rendered and imported to After Effects to composite with the real footage. I hope you like it :) Ebrahimnia\u2019s Instagram page is full of similar CGI videos. One, for example, shows ant-sized elephants while another shows the \u201cmysterious monolith\u201d that was discovered in Utah in 2020 levitating off the ground.  ",
+    "category": "Fauxtography"
+   }
+  }
+ ]
+}

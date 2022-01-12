@@ -1,0 +1,226 @@
+{
+ "max_score": 35.995346,
+ "hits": [
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "9008",
+   "_score": 35.995346,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Bill O\u2019Reilly Found Dead at His Long Island Home?",
+    "author_name": "Snopes Staff",
+    "date_published": "22 May 2017",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/bill-oreilly-found-dead/",
+    "claim": "Former Fox News host Bill O'Reilly was found dead on Long Island.",
+    "content": " On 21 May 2017, the Daily USA Update web site published an article purporting to reveal \u201cmore details about the sad death\u201d of former Fox News anchor Bill O\u2019Reilly: The Islip Coroner\u2019s Office stated that last night, Bill O\u2019Reilly was found dead at his home in Long Island. It seems that Bill decided to take his own life. This morning, LLOD reporter Skip Tetheluda was there when the family asked the media not to hold a press conference at this time, because they want to have privacy at this difficult and sad moment. Tetheluda told us: \u201cBill O\u2019Reilly did not want to spend the rest of his life, led by some false claims that he is some old douche who can\u2019t keep his hands to himself. So, it seems that he does not want a life full of embarrassment, so he decided to blew the back of his head off with a 45 caliber handgun that was in his possession. There was found a note at the crime scene. Even though the investigators did not want to reveal the message, we find out that O\u2019Reilly wrote an apology to his daughter and wife and that he was sorry that they will always look him as a monster.\u201d  The article contained numerous similarities to one published by the fake news site America\u2019s Last Line of Defense: Bill O\u2019Reilly, found dead at his home on Long Island last night, took his own life, according to the Islip Coroner\u2019s Office. LLOD reporter Skip Tetheluda was onsite this morning when the family asked the coroner not to hold a press conference so they could maintain some privacy during this difficult time. Tetheluda told us by phone: \u201cBill O\u2019Reilly was looking at spending the rest of his life surrounded by mounting allegations that he was a filthy old scumbag who couldn\u2019t keep his hands to himself. He decided not to try living with the embarrassment and instead blew the back of his head off with a .45 caliber handgun he kept in his desk \u2026 A note on scene wasn\u2019t read out loud but this reporter heard mention of an apology to his wife and daughter and concern that they would always see him as the monster that he was.\u201d There was no truth to the claim Bill O\u2019Reilly was found dead, as the former Fox News host is still hosting his newly launched podcast and commenting on current events. Such reports originated with America\u2019s Last Line of Defense, a fake news site whose disclaimer identifies its content as \u201csatirical\u201d in nature: The Resistance may include information from sources that may or may not be reliable and facts that don\u2019t necessarily exist. All articles should be considered satirical and any and all quotes attributed to actual people complete and total baloney. Pictures that represent actual people should be considered altered and not in any way real. ",
+    "category": "Junk News",
+    "tags": [
+     "america's last line of defense",
+     "celebrity death hoaxes",
+     "daily USA update"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "9292",
+   "_score": 34.075813,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Was Megyn Kelly Fired from NBC?",
+    "author_name": "Bethania Palma",
+    "date_published": "9 March 2017",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/was-megyn-kelly-fired-from-nbc/",
+    "claim": "Former Fox News host Megyn Kelly was fired from NBC before even starting on air there.",
+    "content": " In early March 2017, a round of hoax stories had many readers wondering whether Megyn Kelly, the former Fox News host, had left the cable news channel for NBC News only to be quickly fired before even making it to the air. The fake news story about Megyn Kelly contains a made-up quote from a made-up NBC Universal executive claiming that she had been replaced by conservative commentator Elizabeth Hasselbeck:  They came up with the perfect replacement. Elizabeth Hasselbeck, who nobody would ever consider a journalist but is a well-known and very attractive conservative woman, will be taking over the slot left open by Kelly. According to NBC Universal CEO Maxwell Seawald: \u201cElizabeth was thrilled to take over the afternoon slot Kelly was fired from. She\u2019s perfectly happy to be our version of Kelly Ripa and shows no interest in being taken seriously. Since her time as the cute pigtailed girl on Survivor she\u2019s always loved being an entertainer. Her time on Fox sealed that. She was the eye candy on the couch at Fox and friends and she\u2019ll do very nicely in the same role on \u2018Elizabeth\u2019.\u201d The CEO of NBC Universal is actually Stephen Burke, not \u201cMaxwell Seawald,\u201d and the network does not have an executive by that name. Kelly is expected to start her new stint on NBC in the fall of 2017. She left Fox News when her contract expired. She had been one of the female employees at Fox to level sexual harassment allegations against former chairman Roger Ailes: In recent months, Kelly\u2019s future in broadcast journalism was up in the air as her contract came up for renegotiation. Her public clash with Donald Trump, the publication of her memoir and her popularity at Fox News elevated her profile and gave her additional bargaining leverage. Meanwhile, internal turmoil at Fox News swirled as longtime Chairman Roger Ailes departed the network amid accusations of sexual harassment. Kelly leveled accusations of sexual harassment against Ailes in her memoir, \u201cSettle for More,\u201d which described an episode in which Ailes made repeated and unwanted advances before asking her when her contract expired.       Kelly will anchor a daily program that will air Monday through Friday and will also host a Sunday evening news show, per NBC: As part of the multi-year agreement, Kelly will also anchor a new Sunday evening news magazine show and will become an important contributor to NBC\u2019s breaking news coverage as well as the network\u2019s political and special events coverage. The claim that Kelly was fired from NBC News originally came from TheLastLineOfDefense.org, a repeat offender that carries a buried disclaimer on its \u201cAbout\u201d page stating that it is a satirical web site, and that information it publishes is thus not reliable: DISCLAIMER: The Resistance may include information from sources that may or may not be reliable and facts that don\u2019t necessarily exist. All articles should be considered satirical and any and all quotes attributed to actual people complete and total baloney. Pictures that represent actual people should be considered altered and not in any way real. The same site spread a very similar rumor at the same time about a colleague of Megyn Kelly\u2019s: longtime Fox News anchor Shep Smith. He, like Kelly, has not been fired. ",
+    "category": "Junk News",
+    "tags": [
+     "fox news",
+     "megyn kelly",
+     "nbc news"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "10013",
+   "_score": 33.83639,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Fox News Said the Benghazi Probe Was a Hoax",
+    "author_name": "Arturo Garcia",
+    "date_published": null,
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/fox-news-benghazi-probe-hoax/",
+    "claim": "Fox News admitted the investigation into the Benghazi deaths was a \"complete hoax.\"",
+    "content": " On 24 October 2016, the ill-named Bipartisan Report web site published a story announcing that Fox News had called the investigation into the 2012 fatal attack on a U.S. diplomatic compound in Benghazi, Libya, a \u201ccomplete hoax\u201d: Current Presidential Candidate Hillary Clinton\u2019s alleged wrongdoings have been all over the media. From her use of a private email server, to the Benghazi attacks, Clinton has made national news with headlines proclaiming she can\u2019t be trusted, is a criminal, and needs to drop out of the race. Though there may be some truth behind the reports, even Fox News themselves have reported the Benghazi scandal is a hoax. After recapping the events that led to the death of Ambassador Christopher Stevens and three other men, the story then pasted a brief report by Fox News host Shepard Smith, saying in part: After a two-year, $7 million investigation the eighth investigation to date, the authors of the report make no new accusations and provide no new evidence of wrongdoing against the former Secretary of State Hillary Clinton. But the report does blame the Obama administration, the CIA, and the U.S. military for responding too slowly to the attack. What the Bipartisan Report story did not say was that Smith\u2019s report was from 28 June 2016. The Fox News Channel\u2019s web site does not contain clips from that episode, but it can be viewed here. At no point during the report did Smith say anything painting the investigation as being the \u201choax\u201d described in the headline. It should be noted that the same site retracted an August 2016 story asserting that Melania Trump, who is married to Republican presidential nominee Donald Trump, was once a sex worker. ",
+    "category": "Uncategorized",
+    "tags": [
+     "benghazi",
+     "fox news",
+     "shepard smith"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "12065",
+   "_score": 33.256615,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Breaking News",
+    "author_name": "Kim LaCapria",
+    "date_published": null,
+    "rating": null,
+    "url": "https://www.snopes.com/fact-check/fox-hires-george-zimmerman/",
+    "content": "  FACT CHECK:  Has Fox News hired George Zimmerman, the man who killed  17-year-old Trayvon Martin, as a commentator?     Claim:  Fox News has hired George Zimmerman, the man who killed 17-year-old Trayvon Martin, as a commentator.    FALSE Example:   [Collected via Twitter, August 2015]   Good grief. This will not end well. MT | FOX News Hires George Zimmerman as Commentator http://t.co/w89L1qlixK via @Mannyotiko \u2014 Chelie in TX (@ChelieinTX) August 20, 2015   FOX NEWS HIRED GEORGE ZIMMERMAN AS A COMMENTATOR I AM SO FED UP/IRRITATED/ANGRY/APPALED WITH FOX NEW AND THE MEDIA AND THIS COUNTRY \u2014 bolivia (@obaartholomew) August 20, 2015  Origins:   On 19 August 2015, the web site The Business Standard News (tagline \u201cBS News, keeping it real\u201d) published an article titled \u201cFOX News Hires George Zimmerman As Commentator,\u201d reporting that:  George Zimmerman, the neighborhood watchman who killed black teen Trayvon Martin, has been hired as a commentator by FOX News. A FOX News spokesman said Zimmerman will comment on second amendment and other crime issues. FOX News host Steve Doocy welcomed the decision. \u201cGeorge has had such a rough time after the trial, we are glad to give him a stable job,\u201d Doocy said. However, this article was just a spoof of Zimmerman\u2019s controversial post-trial endeavors, which include teaming up with the owner of a Florida \u201cMuslim-free zone\u201d gun shop to sell Confederate flag artworks. Content on the Business Standard News web site bears the following disclaimer, indicating that is not intended to be taken seriously: The Business Standard News is a satirical site designed to poke fun at the absurdity of the modern-day news cycle. The stories are outlandish, but reality is so strange nowadays they could be true. The site wasn\u2019t the first to concoct a tale about Fox News\u2019 hiring Zimmerman. A fake news article from 2013 made the same claim:    In early August 2015, the Business Standard News published a (similarly false) article claiming Fox News commentator Stacey Dash had been secretly recorded trashing the network.  Last updated:    20 August 2015 Originally published:  20 August 2015  ",
+    "category": "Junk News",
+    "tags": [
+     "fox news",
+     "george zimmerman",
+     "The Business Standard News"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "4805",
+   "_score": 32.804733,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did Bill O\u2019Reilly Write an Essay Calling COVID-19 a Chinese Bioweapon?",
+    "author_name": "Bethania Palma",
+    "date_published": "13 April 2020",
+    "rating": "Misattributed",
+    "url": "https://www.snopes.com/fact-check/bill-oreilly-coronavirus-essay/",
+    "claim": "Former Fox News host Bill O'Reilly wrote a viral essay claiming the COVID-19 pandemic was caused by a Chinese bioweapon.",
+    "content": " Snopes is still fighting an \u201cinfodemic\u201d of rumors and misinformation surrounding the COVID-19 pandemic, and you can help. Find out what we\u2019ve learned and how to inoculate yourself against COVID-19 misinformation. Read the latest fact checks about the vaccines. Submit any questionable rumors and \u201cadvice\u201d you encounter. Become a Founding Member to help us hire more fact-checkers. And, please, follow the CDC or WHO for guidance on protecting your community from the disease.   In early April 2020, social media users shared an essay on Facebook claiming, among other things, that the ongoing COVID-19 coronavirus disease pandemic was the result of a biological weapon created by the Chinese government. The essay text began with \u201cWritten by Bill O\u2019Reilly,\u201d which prompted many readers to write to Snopes, asking whether the former Fox News host and political commentator had in fact written it.  The essay attributed to O\u2019Reilly amplifies a widely debunked conspiracy theory that posits the ongoing COVID-19 pandemic is the result of a human-made bioweapon as opposed to a new, naturally occurring virus. It reads, in part:  The communist regime has millions of its own citizens slaving in gulags simply for speaking against the government or openly practicing Christianity. Knowing they could not attack us openly they needed to be coy, like a deceptive fox. In my opinion, I believe the regime released a biological weapon upon the world that doesn\u2019t kill everyone, but kills \u201cenough,\u201d especially the elderly and in-firmed. Back in WW 2 Hitler thought the same way. He got rid of what he considered the useless and rejects of society.       However, we found no evidence that O\u2019Reilly, who currently publishes commentary on his own website, wrote the essay in question. Readers reported spotting the essay on Facebook and also in forwarded emails. But it was not posted by O\u2019Reilly on his website or his social media accounts. We also found no evidence via other news sources that O\u2019Reilly promoted the debunked conspiracy theory that the COVID-19 pandemic was an act of biological warfare by the Chinese government. In point of fact, the essay\u2019s true author appears to be a Facebook user named Tim Besmer Sr., who posted it to his page on April 2 with a copyright notice in his own name and the words \u201cPermission given for public sharing\u201d appended. At that time, the post was labeled \u201cFalse\u201d by Facebook\u2019s independent fact-checking partners. We have not been able to ascertain who added O\u2019Reilly\u2019s byline to the essay, but within days of its initial posting a version appeared containing both Besmer\u2019s name and O\u2019Reilly\u2019s, followed by variants attributed to O\u2019Reilly alone. In a statement to Snopes, a representative for O\u2019Reilly\u2019s website confirmed that \u201cBill O\u2019Reilly did not write a single word of the essay in question,\u201d adding that the pundit \u201cdoes not traffic in conspiracy theories.\u201d We therefore rate this quoted item \u201cMisattributed.\u201d ",
+    "category": "Viral Phenomena",
+    "tags": [
+     "COVID-19"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "3199",
+   "_score": 32.611347,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Was This a Real Fox News Chyron?",
+    "author_name": "Bethania Palma",
+    "date_published": "21 January 2021",
+    "rating": "Labeled Satire",
+    "url": "https://www.snopes.com/fact-check/fox-news-chyron/",
+    "claim": "A Fox News chyron reported \"Joe Biden has been president for nine hours and 400,000 people are dead.\"",
+    "content": " In late January 2021, readers emailed Snopes asking about an image being shared on social media that was mocked up to look like it showed a Fox News chyron superimposed over prime time host Sean Hannity that read, \u201cJOE BIDEN HAS BEEN PRESIDENT FOR NINE HOURS AND 400,000 AMERICANS ARE DEAD.\u201d  This was not a real Fox News chyron \u2014 if one looks at the top right corner of the image, the logo for the comedy program \u201cThe Daily Show with Trevor Noah\u201d is visible, meaning the image was created by comedy writers for the Comedy Central parody news show to poke fun at the way Hannity, a vocal supporter of former U.S. President Donald Trump, would be expected to cover Trump\u2019s Democratic successor, U.S. President Joe Biden. Trump has been widely criticized for his administration\u2019s handling of the COVID-19 pandemic. The Trump administration oversaw 400,000 U.S. fatalities from the disease, with over 100,000 occurring during Trump\u2019s final 36 days in office, when he was accused of abdicating his official duties as he embarked on a quest to overturn the November 2020 election results. Even though the altered image was a joke, \u201cThe Daily Show\u201d writers weren\u2019t that far off the mark from reality. On the day of Biden\u2019s inauguration, Hannity complained on his radio show that Biden was \u201cminimizing\u201d the pandemic, stating: They\u2019re minimizing, I noticed, on getting COVID under control. \u201cIt\u2019s going to take a lot of time, a lot of time. Our team is eager.\u201d I thought he was going to do this on day one. \u201cWe\u2019re eager though to get the agencies and into the White House to gain a better assessment about where things really stand on managing the pandemic.\u201d Trump left you multiple vaccines. You\u2019re in much better shape. In fact, one of the scandals of the administration\u2019s waning days happened when state governors and health officials said they were lied to by Trump officials about vaccine-supply reserves that didn\u2019t exist. ",
+    "category": "Politics"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "4078",
+   "_score": 31.838646,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Do These Photos Show Chris Wallace on Epstein\u2019s Island?",
+    "author_name": "David Mikkelson",
+    "date_published": "5 October 2020",
+    "rating": "Miscaptioned",
+    "url": "https://www.snopes.com/fact-check/chris-wallace-island/",
+    "claim": "Photographs show Fox News host Chris Wallace vacationing on a private island formerly owned by Jeffrey Epstein.",
+    "content": " Shortly after Chris Wallace of Fox News moderated a contentious debate between presidential candidates Donald Trump and Joe Biden on Sept. 29, 2020, social media users began circulating photographs said to show Wallace vacationing on the private island (commonly dubbed \u201cPedophile Island\u201d) owned by the late financier and convicted sex offender Jeffrey Epstein:  Although these photographs do capture Chris Wallace vacationing, they have no connection to Epstein or to the notorious private island he once owned in the U.S. Virgin Islands. The persons seen in these photographs are easily identifiable as Wallace and his wife, Lorraine Smothers, along with actor George Clooney and his former girlfriend Stacy Keibler. The actor and the Fox News host have a friendly relationship, and the two couples spent some time together at Clooney\u2019s home in Lake Como, Italy, in August of 2012. The photographs seen above can be glimpsed in a contemporaneous Politico video interview of Wallace, during which the host described his four-day vacation with his wife at Clooney\u2019s Italian home. ",
+    "category": "Fauxtography"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "9054",
+   "_score": 31.35895,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Is Fox News Host Tucker Carlson in Critical Condition After Head-On Collision?",
+    "author_name": "David Mikkelson",
+    "date_published": "14 May 2017",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/tucker-carlson-car-crash/",
+    "claim": "Fox News Channel host Tucker Carlson succumbed to injuries from an automobile accident.",
+    "content": " On 13 May 2017, the America\u2019s Last Line of Defense web site published an article positing that Fox News Channel host Tucker Carlson had been critically injured in an automobile accident: Fox News\u2019 bright and shining primetime star, Tucker Carlson, was involved in a hit and run head-on collision on his way home from his live broadcast of \u201cTucker Carlson Tonight,\u201d which is shot at Fox News in New York City. NYC Police Sargeant Michael O\u2019Leary told reporters that while he couldn\u2019t confirm the identity of the driver, a well-known news anchor was rammed in what looked like an act of violence and not an accident. EMT\u2019s on the scene were heard on their radios describing the man as Fox News anchor Tucker Carlson after retrieving his wallet. He was transported to Saint Mary\u2019s where he is said to be in critical condition and awaiting surgery. No other information is available from the hospital, which also refuses to release anything until they get the OK from police. This report was followed up by one claiming that Carlson had succumbed to his injuries, and police had found that the traffic mishap that resulted in Carlson\u2019s death was no \u201caccident\u201d: Fox News superstar Tucker Carlson succumbed to his injuries and died overnight after being hit head-on while driving home. The Ford Explorer that crossed the median to slam into him was stolen, reinforced to sustain a head-on collision without killing the driver and left at the scene. After a preliminary investigation, police have ruled out an accident and Carlson\u2019s cause of death has been ruled a homicide. None of this was true. These reports originated solely with America\u2019s Last Line of Defense, a clickbait fake news site which engages in political trolling under the guise of producing \u201csatire\u201d \u2014 and which published the very same sequence of fake news articles (i.e., \u201cconservative political figure injured in car crash, incident later discovered to be no accident\u201d) about former Alaska governor Sarah Palin a month earlier.  Tucker Carlson remains alive and uninjured. ",
+    "category": "Junk News",
+    "tags": [
+     "america's last line of defense",
+     "Tucker Carlson"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "721",
+   "_score": 31.298374,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did Tucker Carlson Say This About Nebraska Man\u2019s Death to Stoke COVID Vaccine Fears?",
+    "author_name": "Jessica Lee",
+    "date_published": "23 August 2021",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/tucker-carlson-nebraska-man-covid/",
+    "claim": "On Aug. 13, 2021, Fox News' Tucker Carlson on \"Tucker Carlson Tonight\" said a 47-year-old man from Kearney, Nebraska, died 12 hours after receiving a COVID-19 vaccine, when, in reality, the man died in a train-vehicle collision.",
+    "content": " In late August 2021, several Snopes readers asked us to investigate a rumor that Fox News host Tucker Carlson failed to explain the actual circumstances of a Nebraska man\u2019s death in order to stoke fear about the COVID-19 vaccine\u2018s potential to kill.  Beginning on Aug. 20, readers shared with us the below-transcribed message that they had seen on Facebook or in emails: This past Friday, Tucker Carlson told his Fox audience about a 47-year-old Kearney, Nebraska man who had been vaccinated that Tuesday at 1:49 p.m. The man, Tucker told his audience, was dead exactly twelve hours later. What Carlson didn\u2019t tell them was that the man\u2019s car was hit by a train. A couple days prior, on Aug. 18, a Twitter user posted the same language.        That user\u2019s tweets linked to an Aug. 20 Facebook post with the verbatim claim attributed to former Democratic U.S. Sen. Al Franken. Next, we turned to Franken\u2019s official YouTube channel, where we indeed found an Aug. 18 video in which he alleged \u201cthis past Friday\u201d Carlson supposedly talked about the Nebraska man\u2019s death, omitting key context. In other words, Franken appeared to be the source of the claim.  That origin story aside, the underlying claim was that Carlson, who has repeatedly tried to convince viewers to disavow masks during the pandemic, suggested on Aug. 13 (the Friday before the Franken video) that a man from Kearney, Nebraska, received a COVID-19 vaccine and died 12 hours later because of it. But, under the claim\u2019s pretenses, the man\u2019s vaccine status had nothing to do with his death; rather, he supposedly died in a fatal crash between a train and vehicle. First, we removed Carlson\u2019s stake in the claim and searched for evidence to confirm or deny whether a 47-year-old man from Kearney, which is about 130 miles west of Lincoln, died in a vehicle-train collision since the beginning of the COVID-19 outbreak in early 2020. Using a digital newspaper archive, we found no stories reporting on such an incident. Next, to investigate the claim\u2019s legitimacy regarding the Fox News host, we obtained an archived version of the Aug. 13 show of \u201cTucker Carlson Tonight\u201d via the nonprofit Internet Archive. Based on that show\u2019s transcript, Carlson did not mention \u201cKearney, Nebraska\u201d for any reason, including the alleged scenario about a resident\u2019s death there. (Furthermore, we concluded Carlson did not mention the town on any other on-air segments since the archive began documenting his footage, according to the database.) We cross-referenced that finding with Fox News\u2019 transcript of Carlson\u2019s Aug. 13 show, and, again, we found no references to the town or state.       And, while it was possible the host shared a similar story about the death of a vaccine recipient whose hometown wasn\u2019t Kearney \u2014 or that he shared the alleged story under circumstances other than the Aug. 13 \u201cTucker Carlson Tonight\u201d show \u2014 we are rating this specific claim \u201cFalse\u201d considering the evidence above. We reached out Franken\u2019s communication team to learn why he made the claim. We have not received a response, but we will update this report when, or if that, changes. Lastly, let this be clear: No credible scientist or research entity has dubbed COVID-19 vaccines unsafe, and serious adverse effects \u2014 such as death \u2014 after the inoculations are rare. The Center for Disease Control and Prevention stated on its website, as of this writing: More than 357 million doses of COVID-19 vaccines were administered in the United States from December 14, 2020, through August 16, 2021. During this time, VAERS received 6,789 reports of death (0.0019%) among people who received a COVID-19 vaccine. FDA requires healthcare providers to report any death after COVID-19 vaccination to VAERS, even if it\u2019s unclear whether the vaccine was the cause. Reports of adverse events to VAERS following vaccination, including deaths, do not necessarily mean that a vaccine caused a health problem. A review of available clinical information, including death certificates, autopsy, and medical records, has not established a causal link to COVID-19 vaccines. In other words, federal guidelines require death investigators nationwide to make an entry in the U.S. Department of Health and Human Services\u2019 VAERS portal whenever a recently vaccinated individual dies \u2014 no matter if the inoculation had anything to do with the death. Additionally, anyone can add information to the public reporting tool, making its accuracy questionable. Ultimately, no evidence emerged to substantiate widespread worries that COVID-19 vaccines can alone lead to death.  Our other fact checks into Carlson\u2019s alleged on-air quotes:  Did Tucker Carlson Say He Can\u2019t Go to Restaurants Without Being Harassed? Did Tucker Carlson Say Forcing Kids To Wear Masks Outside Is \u2018Child Abuse\u2019? Yes, Tucker Carlson Called a Top U.S. Military General a \u2018Pig\u2019 Did Tucker Carlson Equate Media\u2019s Treatment of Derek Chauvin to \u2018Lynching\u2019?  ",
+    "category": "Media Matters"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "9064",
+   "_score": 30.759836,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did Fox News Report That James Comey Resigned?",
+    "author_name": "Bethania Palma",
+    "date_published": "10 May 2017",
+    "rating": "Mostly True",
+    "url": "https://www.snopes.com/fact-check/fox-news-comey/",
+    "claim": "Fox News reported the former FBI director had resigned, when he had in fact been fired.",
+    "content": " On 9 May 2017, President Donald Trump fired James Comey from his position as director of the Federal Bureau of Investigation. The cable network Fox News reported the news live during the program \u201cThe Fox News Specialists.\u201d They initially reported Comey had resigned. The erroneous graphic announcing that Comey had stepped down of his own volition appears at the 33-minute mark:  During the program, host Eric Bolling interrupted a discussion about Afghanistan to deliver news he was apparently receiving from someone off-set, saying, \u201cJames Comey resigning, is that what you\u2019re telling me?\u201d Shortly after that remark, a chyron appeared on the lower part of the screen saying \u201cJames Comey resigns.\u201d About one minute later, Bolling again broke in with the correction that Comey had been dismissed by President Donald Trump, saying \u201c[White House Press Secretary] Sean Spicer\u2019s just told the press that the president has accepted the attorney general\u2019s recommendation to dismiss \u2014 dismiss James Comey.\u201d Although the graphic did briefly appear on the screen, Fox News quickly corrected the error after receiving the news live on air. ",
+    "category": "Uncategorized",
+    "tags": [
+     "chyron",
+     "Donald Trump",
+     "fox news"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,208 @@
+{
+ "max_score": 14.860376,
+ "hits": [
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "11664",
+   "_score": 14.860376,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "FALSE: Pope Francis Shares Instagram Selfie",
+    "author_name": "Kim LaCapria",
+    "date_published": "14 December 2015",
+    "rating": null,
+    "url": "https://www.snopes.com/fact-check/pope-francis-shares-instagram-selfie/",
+    "claim": "Pope Francis uploaded a selfie to the Vatican's Instagram account.",
+    "content": " On 14 December 2015, multiple web sites carried news of what was purportedly Pope Francis\u2019 \u201cfirst selfie\u201d (published to an Instagram account that appeared to belong to the Vatican):    @catholicworld #popeFrancis #papaFrancesco #papaFrancisco #papstFranziskus #papeFran\u00e7ois #\u043f\u0430\u043f\u0430\u0444\u0440\u0430\u043d\u0446\u0438\u0441\u043a A photo posted by VATICAN.VA (@vatican__) on Dec 14, 2015 at 2:15am PST   Among outlets sharing the Papal selfie was CNN; video of that brief coverage was captured by a separate Twitter account:  .@Pontifex posts on Instagram \u2014 be honest, have you seen a better selfie? https://t.co/ZxAnvYl12F \u2014 New Day (@NewDay) December 14, 2015        While the claim was believable given Pope Francis\u2019 reputation for being progressive and technologically adept, it was ultimately false. The image (not a \u201cselfie\u201d in the strictest \u201cself-taken\u201d sense) appeared to have been captured from a video chat between Pope Francis and young Catholics around the world. At roughly the 01:23 mark of the video, a nervous young man can be seen inadvertently reading aloud a directive not to get nervous. In turn, His Holiness laughed:  The web site Mashable confirmed with the Vatican that the Pope neither maintained nor was involved with the Instagram account that published the fake selfie. Previous rumors attached to the Pope falsely held that he said it was not necessary to believe in God, that he declared all religions were \u201ctrue,\u201d that he officially endorsed Bernie Sanders, that he did an impressive magic trick involving a tablecloth, that he revised Catholic doctrine to permit fornication, and that he stated beloved pets go to heaven.  ",
+    "category": "Fauxtography",
+    "tags": [
+     "hoaxes",
+     "instagram",
+     "politics"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "348",
+   "_score": 13.359933,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did Pope Francis\u2019 Instagram Account \u2018Like\u2019 a Racy Photo?",
+    "author_name": "Bethania Palma",
+    "date_published": "19 November 2020",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/pope-francis-like-a-racy-photo/",
+    "claim": "The Instagram account for Pope Francis \"liked\" a racy image of a Brazilian model.",
+    "content": " In November 2020, journalists reported that the official Instagram account for Pope Francis had \u201cliked\u201d a racy photograph of Natalia Garibotto, a Brazilian model. The picture showed Garibotta in lingerie with her rear end facing the camera. The Catholic News Agency (CNA) reported, \u201cThe exact time of the \u201clike\u201d is unclear, but it was visible and reported by news outlets on November 13. The photograph was unliked on November 14, after CNA asked the Holy See Press Office for comment.\u201d But it wasn\u2019t \u201cunliked\u201d before Garibotto\u2019s management company, Coy Co., captured a screenshot, which it posted to its own Instagram account, along with the comment that it had received the \u201cPOPE\u2019S OFFICIAL BLESSING.\u201d To be clear, the Pope\u2019s social media accounts are managed by a team, not Francis himself. The Vatican launched an investigation into the matter. ",
+    "category": "Embarrassments"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "5783",
+   "_score": 13.359933,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did Rick Perry Fall For A Years-Old Social Media Privacy Hoax?",
+    "author_name": "Alex Kasprak",
+    "date_published": "21 August 2019",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/rick-perry-instagram-hoax/",
+    "claim": "U.S. Energy Secretary Rick Perry posted a legal-notice hoax to his Instagram account. ",
+    "content": " On Aug. 20, 2019, U.S. Department of Energy Secretary Rick Perry posted a notice on Instagram informing that company that \u201cit is strictly forbidden to disclose, copy, distribute, or take any other action against me based on this profile and/or its contents.\u201d Though he later deleted it, the shared text falsely claimed that posting such a notice would legally prevent the company from using the material he posted to the platform:  Perry was not alone in sharing this purported legal advice. Several celebrities including Judd Apatow, Debra Messing, Taraji P. Henson, Julia Roberts, Julianne Moore, and Usher also shared the same picture.  Nothing contained in this viral text is true. A spokesperson for Facebook, which owns Instagram, told BuzzFeed News that \u201cthere\u2019s no truth to this post.\u201d In fact, the text contained within it is merely a re-purposed version of one of the most pervasive viral hoaxes of the social media era, as we recently noted in a post on Snopes\u2019 Instagram account:                View this post on Instagram                        A post shared by Snopes.com (@snopesdotcom) on Aug 20, 2019 at 7:18pm PDT          Since at least 2012, people have littered Facebook with some variation of a legal notice intended to prevent the social media company from making users\u2019 posts public. The current iteration merely replaces the word \u201cFacebook\u201d with \u201cInstagram.\u201d Snopes\u2019 debunking of the Facebook claim remains one of the most heavily trafficked fact checks in our database to this day. After being informed of the error, Perry deleted the post. Poking fun at himself, he later posted this \u201cnotice\u201d to Instagram:                View this post on Instagram                        A post shared by GovernorPerry (@governorperry) on Aug 21, 2019 at 7:54am PDT    The Department of Energy is responsible, in part, for safeguarding America\u2019s nuclear energy secrets. ",
+    "category": "Politics"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "7977",
+   "_score": 12.419445,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did the Florida Shooter\u2019s Instagram Profile Picture Feature a \u2018MAGA\u2019 Hat?",
+    "author_name": "Dan Evon",
+    "date_published": "15 February 2018",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/did-shooters-instagram-picture-maga-hat/",
+    "claim": "An Instagram account linked to suspected shooter Nikolas Cruz featured an avatar that included a \"MAGA\" hat.",
+    "content": " In the aftermath of a 14 February 2018 school shooting in Parkland, Florida that left at least seventeen people dead, the Internet brimmed over with rumors and disinformation about suspected shooter Nikolas Cruz. Was he a Dreamer? No. A registered Democrat? No. Was he pictured in an \u201cantifa t-shirt\u201d? No. Was he photographed in a hat bearing President Trump\u2019s 2016 campaign slogan, \u201cMAGA\u201d (\u201cMake America Great Again\u201d)?  The MAGA hat rumor was based on the profile picture of Instagram account \u201cNikolasCruzMakarov.\u201d The account has since been deleted (you can see an archived version here) but screenshots of the page have already traveled far and wide on social media:   The images from this account were included in a number of articles from credible news sources. Still, some claimed that the \u201cnikolascruzmakarov\u201d account was a hoax, and that the suspected shooter\u2019s real account was actually located under \u201ccruz_nikolas\u201d (forgetting, apparently, that individuals can and often do open more than one account on social media.) Others asserted that the \u201cnikolascruzmakarov\u201d account was created after the shooting in order to frame the suspected shooter as a Trump supporter:         Students who knew Cruz confirmed to the Miami Herald that the \u201ccruz_nikolas\u201d Instagram page was authentic; the web site Heavy.com reported that it had verified the \u201cnikolascruzmakarov\u201d page. Instagram also seemingly confirmed the authenticity of these account when responding to a question posed by Guardian reporter Jon Swain:    Instagram implicitly confirming that an account with a MAGA Trump hat avatar belonged to gunman Nikolas Cruz. Asked why the account was removed, spokesperson says: pic.twitter.com/LdXb73iCj8 \u2014 Jon Swaine (@jonswaine) February 15, 2018  This is a terrible tragedy and our hearts go out to the people who have been affected. There is absolutely no place on our platforms for people who commit such horrendous acts. We have found and immediately deleted the shooter\u2019s accounts on Facebook and instagram. Broward Sheriff Scott Israel also seemed to confirm that the \u201cnikolascruzmakarov\u201d account was authentic when he said that Cruz had posted disturbing photographs of dead lizards to social media: Speaking on WIOD-610 AM radio Thursday morning, Broward Sheriff Scott Israel said Cruz had posted troubling photos and videos on social media. \u201cWe saw a pic yesterday where he took a chameleon and he splattered the chameleon,\u201d Israel said. \u201cThings like this, that\u2019s not normal behavior.\u201d The \u201cnikolascruzmakarov\u201d account (the Instagram handle appears to be a combination of the suspect\u2019s name, Nikolas Cruz, and \u201cMakarov,\u201d the name of a Russian semi-automatic pistol) does feature images of dead lizards:        A classmate also mentioned the dead lizard photographs on Cruz\u2019s Instagram feed in a statement to NBC News. ABC News also posted images from this account and reported that law enforcement sources had confirmed that it did indeed belong to the suspected shooter: According to Broward County Sheriff Scott Israel, investigators have already found some \u201cdisturbing\u201d content on social media that could have provided warning signs. \u201cWe have already begun to dissect his websites and things on social media that he was on, and some of the things that have come to mind are very, very disturbing,\u201d Israel said. The photos posted on an Instagram account law enforcement sources tell ABC News belongs to the suspected shooter shows a young man displaying an arsenal of weapons. Images from this account were also compiled for a video from the Associated Press:  The claim that this account was made after the shooting in order to frame Cruz as a Donald Trump supporter can also be debunked. Before this account was deleted, several outlets took screenshots of the images on this Instagram page which included time stamps dating back months before the shooting. The following photograph from Fox News, for instance, includes a time stamp from July 2017:  Fox shared this image with the caption: \u201cA picture on Nikolas Cruz\u2019s Instagram page shows him holding a rifle. (Instagram).\u201d A classmate told the Daily Beast that Cruz frequently wore patriotic clothing and that he was spotted wearing at least one \u201cMAGA\u201d hat: \u201cI knew him to be passive aggressive but not violent. He was rude to people. He had an act up like he was tough. He never got into, like, physical fights with anyone, but he did get into verbal arguments,\u201d 17-year-old Ocean Parodie told The Daily Beast. \u201cI just thought he dropped out of school, I didn\u2019t think he would do anything. He always kept a low profile.\u201d [\u2026] Cruz always had his hair short and had a penchant for wearing patriotic shirts that \u201cseemed really extreme, like hating on\u201d Islam, Parodie said. The suspected gunman would also deride Muslims as \u201cterrorists and bombers.\u201d \u201cI\u2019ve seen him wear a Trump hat,\u201d the student said. Regardless of what political party the Parkland mass shooter purported to support, a picture of his belief system is coming into focus: on 15 February 2018, the Anti-Defamation League, which tracks and monitors hate groups, issued a press release stating that he may have been affiliated with Republic of Florida, a white supremacist group. However, local law enforcement says that as yet there is no indication of any ties between Cruz and any paramilitary groups, including ROF. ",
+    "category": "Fauxtography",
+    "tags": [
+     "Donald Trump",
+     "maga",
+     "mass shooting"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "9141",
+   "_score": 11.130316,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did Instagram Model Kristyna Martelli Die in Surgery?",
+    "author_name": "Bethania Palma",
+    "date_published": "24 April 2017",
+    "rating": "Unproven",
+    "url": "https://www.snopes.com/fact-check/kristyna-martelli/",
+    "claim": "Instagram model Kristyna Martelli underwent 100 elective cosmetic medical procedures, and died during a surgery in April 2017.",
+    "content": " In late April 2017, rumors circulated claiming Kristyna Martelli (an adult model largely of Instagram fame) had died undergoing a cosmetic procedure. According to various versions of the rumor, Martelli has undergone at least a hundred procedures to obtain her \u201cextreme\u201d proportions, and suffered fatal complications during an undetermined procedure on 18 April 2017. Some versions of the rumor claimed that the model died following a seizure during the purported operation, while others said she had an embolism of unknown description and died while in surgery. Amy Anderssen, who says she is a friend of Martelli\u2019s, published a tweet referencing her death on 21 April 2017, but included no further details:  #RIP beautiful I still can\u2019t believe it #krystinamartelli pic.twitter.com/Xb2fRd4UUY \u2014 Amy Anderssen (@AmyAnderssen1) April 22, 2017  As of 24 April 2017, we were unable to locate any news articles or other substantive or substantiated information matching claims that a 23-year-old woman had died during an elective cosmetic medical procedure on that date. Research is currently in progress.  ",
+    "category": "Entertainment",
+    "tags": [
+     "instagram"
+    ]
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "18",
+   "_score": 10.693126,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did Jen Psaki Say \u2018If You Don\u2019t Buy Anything, You Won\u2019t Experience Inflation\u2019?",
+    "author_name": "Dan Evon",
+    "date_published": "6 January 2022",
+    "rating": "Originated as Satire",
+    "url": "https://www.snopes.com/fact-check/jen-psaki-inflation/",
+    "claim": "White House Press Secretary Jen Psaki said: \"If you don't buy anything, you won't experience inflation.\"",
+    "content": " In December 2021, a screenshot of a supposed news article headline claiming that White House Press Secretary Jen Psaki had said, \u201cIf you don\u2019t buy anything, you won\u2019t experience inflation\u201d was widely circulated by partisans on social media:  This is not a genuine quote from Psaki, and this screenshot does not show a genuine news article. This headline originated on a \u201csatirical\u201d Instagram account called \u201cBeep.Satire.\u201d The original Instagram post, which was shared on Dec. 15, 2021, featured the Instagram account\u2019s logo, including the word \u201csatire,\u201d on the bottom right of the image. But when this fake headline circulated on social media, the word \u201csatire\u201d was cropped out:               View this post on Instagram                        A post shared by Beep News \u2022 Satire News (@beep.satire)    This Instagram account writes in its bio: \u201cEverything we say is a f*cking joke \ud83e\udd70\u2728\u201d While this headline originated on an Instagram account that clearly labels its content as fictional, many people encountered this picture after it was removed from its original context. This is one of the reasons why we sometimes write about satire/humor. ",
+    "category": "Questionable Quotes"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "3573",
+   "_score": 10.2964735,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did Biden Post Pictures of His Dogs Biting a Trump Chew Toy?",
+    "author_name": "Dan MacGuill",
+    "date_published": "14 December 2020",
+    "rating": "Mostly False",
+    "url": "https://www.snopes.com/fact-check/biden-dogs-trump-chew-toy/",
+    "claim": "In December 2020, President-elect Joe Biden, or an official social media account for his dogs Champ and Major, posted pictures of the dogs biting and playing with a \"Donald Trump\" chew toy.",
+    "content": " In December 2020, right-leaning commentators and websites highlighted what they claimed were photographs posted by President-elect Biden or his staff that showed Biden\u2019s dogs, Major and Champ, biting and playing with \u201cDonald Trump\u201d chew toys.  On Dec. 12, right-wing activist and One America News correspondent Jack Posobiec posted three screenshots from the @first_dogs_usa Instagram account, containing photographs labelled as Biden\u2019s dogs Champ and Major, along with a third dog named Charlie, biting and playing with a chew toy clearly designed to resemble outgoing President Donald Trump. Posobiec added the following caption: Joe Biden has an Instagram account for his dogs, and they just posted pictures of them using the President as chew toy. Unity and Healing!  Posobiec\u2019s tweet formed the basis of a subsequent article published by the right-wing website The Post Millennial, which bore the headline \u201cBiden Posts Pictures of His Dog Destroying a Trump Doll.\u201d       The social media accounts that posted the photographs in question were not official or associated with Biden himself, nor his election campaign or transition. So the claims that Biden posted the photographs, or the Instagram account for Biden\u2019s dogs did likewise, were inaccurate.  However, the photographs themselves were authentic, and did in fact show Champ, Major and Charlie \u2014 whose owner is the president-elect\u2019s granddaughter Naomi Biden \u2014 chewing on a novelty Trump dog toy. Naomi Biden posted the pictures online in July 2020 before later deleting them. Analysis The Instagram account Posobiec cited in his tweet was @first_dogs_usa. That account posted the photographs on Dec. 12, 2020. The profile \u201cbio\u201d clearly states that it is a \u201cfan page\u201d \u2014 meaning it should not be confused for an official account. That Instagram account is linked to a Twitter account with the handle @TheOvalPawffice, which also posted the photographs on Dec. 12, along with the caption: Awoooof! I hope you\u2019ll enjoy these pics of me, Champ &amp; Charlie First Grandpupper. @NaomiBiden took these during our #TugOfWar match. Champ was  the champion \u2013 some names are predestined. Just like winning, in a landslide, by a record number of votes. #ByeDon #YoureFired #DOTUS. That Twitter account also describes itself as a \u201cfanpage.\u201d @first_dogs_usa and @TheOvalPawffice were just two of several social media profiles relating to the Bidens\u2019 dogs Champ and Major, which emerged after Biden\u2019s victory was projected in November 2020. Some of the accounts were clearly labelled as \u201cunofficial\u201d or \u201cfan accounts\u201d, while others were not. They included: @firstdogsusa; @TheFirstDogs; @firstdogs46; @BidenChamp; @ChampBiden; @DoggOTUS; and @ChampMajorBiden. None of those accounts was official. The Biden-Harris transition confirmed that, as of Dec. 14, neither Champ nor Major have any official social media presence.  However, the three photographs of Champ, Major and Charlie playing with a Trump chew toy were authentic. On July 16, 2020, Naomi Biden posted the pictures to Twitter, along with the caption: \u201cChamp is short for Champion, but Charlie &amp; Major played a good game\u201d:  The tweet was still online on Nov. 10, but then deleted on an unknown date between then and Dec. 14. The Trump chew toy is authentic and produced by Fuzzu. A companion Biden chew toy is also available for purchase online.  ",
+    "category": "Politics"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "6001",
+   "_score": 10.272298,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did Kellogg\u2019s Release Ranch-Flavored Pop-Tarts?",
+    "author_name": "Dan Evon",
+    "date_published": "25 June 2019",
+    "rating": "False",
+    "url": "https://www.snopes.com/fact-check/kelloggs-ranch-pop-tarts/",
+    "claim": "Kellogg's released a \"Ranch Pop-Tart.\" ",
+    "content": " In June 2019, an image supposedly showing Kellogg\u2019s newly released, ranch-flavored Pop-Tarts started circulating on social media:  This is not a genuine image of a real Kellogg\u2019s product. This image was created by the Instagram account \u201cPoptartaday,\u201d a social media account that aims to posts a new fake flavor of Pop-Tarts every day. You can see a watermark for  @poptartaday in the upper left-hand corner of this image.  Poptartaday posted this image to its Instagram account on 19 June 2019 with the caption: \u201cNothing hits the spot more than a warm late night Hidden Valley Ranch Pop Tart! Rich, creamy, and full of fresh seasoning @hidden.valley \ud83e\udd24\u201d                  View this post on Instagram                                  A post shared by Pop Tart A Day (@poptartaday) on Jun 19, 2019 at 8:47pm PDT          The @Poptartaday account has created dozens of other fake flavors of Pop-Tarts, such as feet, denim, squid ink, and garbage. The account notes that it is a \u201cParody Account\u201d that is \u201cnot affiliated with the brands on my page.\u201d Kellogg\u2019s has not released a ranch Pop-Tart. And, judging from a previous run-in with Pop-Tarts and ranch, it\u2019s safe to say that they have no plans to do so in the future. In November 2017, a Twitter user posted a photograph of a Pop-Tart being dipped into some ranch dressing along with the caption: \u201cYou ain\u2019t from Oklahoma if you don\u2019t dip your Pop Tart in Ranch Dressing \ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0f.\u201d The official Pop-Tarts Twitter account responded: \u201cThis is just disrespectful.\u201d  ",
+    "category": "Fauxtography"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "1786",
+   "_score": 10.053746,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Did Will Smith Say He Was in the \u2018Worst Shape\u2019 of His Life?",
+    "author_name": "Nur Ibrahim",
+    "date_published": "4 May 2021",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/will-smith-worst-shape/",
+    "claim": "Actor Will Smith posted a shirtless picture on Instagram on May 2, 2021, saying he was \u201cin the worst shape of [his] life.\u201d",
+    "content": " On May 2, 2021, actor and rapper Will Smith shared an Instagram post that made headlines, largely because of its candor. The 52-year-old shared a photograph of himself in shorts, and a front opened hoodie, with the caption, \u201cI\u2019m gonna be real wit yall \u2013 I\u2019m in the worst shape of my life.\u201d                View this post on Instagram                        A post shared by Will Smith (@willsmith)    The post was shared on his verified Instagram account, and resulted in thousands of responses from fans who praised him for being candid, and even some who said he wasn\u2019t looking all that out of shape. On May 4, 2021, Smith shared another photograph revealing his full belly, and declaring, \u201cThis is the body that carried me through an entire pandemic and countless days grazing thru the pantry. I love this body, but I wanna FEEL better. No more midnight muffins\u2026this is it! Imma get in the BEST SHAPE OF MY LIFE!!!!! Teaming up with @YouTube to get my health &amp; wellness back on track. Hope it works!\u201d                View this post on Instagram                        A post shared by Will Smith (@willsmith)    It appears that he will be sharing his workout regimen on YouTube. Given that this was posted from Smith\u2019s own verified account, we rate this claim as \u201cTrue.\u201d ",
+    "category": "Entertainment"
+   }
+  },
+  {
+   "_index": "facts-index",
+   "_type": "_doc",
+   "_id": "3198",
+   "_score": 9.949369,
+   "_ignored": [
+    "content.keyword"
+   ],
+   "_source": {
+    "title": "Was Bernice King\u2019s Tweet on MLK Day Flagged as Misinfo by Instagram?",
+    "author_name": "Nur Ibrahim",
+    "date_published": "21 January 2021",
+    "rating": "True",
+    "url": "https://www.snopes.com/fact-check/bernice-king-mlk-day-instagram/",
+    "claim": "Instagram flagged a reposted tweet from Bernice King about her father, the Rev. Martin Luther King Jr., on Jan. 18, 2021, which is MLK Day, for misinformation pertaining to the COVID-19 vaccine.",
+    "content": " On Jan. 18, 2021 \u2014 also known as MLK Day in commemoration of late civil rights leader the Rev. Martin Luther King Jr. \u2014 his daughter Bernice King posted a message on Twitter that quickly went viral. King\u2019s post bemoaned how the praise received after her father\u2019s death did not reflect how he was treated in his life. She said:  Please don\u2019t act like everyone loved my father. He was assassinated. A 1967 poll reflected that he was one of the most hated men in America. Most hated. Many who quote him now and evoke him to deter justice today would likely hate, and may already hate, the authentic King. #MLK pic.twitter.com/yGdQXL5MJ3 \u2014 Be A King (@BerniceKing) January 18, 2021  A number of people shared this tweet on MLK Day in the form of a screenshot on numerous social media accounts including on Instagram, where many posted it again on Instagram stories. They also noticed something unusual: Instagram had flagged their story with a note saying, \u201cSee why this may be misleading.\u201d  On MLK day, Instagram has labeled this post about MLK from MLK\u2019s daughter as \u201cmisleading\u201d\u2026 This is \ud83e\udd2c outrageous! pic.twitter.com/ghsSGpXeGy \u2014 Devin Guillory (@databoydg) January 19, 2021  According to these users, clicking on the note led to a post stating \u201cFalse Information: Leading health organizations say information in this post may mislead people about vaccines.\u201d Evidently, since the post itself had nothing to do with vaccines, some users assumed that there was a glitch, while others claimed this was Instagram\u2019s attempt at censorship. We spoke to Instagram user alexys_davis who saw the flag go up on their account on MLK Day after reposting the King tweet. The flag remained on the story all day, according to this user. When we checked again on Jan. 21, the user said that the flag was no longer there, and we verified this by sharing the same post on a personal account. Since Instagram stories disappear after 24 hours, we could only rely on screenshots from MLK Day as evidence that such flagging had indeed occurred. We reached out to Facebook \u2014 Instagram\u2019s parent company \u2014 and received confirmation from a spokesperson for Instagram that those posts had indeed been flagged on that day. \u201cOur systems mistakenly labeled screenshots of this Tweet as vaccine misinformation,\u201d said Raki Wane. \u201cWe have now removed the incorrect label on these posts.\u201d Given that Facebook/Instagram confirmed that King\u2019s tweet had been temporarily flagged due to an error in their system, we rate this claim as \u201cTrue.\u201d ",
+    "category": "Technology"
+   }
+  }
+ ]
+}
