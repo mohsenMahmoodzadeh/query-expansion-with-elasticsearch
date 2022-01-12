@@ -30,7 +30,7 @@ Install the dependencies:
 ```
 pip install -r requirements.txt
 ```
-The dataset is accsessible from [here](https://drive.google.com/file/d/1QO3-UxU3Fpgvn7Vjl-dV5SvkMllIugYZ/view?usp=sharing). Put it on the root directory of your project.
+The dataset is accessible from [here](https://drive.google.com/file/d/1QO3-UxU3Fpgvn7Vjl-dV5SvkMllIugYZ/view?usp=sharing). Put it on the root directory of your project.
 
 
 ## Usage Guide
