@@ -105,7 +105,17 @@ def query(simple_query):
 
 if __name__ == '__main__':
     path = './simple_queries.txt'
-    simple_queries = open(path, 'r')
-
+    simple_queries_file = open(path, 'r')
+    lines = simple_queries_file.readlines()
+    simple_queries_file.close()
+    simple_queries = []
+    
+    for line in lines:
+        line = line.replace('\n', '')
+        line = line.replace('"', '')
+        query = line.split('=')[1]
+        query = query[1: len(query)]
+        simple_queries.append(query)
+    
     for q in simple_queries:
         query(q)
