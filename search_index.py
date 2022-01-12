@@ -2,15 +2,50 @@ import nltk
 import json
 from elasticsearch import Elasticsearch
 from nltk.corpus import wordnet
-from nltk.tokenize import  word_tokenize
+from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 
 
-installation_dir = nltk.find('corpora/wordnet')
-if installation_dir:
-    print('Wordnet is already installed in ' + str(installation_dir))
-else:
-    nltk.download('wordnet')
+installed_packages = 0
+try:
+    wordnet_dir = nltk.find('corpora/wordnet')
+    print('Wordnet is already installed in ' + str(wordnet_dir))
+    installed_packages += 1
+    punkt_dir = nltk.find('tokenizers/punkt')
+    print('Punkt is already installed in ' + str(punkt_dir))
+    installed_packages += 1
+    omw_dir = nltk.find('corpora/omw-1.4')
+    print('Open Multilingual Wordnet(OMW) is already installed in ' + str(omw_dir))
+    installed_packages += 1
+    print()
+except:
+    print('One of these corporas and tokenizers were not installed:\n \t- corpora/wordnet\n \t- corpora/omw-1.4\n \t- tokenizers/punkt')
+    print()
+    print('Installing required packages...')
+    if installed_packages == 0:
+        print('Installing corpora/wordnet...')
+        nltk.download('wordnet')
+        print('corpora/wordnet installed successfully')
+        print()
+        print('Installing tokenizers/punkt...')
+        nltk.download('punkt')
+        print('tokenizers/punkt installed successfully')
+        print()
+        print('Installing corpora/omw-1.4...')
+        nltk.download('omw-1.4')
+        print('corpora/omw-1.4 installed successfully')
+    elif installed_packages == 1:
+        print('Installing tokenizers/punkt...')
+        nltk.download('punkt')
+        print('tokenizers/punkt installed successfully')
+        print()
+        print('Installing corpora/omw-1.4...')
+        nltk.download('omw-1.4')
+        print('corpora/omw-1.4 installed successfully')
+    else:
+        print('Installing corpora/omw-1.4...')
+        nltk.download('omw-1.4')
+        print('corpora/omw-1.4 installed successfully')
 
 elastic_host = {
     "host": "localhost", 
@@ -90,7 +125,7 @@ def query(simple_query):
     
     expanded_query = expand(simple_query)
     expanded_search_result = search(expanded_query)
-    path = './result/extended_queries/'
+    path = './result/expanded_queries/'
     write(
         path, 
         simple_query, 
@@ -113,9 +148,9 @@ if __name__ == '__main__':
     for line in lines:
         line = line.replace('\n', '')
         line = line.replace('"', '')
-        query = line.split('=')[1]
-        query = query[1: len(query)]
-        simple_queries.append(query)
+        q = line.split('=')[1]
+        q = q[1: len(q)]
+        simple_queries.append(q)
     
     for q in simple_queries:
         query(q)
