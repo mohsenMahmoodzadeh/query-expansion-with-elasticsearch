@@ -18,7 +18,7 @@ Clone the repository:
 git clone https://github.com/mohsenMahmoodzadeh/query-expansion-with-Elasticsearch.git
 ```
 
-Create a virtual environement (to avoid conflicts):
+Create a virtual environment (to avoid conflicts):
 ```
 virtualenv -p python3.7 fcquery
 
