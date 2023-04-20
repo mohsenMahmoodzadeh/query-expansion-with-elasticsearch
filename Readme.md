@@ -1,5 +1,5 @@
 # Query Expansion with Elasticsearch & NLTK
-This project is developed in Python + NLTK + Elasticsearch for query expansion over a data. the data crawled from [Snopes Fact checks](https://www.snopes.com/fact-check/) and the designed crawler and its implementation is accessible from this [repository](https://github.com/mohsenMahmoodzadeh/Fact-Checks-Crawler). 
+This project is developed in Python + NLTK + Elasticsearch for query expansion over a data. the data crawled from [Snopes Fact checks](https://www.snopes.com/fact-check/) and the designed crawler and its implementation is accessible from this [repository](https://github.com/mohsenMahmoodzadeh/fact-checks-crawler). 
 
 [Snopes Fact checks](https://www.snopes.com/fact-check/) contains some rumors and questionable claims of the day. After gathering data via the crawler, it's time to index the data into a search engine to use it for retrieving the information. We use Elasticsearch which has a big community and also uses the power of [Apache Lucene](https://lucene.apache.org/) indexing & search tool.
 
@@ -15,7 +15,7 @@ The general idea behind query expansion is that for every token in the query, th
 ## Installation Guide
 Clone the repository:
 ```
-git clone https://github.com/mohsenMahmoodzadeh/query-expansion-with-Elasticsearch.git
+git clone https://github.com/mohsenMahmoodzadeh/query-expansion-with-elasticsearch.git
 ```
 
 Create a virtual environment (to avoid conflicts):
@@ -35,7 +35,7 @@ The dataset is accessible from [here](https://drive.google.com/file/d/1QO3-UxU3F
 
 ## Usage Guide
 
-First of all, download the elasticsearch configuration from [here](https://www.elastic.co/downloads/elasticsearch) and run it according to the installation guide of the website.
+First, download the elasticsearch configuration from [here](https://www.elastic.co/downloads/elasticsearch) and run it according to the installation guide of the website.
 
 After setting up elasticsearch service, run the following command to index the data into elasticsearch engine:
 ```
